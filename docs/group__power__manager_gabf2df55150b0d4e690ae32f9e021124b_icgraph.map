@@ -1,0 +1,5 @@
+<map id="MW_ConfigVlm" name="MW_ConfigVlm">
+<area shape="rect" id="Node000001" title="Configures the Voltage Level Monitor (VLM) with the provided voltage threshold and trigger condition." alt="" coords="133,5,250,33"/>
+<area shape="rect" id="Node000002" href="$group__startup__tasks.html#ga0478337afcc221499b71a78161938456" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,85,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,22,85,22,85,16,117,16"/>
+</map>

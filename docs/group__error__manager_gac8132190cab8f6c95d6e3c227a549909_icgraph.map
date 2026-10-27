@@ -1,0 +1,5 @@
+<map id="MW_DiagErrorChannelEeprom" name="MW_DiagErrorChannelEeprom">
+<area shape="rect" id="Node000001" title="Performs error injection diagnostic to detect faults in the EEPROM error channel." alt="" coords="217,5,426,33"/>
+<area shape="rect" id="Node000002" href="$group__startup__tasks.html#ga417ff18972aee9a35af1825851eaccfc" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,169,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,22,169,22,169,16,201,16"/>
+</map>

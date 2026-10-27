@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="841px" height="511px" viewBox="-0.5 -0.5 841 511" style="background-color: white;">
+	<defs/>
+	<g>
+		<g data-cell-id="F113cmrQ2B0enK_EB_Bs-0">
+			<g data-cell-id="F113cmrQ2B0enK_EB_Bs-1">
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-0">
+					<g>
+						<path d="M 0 0 L 200 0 L 200 25 L 190 40 L 0 40 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+						<path d="M 200 0 L 840 0 L 840 510 L 0 510 L 0 40" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 193px; height: 1px; padding-top: 20px; margin-left: 7px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">sd Handle Shutdown Watchdogs</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="7" y="24" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px">sd Handle Shutdown Watchdogs</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g data-cell-id="F113cmrQ2B0enK_EB_Bs-2">
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-1">
+					<g>
+						<path d="M 320 100 L 320 295 L 320 490" fill="none" stroke="#d79b00" stroke-miterlimit="10" stroke-dasharray="8 8" pointer-events="stroke"/>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-2">
+					<g>
+						<path d="M 100 100 L 100 500" fill="none" stroke="#9673a6" stroke-miterlimit="10" stroke-dasharray="8 8" pointer-events="stroke"/>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-3">
+					<g>
+						<path d="M 105 160 L 270 160 L 306.88 160" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 313.88 160 L 306.88 163.5 L 306.88 156.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 157px; margin-left: 113px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; background-color: rgb(255, 255, 255); white-space: nowrap;">
+												<span style="color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">
+													<font style="font-size: 12px;">Handle Shutdown Watchdogs</font>
+												</span>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="113" y="157" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="11px">Handle Shutdown Watchdogs</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-4">
+					<g>
+						<rect x="95" y="140" width="10" height="320" fill="#e1d5e7" stroke="#000000" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-5">
+					<g>
+						<path d="M 325 240.03 L 440 240 L 526.88 240" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 533.88 240 L 526.88 243.5 L 526.88 236.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 230px; margin-left: 333px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+												<font style="font-size: 12px;">Send SWDT Clear Command</font>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="333" y="233" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="11px">Send SWDT Clear Command</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="hFYz-OpVVFmLiL9CSYny-1">
+					<g>
+						<path d="M 325 380 L 420 380 L 526.88 380" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 533.88 380 L 526.88 383.5 L 526.88 376.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-7">
+					<g>
+						<rect x="315" y="160" width="10" height="280" fill="#ffe6cc" stroke="#000000" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-8">
+					<g>
+						<rect x="20" y="60" width="160" height="40" fill="#e1d5e7" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 80px; margin-left: 100px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+												&lt;&lt;Task Manager&gt;&gt;
+												<br/>
+												<b>
+													Shutdown
+													<br/>
+												</b>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="100" y="84" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">&lt;&lt;Task Manager&gt;&gt;...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-9">
+					<g>
+						<rect x="220" y="60" width="200" height="40" fill="#ffe6cc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 80px; margin-left: 320px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+												&lt;&lt;Task&gt;&gt;
+												<br style="border-color: var(--border-color);"/>
+												<span style="font-weight: 700;">self: Handle Shut Watchdogs</span>
+												<b>
+													<br/>
+												</b>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="320" y="84" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">&lt;&lt;Task&gt;&gt;...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-10">
+					<g>
+						<path d="M 540 100 L 540 295 L 540 490" fill="none" stroke="#6c8ebf" stroke-miterlimit="10" stroke-dasharray="8 8" pointer-events="stroke"/>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-11">
+					<g>
+						<rect x="460" y="60" width="160" height="40" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 80px; margin-left: 540px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+												&lt;&lt;Middleware&gt;&gt;
+												<br/>
+												<b>
+													Watchdog Manager
+													<br/>
+												</b>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="540" y="84" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">&lt;&lt;Middleware&gt;&gt;...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-12">
+					<g>
+						<path d="M 740 100 L 740 295 L 740 490" fill="none" stroke="#b85450" stroke-miterlimit="10" stroke-dasharray="8 8" pointer-events="stroke"/>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-13">
+					<g>
+						<rect x="660" y="60" width="160" height="40" fill="#f8cecc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 80px; margin-left: 740px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+												&lt;&lt;Task&gt;&gt; 
+												<br/>
+												<b>
+													Handle Error
+													<br/>
+												</b>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="740" y="84" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">&lt;&lt;Task&gt;&gt;...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-14">
+					<g>
+						<rect x="735" y="320" width="10" height="40" fill="#f8cecc" stroke="#000000" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-15">
+					<g>
+						<path d="M 324.85 320.8 L 715 320.8 L 726.89 320.32" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 733.88 320.04 L 727.03 323.82 L 726.75 316.83 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 310px; margin-left: 330px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+												<span style="color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;">Handle Error (Error Flag, SWDT Expired ID)</span>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="330" y="313" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="11px">Handle Error (Error Flag, SWDT Expired ID)</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-18">
+					<g>
+						<path d="M 535 280 L 370 280 L 333.12 280" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+						<path d="M 326.12 280 L 333.12 276.5 L 333.12 283.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g data-cell-id="8R3nKPM_T4k15iwm93qL-19">
+						<g>
+							<g transform="translate(-0.5 -0.5)">
+								<switch>
+									<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+										<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 271px; margin-left: 340px;">
+											<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+												<div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+													<font style="font-size: 12px;">Error Flag</font>
+												</div>
+											</div>
+										</div>
+									</foreignObject>
+									<text x="340" y="274" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="11px">Error Flag</text>
+								</switch>
+							</g>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-21">
+					<g>
+						<rect x="535" y="240" width="10" height="40" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-22">
+					<g>
+						<rect x="535" y="380" width="10" height="40" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-24">
+					<g>
+						<path d="M 325 180.03 L 440 180 L 526.88 180" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 533.88 180 L 526.88 183.5 L 526.88 176.5 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 170px; margin-left: 333px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+												<font style="font-size: 12px;">Send SWDT Pre-clear Command</font>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="333" y="173" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="11px">Send SWDT Pre-clear Command</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="8R3nKPM_T4k15iwm93qL-25">
+					<g>
+						<rect x="535" y="180" width="10" height="40" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="hFYz-OpVVFmLiL9CSYny-3">
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 371px; margin-left: 332px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+												<font style="font-size: 12px;">Clear Watchdog Timer</font>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="332" y="374" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="11px">Clear Watchdog Timer</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g data-cell-id="F113cmrQ2B0enK_EB_Bs-3"/>
+		</g>
+	</g>
+	<switch>
+		<g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+		<a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+			<text text-anchor="middle" font-size="10px" x="50%" y="100%">Text is not SVG - cannot display</text>
+		</a>
+	</switch>
+</svg>

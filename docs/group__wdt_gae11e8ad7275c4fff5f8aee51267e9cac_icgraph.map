@@ -1,0 +1,7 @@
+<map id="WDT_WriteControlA" name="WDT_WriteControlA">
+<area shape="rect" id="Node000001" title="Overwrites the CTRLA register value." alt="" coords="201,32,347,60"/>
+<area shape="rect" id="Node000002" href="$group__watchdog__manager.html#ga29086743d0787e05dd075815b96d1469" title="Performs error injection diagnostic to detect faults in the Watchdog Timer (WDT) Expire mechanism." alt="" coords="8,5,150,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,36,150,32,151,26,186,31"/>
+<area shape="rect" id="Node000005" href="$group__watchdog__manager.html#gad4758187b6179f60eb9068432cc94f69" title="Configures and enables the Watchdog Timer (WDT) in either Normal or Window mode." alt="" coords="5,57,153,85"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="186,60,153,64,152,59,185,55"/>
+</map>

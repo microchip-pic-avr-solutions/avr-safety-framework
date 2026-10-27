@@ -1,0 +1,9 @@
+<map id="T_EnsureSafeState" name="T_EnsureSafeState">
+<area shape="rect" id="Node000001" title="Ensures the device is in a Safe State by making sure I/O pins are floated." alt="" coords="5,57,140,85"/>
+<area shape="rect" id="Node000002" href="$group__error__manager.html#gaab9d582ba7aea53ffd0e36c2d5bf837e" title="Checks if all I/O pins are floated (tri&#45;stated)." alt="" coords="210,5,337,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,54,202,35,203,40,130,59"/>
+<area shape="rect" id="Node000004" href="$group__error__manager.html#gae241ba85bb32c4c6a48527b95fe17af8" title="Enables forced floating (tri&#45;stating) of all I/O pins." alt="" coords="193,57,354,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="140,68,177,68,177,74,140,74"/>
+<area shape="rect" id="Node000007" href="$group__memory__manager.html#ga485ad75797acb2ef94989c29f34ee09d" title="Stores two redundant boolean flags in General Purpose Registers (GPR) for preserving data between res..." alt="" coords="188,109,359,137"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="130,83,203,102,202,107,128,88"/>
+</map>

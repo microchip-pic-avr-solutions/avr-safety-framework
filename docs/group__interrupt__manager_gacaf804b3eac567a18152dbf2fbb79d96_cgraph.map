@@ -1,0 +1,5 @@
+<map id="MW_SetIntVectorLayout" name="MW_SetIntVectorLayout">
+<area shape="rect" id="Node000001" title="Configures the expected interrupt vector table location and whether the Compact Vector Table (CVT) fo..." alt="" coords="5,5,173,33"/>
+<area shape="rect" id="Node000002" href="$group__cpuint.html#ga50403f8b697cffd7afeeee0c65b6fe6f" title="Modifies specific bit field(s) in the CTRLA register." alt="" coords="221,5,393,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,16,205,16,205,22,173,22"/>
+</map>

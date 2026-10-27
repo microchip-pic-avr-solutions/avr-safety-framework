@@ -1,0 +1,19 @@
+<map id="ReportClearSwdtChannelError" name="ReportClearSwdtChannelError">
+<area shape="rect" id="Node000001" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,188,212,216"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="317,5,438,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,186,171,117,212,77,258,43,300,27,302,32,261,48,215,81,175,121,121,189"/>
+<area shape="rect" id="Node000023" href="$group__error__manager.html#ga0f46e6936a413fab0a9dd8742635ce8d" title="Clears the specified error channel and confirms that the channel is cleared." alt="" coords="294,57,460,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="124,185,181,141,219,116,259,95,279,88,281,93,261,100,221,121,184,145,128,189"/>
+<area shape="rect" id="Node000026" href="$group__watchdog__manager.html#gaf6029cc629b36b42c83cd84ab37eeb90" title="Clears all the error interrupt flags in the Synchronous Watchdog Timer (SWDT)." alt="" coords="302,109,453,137"/>
+<area shape="poly" id="edge3_Node000001_Node000026" title=" " alt="" coords="147,185,259,147,292,138,293,144,260,152,148,190"/>
+<area shape="rect" id="Node000028" href="$group__error__manager.html#ga607ff4ceda3dc4dd433aee396c76c737" title="Reads the status of the specified error channel." alt="" coords="299,161,456,189"/>
+<area shape="poly" id="edge4_Node000001_Node000028" title=" " alt="" coords="212,189,283,182,284,187,212,194"/>
+<area shape="rect" id="Node000029" href="$group__watchdog__manager.html#ga70d406dafd80efd8170a429fa34b94fa" title="Reads the error flag indicating a non&#45;clear command received while expecting a clear command in the S..." alt="" coords="294,213,461,241"/>
+<area shape="poly" id="edge5_Node000001_Node000029" title=" " alt="" coords="212,209,279,215,278,221,212,214"/>
+<area shape="rect" id="Node000031" href="$group__watchdog__manager.html#ga9225369d8a6a3c2ede5750467902886d" title="Reads the error flag indicating that the Synchronous Watchdog Timer (SWDT) counter expired." alt="" coords="278,265,476,310"/>
+<area shape="poly" id="edge6_Node000001_Node000031" title=" " alt="" coords="152,214,260,250,284,257,282,262,259,255,150,219"/>
+<area shape="rect" id="Node000032" href="$group__watchdog__manager.html#gac61716c7f67cbc3c0659327478b9c92e" title="Reads the error flag indicating a non&#45;preclear command received while expecting a preclear command in..." alt="" coords="285,333,470,361"/>
+<area shape="poly" id="edge7_Node000001_Node000032" title=" " alt="" coords="125,214,181,266,219,295,261,319,275,326,273,330,258,324,216,300,177,270,121,218"/>
+<area shape="rect" id="Node000033" href="$group__watchdog__manager.html#gaff93c4436fddc61000b321fa2dc0d67c" title="Reads the error flag indicating a clear command received in the closed window after a preclear comman..." alt="" coords="260,385,495,413"/>
+<area shape="poly" id="edge8_Node000001_Node000033" title=" " alt="" coords="120,215,141,247,173,290,213,334,261,370,274,377,272,382,258,375,210,337,168,293,137,250,116,217"/>
+</map>

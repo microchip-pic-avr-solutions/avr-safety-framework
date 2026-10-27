@@ -1,0 +1,9 @@
+<map id="MW_SetMainClockFrequency" name="MW_SetMainClockFrequency">
+<area shape="rect" id="Node000001" title="Initializes main clock with internal High Frequency Oscillator (OSCHF) as clock source." alt="" coords="5,57,202,85"/>
+<area shape="rect" id="Node000002" href="$group__clkctrl.html#gac3f5035e364d59a03da9f08387c383ad" title="Modifies specific bit field(s) in the MCLKCTRLA register." alt="" coords="254,5,463,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,54,272,34,273,39,176,59"/>
+<area shape="rect" id="Node000004" href="$group__clkctrl.html#ga70e250ef603937ed8ddf05fac8d714db" title="Modifies specific bit field(s) in the OSCHFCTRLA register." alt="" coords="250,57,467,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="202,68,234,68,234,74,202,74"/>
+<area shape="rect" id="Node000005" href="$group__clkctrl.html#ga6fb4b49c638148b5aa9741c3cfac65f2" title="Overwrites the MCLKCTRLB register value." alt="" coords="258,109,459,137"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="176,83,273,103,272,108,175,88"/>
+</map>

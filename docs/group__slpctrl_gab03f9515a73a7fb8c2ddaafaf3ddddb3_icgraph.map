@@ -1,0 +1,5 @@
+<map id="SLPCTRL_WriteControlA" name="SLPCTRL_WriteControlA">
+<area shape="rect" id="Node000001" title="Overwrites the CTRLA register value." alt="" coords="206,5,376,33"/>
+<area shape="rect" id="Node000002" href="$group__power__manager.html#ga566d8219886b1d8adb8faaefbe32c069" title="Enters the selected device sleep mode." alt="" coords="5,5,158,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,22,158,22,158,16,190,16"/>
+</map>

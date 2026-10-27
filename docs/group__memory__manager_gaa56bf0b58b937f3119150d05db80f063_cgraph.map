@@ -1,0 +1,7 @@
+<map id="MW_GetPersistentVal" name="MW_GetPersistentVal">
+<area shape="rect" id="Node000001" title="Reads a value in General Purpose Registers (GPR) that is stored for preserving data between resets." alt="" coords="5,32,159,60"/>
+<area shape="rect" id="Node000002" href="$group__gpr.html#gaebf3d744a6e73be0a988de387a795db1" title="Reads the GPR0 register value." alt="" coords="207,5,348,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,33,191,28,192,34,159,38"/>
+<area shape="rect" id="Node000003" href="$group__gpr.html#ga8560cbeea01d3d316d2aae3b1379f446" title="Reads the GPR1 register value." alt="" coords="208,57,347,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="159,53,193,58,192,63,159,58"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MW_DiagErrorChannelEeprom" name="MW_DiagErrorChannelEeprom">
+<area shape="rect" id="Node000001" title="Performs error injection diagnostic to detect faults in the EEPROM error channel." alt="" coords="5,57,215,85"/>
+<area shape="rect" id="Node000002" href="$group__shared__middleware__diag.html#ga6f1ac925bac3786a0aa0ae43c81b1a11" title="Restore global interrupts if previously enabled." alt="" coords="270,5,401,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,54,256,35,258,40,174,59"/>
+<area shape="rect" id="Node000004" href="$group__shared__middleware__diag.html#ga68b838ba045a40ea39b2f516f3c3bda3" title="Backup and disable global interrupts." alt="" coords="267,57,404,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="215,68,252,68,252,74,215,74"/>
+<area shape="rect" id="Node000007" href="$group__shared__middleware__diag.html#ga85c8aa30dd05c181cb258a6a4029630e" title="Check Error Controller state and error channels indicated by the channel mask input." alt="" coords="263,109,408,137"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="174,83,258,103,256,108,173,88"/>
+</map>

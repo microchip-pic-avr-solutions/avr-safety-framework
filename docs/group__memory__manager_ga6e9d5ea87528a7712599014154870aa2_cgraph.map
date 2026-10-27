@@ -1,0 +1,7 @@
+<map id="MW_GetClearNvmEccCompError" name="MW_GetClearNvmEccCompError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating an ECC comparator error in the NVM controller." alt="" coords="5,32,228,60"/>
+<area shape="rect" id="Node000002" href="$group__nvmctrl.html#ga4055353c472a9613e4263a4f142f038a" title="Reads the INTFLAGSB register value." alt="" coords="277,5,454,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,31,262,28,262,33,228,37"/>
+<area shape="rect" id="Node000003" href="$group__nvmctrl.html#ga5f9f46c21f213fe5215ef418593b52b2" title="Overwrites the INTFLAGSB register value." alt="" coords="276,57,456,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,55,261,58,260,63,228,60"/>
+</map>

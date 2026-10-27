@@ -1,0 +1,7 @@
+<map id="MW_DiagWdtExpire" name="MW_DiagWdtExpire">
+<area shape="rect" id="Node000001" title="Performs error injection diagnostic to detect faults in the Watchdog Timer (WDT) Expire mechanism." alt="" coords="5,32,148,60"/>
+<area shape="rect" id="Node000002" href="$group__wdt.html#ga5d551015a04b9ada4317d0c7e0eabcf1" title="Reads the CNT register value." alt="" coords="200,5,338,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,33,184,28,185,33,148,39"/>
+<area shape="rect" id="Node000003" href="$group__wdt.html#gae11e8ad7275c4fff5f8aee51267e9cac" title="Overwrites the CTRLA register value." alt="" coords="196,57,342,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,53,180,57,180,62,148,58"/>
+</map>

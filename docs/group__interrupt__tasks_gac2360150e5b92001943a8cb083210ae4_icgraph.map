@@ -1,0 +1,5 @@
+<map id="T_HandleNvmInterrupt" name="T_HandleNvmInterrupt">
+<area shape="rect" id="Node000001" title="Handles NVM interrupts by reporting the Error ID of any detected faults." alt="" coords="189,5,351,33"/>
+<area shape="rect" id="Node000002" href="$group__interrupts.html#ga96e97fa333a281b8642ba544591b2e19" title="Executes the task responsible for handling a NVM Controller (NVMCTRL) error interrupt." alt="" coords="5,5,141,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,22,141,22,141,16,173,16"/>
+</map>

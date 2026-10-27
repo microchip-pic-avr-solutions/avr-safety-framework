@@ -1,0 +1,5 @@
+<map id="ISR_CRCSCAN_INT_vect" name="ISR_CRCSCAN_INT_vect">
+<area shape="rect" id="Node000001" title="Runs the Interrupts Task Manager to handle a CRC Scan (CRCSCAN) interrupt." alt="" coords="5,5,173,33"/>
+<area shape="rect" id="Node000002" href="$group__interrupts.html#gac4510a802e5da57b4a4a9f2d046ac99f" title="Executes the task responsible for handling a CRC Scan (CRCSCAN) interrupt." alt="" coords="221,5,348,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,16,205,16,205,22,173,22"/>
+</map>

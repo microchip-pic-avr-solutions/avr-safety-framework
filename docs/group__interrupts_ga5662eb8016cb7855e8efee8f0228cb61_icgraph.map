@@ -1,0 +1,5 @@
+<map id="TM_InterruptsSwdt" name="TM_InterruptsSwdt">
+<area shape="rect" id="Node000001" title="Executes the task responsible for handling a Synchronous Watchdog Timer (SWDT) interrupt." alt="" coords="198,5,335,33"/>
+<area shape="rect" id="Node000002" href="$group__main__example.html#ga11e88e491ff86923dca544842bcb307b" title="Runs the Interrupts Task Manager to handle a Synchronous Watchdog Timer (SWDT) interrupt." alt="" coords="5,5,150,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,22,150,22,150,16,182,16"/>
+</map>

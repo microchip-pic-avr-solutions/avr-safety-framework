@@ -1,0 +1,7 @@
+<map id="InitPower" name="InitPower">
+<area shape="rect" id="Node000001" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,32,85,60"/>
+<area shape="rect" id="Node000002" href="$group__power__manager.html#gabf2df55150b0d4e690ae32f9e021124b" title="Configures the Voltage Level Monitor (VLM) with the provided voltage threshold and trigger condition." alt="" coords="144,5,262,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,37,128,29,129,34,86,42"/>
+<area shape="rect" id="Node000005" href="$group__power__manager.html#ga80d756398f20de139b8ed2084c63ea86" title="Configures Voltage Monitor (VMON) operation during Standby or Power&#45;Down sleep." alt="" coords="133,57,273,85"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="86,50,118,55,117,60,85,55"/>
+</map>

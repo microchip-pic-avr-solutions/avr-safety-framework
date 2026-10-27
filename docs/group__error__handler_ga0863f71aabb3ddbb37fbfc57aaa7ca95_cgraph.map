@@ -1,0 +1,5 @@
+<map id="EH_ProcessNotificationLog" name="EH_ProcessNotificationLog">
+<area shape="rect" id="Node000001" title="Processes all Error IDs in the log by calling the configured handler callback." alt="" coords="5,5,192,33"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga2505acc92d6561094810d0cf9f296081" title="Pops the last Error ID from the Notification Error Log for error handling." alt="" coords="240,5,404,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,16,224,16,224,22,192,22"/>
+</map>

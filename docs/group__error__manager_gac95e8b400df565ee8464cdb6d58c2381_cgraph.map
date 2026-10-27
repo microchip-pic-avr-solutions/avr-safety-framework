@@ -1,0 +1,7 @@
+<map id="MW_SetAlarmInterruptType" name="MW_SetAlarmInterruptType">
+<area shape="rect" id="Node000001" title="Selects whether a normal or a Non&#45;Maskable Interrupt (NMI) should occur when the Error Controller is ..." alt="" coords="5,32,196,60"/>
+<area shape="rect" id="Node000002" href="$group__errctrl.html#ga299f71cdc72837fb4c4aa71db63668b3" title="Clears specific bits in the CTRLA register." alt="" coords="244,5,415,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,32,228,28,228,34,196,37"/>
+<area shape="rect" id="Node000004" href="$group__errctrl.html#gad93d7ffe898937664141c3e5ba9f1ec7" title="Sets specific bits in the CTRLA register." alt="" coords="250,57,408,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="196,54,235,58,235,63,195,59"/>
+</map>

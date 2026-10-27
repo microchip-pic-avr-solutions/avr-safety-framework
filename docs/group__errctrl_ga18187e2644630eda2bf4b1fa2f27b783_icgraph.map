@@ -1,0 +1,5 @@
+<map id="ERRCTRL_ReadConfigSwdt" name="ERRCTRL_ReadConfigSwdt">
+<area shape="rect" id="Node000001" title="Reads the ESCSWDT register value." alt="" coords="200,5,385,33"/>
+<area shape="rect" id="Node000002" href="$group__watchdog__manager.html#ga2cc21416c89836787d6dbde1a515394f" title="Performs error injection diagnostic to detect faults in the Synchronous Watchdog Timer (SWDT) Expire ..." alt="" coords="5,5,152,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,22,152,22,152,16,184,16"/>
+</map>

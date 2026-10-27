@@ -1,0 +1,5 @@
+<map id="MW_DiagWdtCountEnd" name="MW_DiagWdtCountEnd">
+<area shape="rect" id="Node000001" title="Completes diagnostic to detect faults in the Watchdog Timer (WDT) Counter mechanism." alt="" coords="197,5,363,33"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#gab876afb13e64e05e81f0b240832d6d16" title="Clears the Watchdog Timer (WDT) while performing the WDT count diagnostic." alt="" coords="5,5,149,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,22,149,22,149,16,181,16"/>
+</map>

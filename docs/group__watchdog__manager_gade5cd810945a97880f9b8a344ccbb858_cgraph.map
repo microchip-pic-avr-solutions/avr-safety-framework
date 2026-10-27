@@ -1,0 +1,5 @@
+<map id="MW_ClearWdt" name="MW_ClearWdt">
+<area shape="rect" id="Node000001" title="Clears the Watchdog Timer (WDT) by issuing a Watchdog Reset (WDR) instruction." alt="" coords="5,5,116,33"/>
+<area shape="rect" id="Node000002" href="$group__watchdog__manager.html#gaf23a2f8e22aeae2c97a66c265b6fd22c" title="Issues a Watchdog Reset instruction (WDR) to clear the WDT using assembly." alt="" coords="164,5,339,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,16,148,16,148,22,116,22"/>
+</map>

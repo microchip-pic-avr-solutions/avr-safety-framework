@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="401px" height="351px" viewBox="-0.5 -0.5 401 351" style="background-color: white;">
+	<defs/>
+	<g>
+		<g data-cell-id="FbwkHB9CJOJIOMQKjjT3-0">
+			<g data-cell-id="FbwkHB9CJOJIOMQKjjT3-1">
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-0">
+					<g>
+						<path d="M 0 0 L 160 0 L 160 25 L 150 40 L 0 40 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+						<path d="M 160 0 L 400 0 L 400 350 L 0 350 L 0 40" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 153px; height: 1px; padding-top: 20px; margin-left: 7px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">ad Enter Shutdown Sleep</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="7" y="24" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px">ad Enter Shutdown Sleep</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g data-cell-id="FbwkHB9CJOJIOMQKjjT3-2">
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-50">
+					<g>
+						<path d="M 100 161 L 100 200 L 182.76 200" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 176.88 203.5 L 183.88 200 L 176.88 196.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-2">
+					<g>
+						<rect x="20" y="120" width="160" height="41" rx="6.15" ry="6.15" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 141px; margin-left: 21px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Sleep Mode = Standby</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="100" y="144" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">Sleep Mode = Standby</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-3">
+					<g>
+						<path d="M 200 40 L 200 57.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 196.5 51.88 L 200 58.88 L 203.5 51.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-8">
+					<g>
+						<ellipse cx="200" cy="30" rx="10" ry="10" fill="#000000" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-10">
+					<g>
+						<path d="M 185 80 L 100 80 L 100 117.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 96.5 111.88 L 100 118.88 L 103.5 111.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-11">
+					<g>
+						<path d="M 215 80 L 300 80 L 300 117.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 296.5 111.88 L 300 118.88 L 303.5 111.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-12">
+					<g>
+						<path d="M 200 60 L 215 80 L 200 100 L 185 80 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-31">
+					<g>
+						<rect x="210" y="50" width="140" height="30" fill="none" stroke="none" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 138px; height: 1px; padding-top: 65px; margin-left: 211px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">[Power-Down enabled]</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="280" y="69" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle">[Power-Down enabled]</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-53">
+					<g>
+						<path d="M 200 220 L 200 240 L 200 220 L 200 237.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 196.5 231.88 L 200 238.88 L 203.5 231.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-46">
+					<g>
+						<path d="M 200 180 L 215 200 L 200 220 L 185 200 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-51">
+					<g>
+						<path d="M 300 161 L 300 200 L 217.24 200" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 223.12 196.5 L 216.12 200 L 223.12 203.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-48">
+					<g>
+						<rect x="220" y="120" width="160" height="41" rx="6.15" ry="6.15" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 141px; margin-left: 221px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Sleep Mode = Power-Down</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="300" y="144" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">Sleep Mode = Power-Down</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-55">
+					<g>
+						<path d="M 200 281 L 200 301 L 200 280 L 200 297.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 196.5 291.88 L 200 298.88 L 203.5 291.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-52">
+					<g>
+						<rect x="120" y="240" width="160" height="41" rx="6.15" ry="6.15" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 261px; margin-left: 121px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Enter selected Sleep Mode</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="200" y="264" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">Enter selected Sleep Mode</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="Y7JYxLACh2SCYMXADd7N-54">
+					<g>
+						<ellipse cx="200" cy="315.5" rx="11" ry="11.5" fill="#000000" stroke="#000000" pointer-events="all"/>
+						<ellipse cx="200" cy="315.5" rx="15" ry="15.5" fill="none" stroke="#000000" pointer-events="all"/>
+					</g>
+				</g>
+			</g>
+			<g data-cell-id="FbwkHB9CJOJIOMQKjjT3-3"/>
+		</g>
+	</g>
+	<switch>
+		<g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+		<a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+			<text text-anchor="middle" font-size="10px" x="50%" y="100%">Text is not SVG - cannot display</text>
+		</a>
+	</switch>
+</svg>

@@ -1,0 +1,5 @@
+<map id="TM_InterruptsClock" name="TM_InterruptsClock">
+<area shape="rect" id="Node000001" title="Executes the task responsible for handling a Clock Controller (CLKCTRL) interrupt." alt="" coords="5,5,147,33"/>
+<area shape="rect" id="Node000002" href="$group__interrupt__tasks.html#ga6bf1d72aa560322ee6981351fc2c7a5d" title="Handles Clock interrupts by reporting the Error ID of any detected faults and clearing CFM done flags..." alt="" coords="195,5,363,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,16,179,16,179,22,147,22"/>
+</map>

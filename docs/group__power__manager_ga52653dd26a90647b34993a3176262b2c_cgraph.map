@@ -1,0 +1,7 @@
+<map id="MW_GetClearVmonUnderError" name="MW_GetClearVmonUnderError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating an undervoltage error detected by the Voltage Monitor." alt="" coords="5,32,216,60"/>
+<area shape="rect" id="Node000002" href="$group__slpctrl.html#gafa9212c4a3a2bfb57253eff18ed228b9" title="Reads the INTFLAGS register value." alt="" coords="265,5,428,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,31,249,27,250,33,216,37"/>
+<area shape="rect" id="Node000003" href="$group__slpctrl.html#ga6561e59c74228d99af2d0510c18e7dab" title="Overwrites the INTFLAGS register value." alt="" coords="264,57,429,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,55,248,58,248,63,216,60"/>
+</map>

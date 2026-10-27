@@ -1,0 +1,7 @@
+<map id="MW_EnableGlobalInterrupts" name="MW_EnableGlobalInterrupts">
+<area shape="rect" id="Node000001" title="Enables global interrupts on the device." alt="" coords="198,32,393,60"/>
+<area shape="rect" id="Node000002" href="$group__shutdown__tasks.html#ga1a5488b48c282467dcbdb874aae37746" title="Initializes and prepares the system for safe entry into shutdown sleep modes." alt="" coords="6,5,149,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,35,149,31,150,25,182,29"/>
+<area shape="rect" id="Node000005" href="$group__startup__tasks.html#ga6b125179dc33633c2334c1a647f6a30d" title="Transitions the device from Safe State into Mission Mode." alt="" coords="5,57,150,85"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="183,62,150,65,150,60,182,56"/>
+</map>

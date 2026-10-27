@@ -1,0 +1,7 @@
+<map id="TM_Scheduler" name="TM_Scheduler">
+<area shape="rect" id="Node000001" title="Manages and synchronizes safety system and application Tasks from a user defined schedule." alt="" coords="5,32,112,60"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#ga30a606f4a3c8ae160671307c60c3b304" title="Waits until the current Synchronous Watchdog timeout is completed before clearing and setting the nex..." alt="" coords="160,5,330,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,36,144,31,145,36,112,41"/>
+<area shape="rect" id="Node000035" href="$group__shared__tasks.html#gab876afb13e64e05e81f0b240832d6d16" title="Clears the Watchdog Timer (WDT) while performing the WDT count diagnostic." alt="" coords="173,57,316,85"/>
+<area shape="poly" id="edge2_Node000001_Node000035" title=" " alt="" coords="112,50,158,57,157,62,112,56"/>
+</map>

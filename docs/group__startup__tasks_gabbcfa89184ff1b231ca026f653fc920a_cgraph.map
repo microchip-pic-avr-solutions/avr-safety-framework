@@ -1,0 +1,13 @@
+<map id="RunStartupDiagClock" name="RunStartupDiagClock">
+<area shape="rect" id="Node000001" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,109,155,137"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="231,5,352,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,107,144,75,202,43,219,36,221,41,204,48,147,80,102,111"/>
+<area shape="rect" id="Node000023" href="$group__clock__manager.html#ga1d7c53e68a97d8e3cc76cc45950772c8" title="Starts error injection diagnostic to detect faults in the Clock Failure Detection 0 (CFD0) monitor." alt="" coords="203,57,380,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="139,106,217,87,218,92,140,111"/>
+<area shape="rect" id="Node000030" href="$group__clock__manager.html#gac1c0792179588d0960f6696196fc9b6b" title="Starts error injection diagnostic to detect faults in the Clock Failure Detection 1 (CFD1) monitor." alt="" coords="204,109,379,137"/>
+<area shape="poly" id="edge3_Node000001_Node000030" title=" " alt="" coords="155,120,188,120,188,126,155,126"/>
+<area shape="rect" id="Node000031" href="$group__clock__manager.html#gac0d063cef4101d5f0300aa265abc63ef" title="Performs error injection diagnostic to detect faults in the Clock Frequency Measure 0 (CFM0) monitor." alt="" coords="218,161,365,189"/>
+<area shape="poly" id="edge4_Node000001_Node000031" title=" " alt="" coords="140,135,218,154,217,160,139,140"/>
+<area shape="rect" id="Node000032" href="$group__clock__manager.html#ga5f602f6a69f97263f948f9ae3d17270b" title="Performs error injection diagnostic to detect faults in the Clock Frequency Measure 1 (CFM1) monitor." alt="" coords="219,213,364,241"/>
+<area shape="poly" id="edge5_Node000001_Node000032" title=" " alt="" coords="102,135,147,166,204,198,221,205,219,210,202,203,144,171,99,140"/>
+</map>

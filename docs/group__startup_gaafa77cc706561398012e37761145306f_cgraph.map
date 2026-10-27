@@ -1,0 +1,13 @@
+<map id="TM_Startup" name="TM_Startup">
+<area shape="rect" id="Node000001" title="Manages and synchronizes safety system and application startup Tasks." alt="" coords="5,109,97,137"/>
+<area shape="rect" id="Node000002" href="$group__startup__tasks.html#ga2c15d6926184e0acda5ec85d8ce99af1" title="Retrieves and validates stored Pre&#45;startup error flags from persistent memory and reports them to the..." alt="" coords="145,5,326,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="64,107,98,75,143,44,158,37,160,41,146,48,101,79,67,111"/>
+<area shape="rect" id="Node000028" href="$group__shared__tasks.html#ga30a606f4a3c8ae160671307c60c3b304" title="Waits until the current Synchronous Watchdog timeout is completed before clearing and setting the nex..." alt="" coords="150,57,320,85"/>
+<area shape="poly" id="edge2_Node000001_Node000028" title=" " alt="" coords="97,108,169,87,170,92,98,113"/>
+<area shape="rect" id="Node000040" href="$group__startup__tasks.html#gac902915cd75f58629df86b87887dbd64" title="Initializes the Safety System according to Assumptions of Use and user configurations." alt="" coords="167,109,304,137"/>
+<area shape="poly" id="edge3_Node000001_Node000040" title=" " alt="" coords="97,120,152,120,152,126,97,126"/>
+<area shape="rect" id="Node000105" href="$group__startup__tasks.html#ga149b832df770dee9dc8e30ebca47399c" title="Runs all enabled startup diagnostics and reports any detected faults to the Error Handler." alt="" coords="149,161,322,189"/>
+<area shape="poly" id="edge4_Node000001_Node000105" title=" " alt="" coords="98,133,170,154,169,159,97,139"/>
+<area shape="rect" id="Node000143" href="$group__startup__tasks.html#ga6b125179dc33633c2334c1a647f6a30d" title="Transitions the device from Safe State into Mission Mode." alt="" coords="163,213,308,241"/>
+<area shape="poly" id="edge5_Node000001_Node000143" title=" " alt="" coords="67,135,101,167,146,198,160,205,158,210,143,203,98,171,64,139"/>
+</map>

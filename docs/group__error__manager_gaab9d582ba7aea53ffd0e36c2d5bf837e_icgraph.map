@@ -1,0 +1,7 @@
+<map id="MW_CheckIoSafe" name="MW_CheckIoSafe">
+<area shape="rect" id="Node000001" title="Checks if all I/O pins are floated (tri&#45;stated)." alt="" coords="197,32,324,60"/>
+<area shape="rect" id="Node000002" href="$group__pre__startup__tasks.html#gac785abe91a272761d8ebbdaa57088da9" title="Ensures the device is in a Safe State by making sure I/O pins are floated." alt="" coords="10,5,144,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,37,144,32,145,26,182,32"/>
+<area shape="rect" id="Node000004" href="$group__shutdown__tasks.html#ga1a5488b48c282467dcbdb874aae37746" title="Initializes and prepares the system for safe entry into shutdown sleep modes." alt="" coords="5,57,149,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="182,59,149,64,149,59,181,54"/>
+</map>

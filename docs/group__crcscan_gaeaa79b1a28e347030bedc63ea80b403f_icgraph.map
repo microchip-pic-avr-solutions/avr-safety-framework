@@ -1,0 +1,5 @@
+<map id="CRCSCAN_WriteInputData" name="CRCSCAN_WriteInputData">
+<area shape="rect" id="Node000001" title="Overwrites the DATA register value." alt="" coords="234,5,415,33"/>
+<area shape="rect" id="Node000002" href="$group__checksum__manager.html#ga0d27964ee22f28fb7a1765edabac0595" title="Feeds one byte into an ongoing CRC Manual Mode calculation." alt="" coords="5,5,186,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,22,186,22,186,16,219,16"/>
+</map>

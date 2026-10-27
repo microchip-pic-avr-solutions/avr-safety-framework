@@ -1,0 +1,5 @@
+<map id="MW_SetCrcScanInterrupts" name="MW_SetCrcScanInterrupts">
+<area shape="rect" id="Node000001" title="Configures the interrupt settings for the next CRC Scan of a Flash section." alt="" coords="208,5,387,33"/>
+<area shape="rect" id="Node000002" href="$group__shutdown__tasks.html#gaa3d5e3aa2c3fcc1cb44e2cf4a32eaf6a" title="Verifies Flash integrity by running a CRCSCAN on all enabled Flash sections." alt="" coords="5,5,160,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,22,160,22,160,16,192,16"/>
+</map>

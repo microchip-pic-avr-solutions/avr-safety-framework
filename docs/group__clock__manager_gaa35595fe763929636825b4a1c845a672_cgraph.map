@@ -1,0 +1,7 @@
+<map id="MW_GetClearClockCfm1Error" name="MW_GetClearClockCfm1Error">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating a clock frequency error measured by CFM1." alt="" coords="5,32,209,60"/>
+<area shape="rect" id="Node000002" href="$group__clkctrl.html#gaa12b17b33a60d05ca6249c858a0a9d9b" title="Reads the MCLKINTFLAGS register value." alt="" coords="258,5,422,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,32,242,28,243,33,209,37"/>
+<area shape="rect" id="Node000003" href="$group__clkctrl.html#gafcb1e604535697a733c63f4c07697749" title="Overwrites the MCLKINTFLAGS register value." alt="" coords="257,57,424,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="209,54,242,58,241,63,209,60"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="T_HandleRamInterrupt" name="T_HandleRamInterrupt">
+<area shape="rect" id="Node000001" title="Handles RAM interrupts by reporting the Error ID of any detected faults." alt="" coords="188,5,349,33"/>
+<area shape="rect" id="Node000002" href="$group__interrupts.html#gac69afebb3b0c5bcac0bb573c03fa7923" title="Executes the task responsible for handling a RAM Controller (RAMCTRL) error interrupt." alt="" coords="5,5,140,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,22,140,22,140,16,172,16"/>
+</map>

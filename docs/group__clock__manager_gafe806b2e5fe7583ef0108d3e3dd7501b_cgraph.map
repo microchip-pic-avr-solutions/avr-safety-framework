@@ -1,0 +1,5 @@
+<map id="MW_StopCfm1" name="MW_StopCfm1">
+<area shape="rect" id="Node000001" title="Disables Clock Frequency Measure 1 (CFM1)." alt="" coords="5,5,118,33"/>
+<area shape="rect" id="Node000002" href="$group__clkctrl.html#ga44924e4700056ca5aa14ee6006a4d672" title="Clears specific bits in the MCLKCFM1CTRLA register." alt="" coords="166,5,369,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,16,150,16,150,22,118,22"/>
+</map>

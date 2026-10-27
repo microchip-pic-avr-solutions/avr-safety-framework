@@ -1,0 +1,5 @@
+<map id="InitPower" name="InitPower">
+<area shape="rect" id="Node000001" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="190,5,269,33"/>
+<area shape="rect" id="Node000002" href="$group__startup__tasks.html#gac902915cd75f58629df86b87887dbd64" title="Initializes the Safety System according to Assumptions of Use and user configurations." alt="" coords="5,5,142,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,22,142,22,142,16,174,16"/>
+</map>

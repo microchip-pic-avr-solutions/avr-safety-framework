@@ -1,0 +1,7 @@
+<map id="T_HandleWatchdog" name="T_HandleWatchdog">
+<area shape="rect" id="Node000001" title="Clears the Watchdog Timer (WDT) while performing the WDT count diagnostic." alt="" coords="162,32,305,60"/>
+<area shape="rect" id="Node000002" href="$group__scheduler.html#ga6b38c1babeec44d857f14f3c38c88e72" title="Manages and synchronizes safety system and application Tasks from a user defined schedule." alt="" coords="6,5,113,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,35,113,30,113,25,147,30"/>
+<area shape="rect" id="Node000004" href="$group__shutdown.html#gad3975e9eed47a5c787388cf1a4bf3341" title="Manages Tasks that ensure safe execution of device sleeping in Standby or Power&#45;Down mode." alt="" coords="5,57,114,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="147,61,114,66,114,61,146,56"/>
+</map>

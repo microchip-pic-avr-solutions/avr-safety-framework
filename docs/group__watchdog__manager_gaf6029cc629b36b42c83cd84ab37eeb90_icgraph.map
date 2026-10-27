@@ -1,0 +1,7 @@
+<map id="MW_ClearSwdtErrors" name="MW_ClearSwdtErrors">
+<area shape="rect" id="Node000001" title="Clears all the error interrupt flags in the Synchronous Watchdog Timer (SWDT)." alt="" coords="260,32,411,60"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#ga40767a464b76824800e0f407d8691462" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,212,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,38,212,34,212,29,244,32"/>
+<area shape="rect" id="Node000003" href="$group__interrupt__tasks.html#gac24623cbad6f695cd281b0128707a8ad" title="Handles SWDT interrupts by reporting the Error ID of any detected faults." alt="" coords="26,57,191,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,59,191,65,191,59,244,53"/>
+</map>

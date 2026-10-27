@@ -1,0 +1,5 @@
+<map id="MW_DiagClockCfm1" name="MW_DiagClockCfm1">
+<area shape="rect" id="Node000001" title="Performs error injection diagnostic to detect faults in the Clock Frequency Measure 1 (CFM1) monitor." alt="" coords="203,5,348,33"/>
+<area shape="rect" id="Node000002" href="$group__startup__tasks.html#gabbcfa89184ff1b231ca026f653fc920a" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,155,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,22,155,22,155,16,187,16"/>
+</map>

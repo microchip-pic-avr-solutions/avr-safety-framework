@@ -1,0 +1,21 @@
+<map id="RunStartupDiagErrorCh" name="RunStartupDiagErrorCh">
+<area shape="rect" id="Node000001" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,213,169,241"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="261,5,382,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,212,108,177,135,132,170,84,215,44,244,29,247,34,218,48,174,88,139,135,113,180,97,214"/>
+<area shape="rect" id="Node000023" href="$group__error__manager.html#gafadfbd939d053cb5cf3a431a637f6917" title="Performs error injection diagnostic to detect faults in the CFD0 error channel." alt="" coords="226,57,417,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="96,211,143,155,177,123,215,96,229,89,231,94,218,100,180,127,147,159,100,215"/>
+<area shape="rect" id="Node000029" href="$group__error__manager.html#ga018e7674b7f5ae7e90e67e6d05138506" title="Performs error injection diagnostic to detect faults in the CFD1 error channel." alt="" coords="227,109,416,137"/>
+<area shape="poly" id="edge3_Node000001_Node000029" title=" " alt="" coords="106,211,155,179,216,147,237,139,239,144,218,152,157,184,109,215"/>
+<area shape="rect" id="Node000030" href="$group__error__manager.html#gab576ac1d17c090709fb4d0ca08b72e67" title="Performs error injection diagnostic to detect faults in the CFM0 error channel." alt="" coords="224,161,419,189"/>
+<area shape="poly" id="edge4_Node000001_Node000030" title=" " alt="" coords="152,210,240,190,241,196,153,215"/>
+<area shape="rect" id="Node000031" href="$group__error__manager.html#ga8e46f364e7e9fc741cc0a2685f274836" title="Performs error injection diagnostic to detect faults in the CFM1 error channel." alt="" coords="225,213,418,241"/>
+<area shape="poly" id="edge5_Node000001_Node000031" title=" " alt="" coords="169,224,209,224,209,230,169,230"/>
+<area shape="rect" id="Node000032" href="$group__error__manager.html#gac8132190cab8f6c95d6e3c227a549909" title="Performs error injection diagnostic to detect faults in the EEPROM error channel." alt="" coords="217,265,426,293"/>
+<area shape="poly" id="edge6_Node000001_Node000032" title=" " alt="" coords="153,239,241,259,240,264,152,244"/>
+<area shape="rect" id="Node000033" href="$group__error__manager.html#ga5376a4e6406b7baafa8505b820f8b7f1" title="Performs error injection diagnostic to detect faults in the EVSYS0 error channel." alt="" coords="221,317,422,345"/>
+<area shape="poly" id="edge7_Node000001_Node000033" title=" " alt="" coords="109,239,157,271,218,302,239,310,237,315,216,307,155,275,106,244"/>
+<area shape="rect" id="Node000034" href="$group__error__manager.html#gafafe6879b2844c6e28e4e91ba2103122" title="Performs error injection diagnostic to detect faults in the EVSYS1 error channel." alt="" coords="222,369,421,397"/>
+<area shape="poly" id="edge8_Node000001_Node000034" title=" " alt="" coords="100,240,147,296,180,327,218,354,231,361,229,366,215,359,177,332,143,299,96,243"/>
+<area shape="rect" id="Node000035" href="$group__error__manager.html#ga7ed9e9ae9fb78150a2f20292f595b0fb" title="Performs error injection diagnostic to detect faults in the SPLIM error channel." alt="" coords="224,421,419,449"/>
+<area shape="poly" id="edge9_Node000001_Node000035" title=" " alt="" coords="97,240,113,275,139,320,174,367,218,406,228,412,225,417,215,411,170,370,135,323,108,277,92,243"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CLKCTRL_WriteCfm0RefNum" name="CLKCTRL_WriteCfm0RefNum">
+<area shape="rect" id="Node000001" title="Overwrites the MCLKCFM0REFNUM register value." alt="" coords="169,5,369,33"/>
+<area shape="rect" id="Node000002" href="$group__clock__manager.html#ga873434084b1be33ee0adbdb63e972360" title="Starts Clock Frequency Measure 0 (CFM0) to monitor the configured clock source with the configured re..." alt="" coords="5,5,121,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,22,121,22,121,16,153,16"/>
+</map>

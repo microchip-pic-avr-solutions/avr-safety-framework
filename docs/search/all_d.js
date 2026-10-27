@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['passing_5fecc_5fsyndrome_0',['PASSING_ECC_SYNDROME',['../midware__memory__manager__diag_8c.html#ae34783f511943522ab72f6d2d1473d85',1,'midware_memory_manager_diag.c']]],
+  ['periodic_5fcrcscan_1',['PERIODIC_CRCSCAN',['../group__tasks__config.html#ga8d9832611c4f9a5d66ca8825f9d0b851',1,'tasks_config.h']]],
+  ['periodic_5fcrcscan_5fpit_2',['PERIODIC_CRCSCAN_PIT',['../group__tasks__config.html#ga2b861a8326a93d7cfb68ba98b977c9b6',1,'tasks_config.h']]],
+  ['persistentflag_5ft_3',['persistentFlag_t',['../group__memory__manager.html#ga6ac3fae43818006d63db986906a96e65',1,'midware_memory_manager.h']]],
+  ['persistentval_5ft_4',['persistentVal_t',['../group__memory__manager.html#ga35e098390d8349996dcc2bcfe5461450',1,'midware_memory_manager.h']]],
+  ['pflag_5fcpu_5finj_5ffault_5',['PFLAG_CPU_INJ_FAULT',['../group__memory__manager.html#gga6ac3fae43818006d63db986906a96e65aa37e99ddc61eea5439645d1b3cc003cc',1,'midware_memory_manager.h']]],
+  ['pflag_5ferrinj_5fongoing_6',['PFLAG_ERRINJ_ONGOING',['../group__memory__manager.html#gga6ac3fae43818006d63db986906a96e65a1608137564dfd2dbcaefefb7f539e8f8',1,'midware_memory_manager.h']]],
+  ['pflag_5fio_5ffloat_5ffault_7',['PFLAG_IO_FLOAT_FAULT',['../group__memory__manager.html#gga6ac3fae43818006d63db986906a96e65a7b78b793e7b3115cd8b2e862344f4435',1,'midware_memory_manager.h']]],
+  ['pflag_5fmax_8',['PFLAG_MAX',['../group__memory__manager.html#gga6ac3fae43818006d63db986906a96e65a1417e5a5468d5a6ca7cda442a8fef58b',1,'midware_memory_manager.h']]],
+  ['pflag_5fswdt_5finj_5ffault_9',['PFLAG_SWDT_INJ_FAULT',['../group__memory__manager.html#gga6ac3fae43818006d63db986906a96e65ae3581f418fb95f677c3565b80973b8f2',1,'midware_memory_manager.h']]],
+  ['pflag_5fwdt_5finj_5ffault_10',['PFLAG_WDT_INJ_FAULT',['../group__memory__manager.html#gga6ac3fae43818006d63db986906a96e65a14c565d4579b4bf25f2a0a1b641fbeb3',1,'midware_memory_manager.h']]],
+  ['power_20consumption_20further_20in_20shutdown_20sleep_11',['Reducing Power Consumption Further in Shutdown Sleep',['../tips_and_tricks.html#tip_15',1,'']]],
+  ['power_20down_20sleep_12',['Task Manager For Standby And Power-down Sleep',['../optional_apis_and_configs.html#opt_api_shutdown',1,'']]],
+  ['power_20manager_13',['Power Manager',['../group__power__manager.html',1,'']]],
+  ['pre_20startup_14',['Pre-startup',['../group__pre__startup.html',1,'']]],
+  ['pre_20startup_20tasks_15',['Pre-startup Tasks',['../group__pre__startup__tasks.html',1,'']]],
+  ['pre_5fstartup_5fswdt_5freset_5fval_16',['PRE_STARTUP_SWDT_RESET_VAL',['../group__tasks__config.html#ga5a698479b1d14e9addf42f40e6403a13',1,'tasks_config.h']]],
+  ['premain_17',['PreMain',['../group__main__example.html#ga44898f9f5d50ae29492f943dd187c4a5',1,'main_example.c']]],
+  ['process_18',['Development Process',['../index.html#dev_process',1,'']]],
+  ['pval_5ferrid_5freason_19',['PVAL_ERRID_REASON',['../group__memory__manager.html#gga35e098390d8349996dcc2bcfe5461450aceede39984ce9c9c9fefda70983407a6',1,'midware_memory_manager.h']]],
+  ['pval_5ferrinj_5freason_20',['PVAL_ERRINJ_REASON',['../group__memory__manager.html#gga35e098390d8349996dcc2bcfe5461450ac03e21cd8e9b0f5f68ccc0358c019bb2',1,'midware_memory_manager.h']]],
+  ['pval_5fmax_21',['PVAL_MAX',['../group__memory__manager.html#gga35e098390d8349996dcc2bcfe5461450a7ce98cf91ef32e74d65ac8ab0c6f84b7',1,'midware_memory_manager.h']]],
+  ['pval_5freset_5freason_22',['PVAL_RESET_REASON',['../group__memory__manager.html#gga35e098390d8349996dcc2bcfe5461450a3d4fa9732c8e8f83fe0f451f6368271b',1,'midware_memory_manager.h']]]
+];

@@ -1,0 +1,7 @@
+<map id="MW_GetClearClockCfm1Error" name="MW_GetClearClockCfm1Error">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating a clock frequency error measured by CFM1." alt="" coords="262,32,465,60"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#gadd7f8c916cf7fe26a012cd22b752a34e" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,214,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="246,36,214,33,214,27,246,31"/>
+<area shape="rect" id="Node000003" href="$group__interrupt__tasks.html#ga6bf1d72aa560322ee6981351fc2c7a5d" title="Handles Clock interrupts by reporting the Error ID of any detected faults and clearing CFM done flags..." alt="" coords="25,57,194,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,60,195,65,194,60,246,55"/>
+</map>

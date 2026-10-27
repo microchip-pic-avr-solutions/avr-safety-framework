@@ -1,0 +1,7 @@
+<map id="GPR_WriteRegister0" name="GPR_WriteRegister0">
+<area shape="rect" id="Node000001" title="Overwrites the GPR0 register value." alt="" coords="223,32,367,60"/>
+<area shape="rect" id="Node000002" href="$group__memory__manager.html#ga21ac0a2a9a132045648a676323529fa2" title="Clears all stored persistent values in GPR." alt="" coords="5,5,175,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,37,175,33,175,28,208,32"/>
+<area shape="rect" id="Node000004" href="$group__memory__manager.html#ga288fde0388a5c29a2aeaaa4ae961dd66" title="Stores a value in General Purpose Registers (GPR) for preserving data between resets." alt="" coords="8,57,172,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="208,59,173,64,172,58,207,54"/>
+</map>

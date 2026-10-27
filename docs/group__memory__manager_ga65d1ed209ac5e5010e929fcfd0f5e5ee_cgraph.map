@@ -1,0 +1,19 @@
+<map id="MW_DiagRamEcc" name="MW_DiagRamEcc">
+<area shape="rect" id="Node000001" title="This function performs error injection diagnostic to detect faults in the redundant RAMCTRL ECC check..." alt="" coords="5,188,132,216"/>
+<area shape="rect" id="Node000002" href="$group__shared__middleware__diag.html#ga6f1ac925bac3786a0aa0ae43c81b1a11" title="Restore global interrupts if previously enabled." alt="" coords="211,5,342,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,186,110,118,141,78,178,44,195,34,198,39,181,48,145,82,115,121,78,189"/>
+<area shape="rect" id="Node000004" href="$group__shared__middleware__diag.html#ga68b838ba045a40ea39b2f516f3c3bda3" title="Backup and disable global interrupts." alt="" coords="208,57,344,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="79,186,120,141,147,117,178,96,193,89,195,93,181,100,151,121,123,145,83,189"/>
+<area shape="rect" id="Node000007" href="$group__cpuctrl.html#ga072060db2ba6c28b982eb035236d0ffa" title="Clears specific bits in the CTRLA register." alt="" coords="190,109,363,137"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="96,185,179,147,202,139,204,144,181,152,98,190"/>
+<area shape="rect" id="Node000009" href="$group__cpuctrl.html#ga3f32dce54116f2d94354960f48e07eee" title="Sets specific bits in the CTRLA register." alt="" coords="196,161,356,189"/>
+<area shape="poly" id="edge4_Node000001_Node000009" title=" " alt="" coords="132,191,180,185,181,190,132,196"/>
+<area shape="rect" id="Node000010" href="$group__errctrl.html#ga3d3d9a38b1238337205764d4950fea97" title="Reads the ESCBUSERR register value." alt="" coords="180,213,373,241"/>
+<area shape="poly" id="edge5_Node000001_Node000010" title=" " alt="" coords="132,207,164,211,164,216,132,212"/>
+<area shape="rect" id="Node000011" href="$group__errctrl.html#gac32c75197e432020938baa85713d233e" title="Reads the ESCRAM1 register value." alt="" coords="182,265,370,293"/>
+<area shape="poly" id="edge6_Node000001_Node000011" title=" " alt="" coords="99,214,181,250,204,258,202,263,179,255,97,219"/>
+<area shape="rect" id="Node000012" href="$group__errctrl.html#gaf01d0b68736fce989ab7481effe0c45b" title="Reads the ESCRAM2 register value." alt="" coords="182,317,371,345"/>
+<area shape="poly" id="edge7_Node000001_Node000012" title=" " alt="" coords="83,214,123,258,151,282,181,302,195,309,193,314,178,307,148,286,120,262,79,218"/>
+<area shape="rect" id="Node000013" href="$group__shared__middleware__diag.html#ga85c8aa30dd05c181cb258a6a4029630e" title="Check Error Controller state and error channels indicated by the channel mask input." alt="" coords="204,369,349,397"/>
+<area shape="poly" id="edge8_Node000001_Node000013" title=" " alt="" coords="78,215,115,282,145,321,181,354,191,360,188,365,178,359,141,325,111,285,74,218"/>
+</map>

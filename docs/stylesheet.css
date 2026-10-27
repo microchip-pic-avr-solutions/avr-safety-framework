@@ -1,0 +1,32 @@
+#projectlogo {
+    text-align: center;
+    vertical-align: middle;
+    border-collapse: separate;
+}
+
+#projectlogo img {
+    max-width: 200px;
+    max-height: 55px;
+    width: auto;
+    height: auto;
+    border: 0px none;
+}
+
+/* Copyright / license notice callout */
+dl.section.copyright {
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    overflow: hidden;
+    background: var(--blockquote-background-color);
+    border-left: 8px solid var(--blockquote-border-color);
+    font-size: 90%;
+}
+
+dl.section.copyright dt {
+    color: var(--toc-header-color);
+}
+
+dl.section.copyright dd {
+    margin-inline-start: 0px;
+}

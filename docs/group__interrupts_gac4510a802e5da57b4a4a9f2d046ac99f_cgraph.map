@@ -1,0 +1,5 @@
+<map id="TM_InterruptsCrc" name="TM_InterruptsCrc">
+<area shape="rect" id="Node000001" title="Executes the task responsible for handling a CRC Scan (CRCSCAN) interrupt." alt="" coords="5,5,133,33"/>
+<area shape="rect" id="Node000002" href="$group__interrupt__tasks.html#ga9af53313c2f7f92bb9d0776e7cf7f03e" title="Handles CRC Flash scanning interrupts by clearing the periodic interrupt bit and reporting the Error ..." alt="" coords="181,5,335,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,16,165,16,165,22,133,22"/>
+</map>

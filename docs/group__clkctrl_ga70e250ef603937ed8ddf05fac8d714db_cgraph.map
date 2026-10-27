@@ -1,0 +1,5 @@
+<map id="CLKCTRL_ModifyOscHfControlA" name="CLKCTRL_ModifyOscHfControlA">
+<area shape="rect" id="Node000001" title="Modifies specific bit field(s) in the OSCHFCTRLA register." alt="" coords="5,5,223,33"/>
+<area shape="rect" id="Node000002" href="$group__ccp__utility.html#gae87c39ed3ac0f3733e3990e460b62859" title="Writes value to a Configuration Change Protected (CCP) 8&#45;bit register." alt="" coords="271,5,389,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,16,255,16,255,22,223,22"/>
+</map>

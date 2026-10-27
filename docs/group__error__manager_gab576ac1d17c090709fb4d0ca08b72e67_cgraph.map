@@ -1,0 +1,9 @@
+<map id="MW_DiagErrorChannelCfm0" name="MW_DiagErrorChannelCfm0">
+<area shape="rect" id="Node000001" title="Performs error injection diagnostic to detect faults in the CFM0 error channel." alt="" coords="5,57,201,85"/>
+<area shape="rect" id="Node000002" href="$group__shared__middleware__diag.html#ga6f1ac925bac3786a0aa0ae43c81b1a11" title="Restore global interrupts if previously enabled." alt="" coords="256,5,387,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,54,245,35,246,40,165,59"/>
+<area shape="rect" id="Node000004" href="$group__shared__middleware__diag.html#ga68b838ba045a40ea39b2f516f3c3bda3" title="Backup and disable global interrupts." alt="" coords="253,57,390,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="201,68,238,68,238,74,201,74"/>
+<area shape="rect" id="Node000007" href="$group__shared__middleware__diag.html#ga85c8aa30dd05c181cb258a6a4029630e" title="Check Error Controller state and error channels indicated by the channel mask input." alt="" coords="249,109,394,137"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="165,83,246,103,245,108,164,88"/>
+</map>

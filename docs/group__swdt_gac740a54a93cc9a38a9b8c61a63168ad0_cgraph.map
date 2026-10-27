@@ -1,0 +1,5 @@
+<map id="SWDT_WriteWindowValue" name="SWDT_WriteWindowValue">
+<area shape="rect" id="Node000001" title="Overwrites the WINDOW register value." alt="" coords="5,5,187,33"/>
+<area shape="rect" id="Node000002" href="$group__ccp__utility.html#ga516eb07209f12dea1f8b1b963c61207f" title="Writes value to a Configuration Change Protected (CCP) 16&#45;bit register." alt="" coords="235,5,359,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,16,219,16,219,22,187,22"/>
+</map>

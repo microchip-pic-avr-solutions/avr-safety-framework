@@ -1,0 +1,7 @@
+<map id="MW_GetClearRamStackError" name="MW_GetClearRamStackError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating a stack pointer limit error in SRAM." alt="" coords="5,32,202,60"/>
+<area shape="rect" id="Node000002" href="$group__cpuctrl.html#gad00d23ccb1b52fc677659ff8051382bc" title="Reads the INTFLAGS register value." alt="" coords="251,5,418,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,32,235,28,236,33,203,37"/>
+<area shape="rect" id="Node000003" href="$group__cpuctrl.html#gaebf883e85b87f59b699b5d0092d32c1e" title="Overwrites the INTFLAGS register value." alt="" coords="250,57,419,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,54,234,58,234,63,202,59"/>
+</map>

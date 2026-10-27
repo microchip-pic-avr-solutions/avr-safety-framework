@@ -1,0 +1,5 @@
+<map id="BODCTRL_ModifyIntControl" name="BODCTRL_ModifyIntControl">
+<area shape="rect" id="Node000001" title="Modifies specific bit field(s) in the INTCTRL register." alt="" coords="171,5,363,33"/>
+<area shape="rect" id="Node000002" href="$group__power__manager.html#gabf2df55150b0d4e690ae32f9e021124b" title="Configures the Voltage Level Monitor (VLM) with the provided voltage threshold and trigger condition." alt="" coords="5,5,123,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="155,22,123,22,123,16,155,16"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MW_GetClearCrcDoneError" name="MW_GetClearCrcDoneError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating a CRC Scan of Flash is done and returns the scan result." alt="" coords="208,5,397,33"/>
+<area shape="rect" id="Node000002" href="$group__interrupt__tasks.html#ga9af53313c2f7f92bb9d0776e7cf7f03e" title="Handles CRC Flash scanning interrupts by clearing the periodic interrupt bit and reporting the Error ..." alt="" coords="5,5,160,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,22,160,22,160,16,192,16"/>
+</map>

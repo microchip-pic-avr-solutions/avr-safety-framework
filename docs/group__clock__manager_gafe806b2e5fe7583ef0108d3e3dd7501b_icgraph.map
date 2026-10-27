@@ -1,0 +1,5 @@
+<map id="MW_StopCfm1" name="MW_StopCfm1">
+<area shape="rect" id="Node000001" title="Disables Clock Frequency Measure 1 (CFM1)." alt="" coords="197,5,309,33"/>
+<area shape="rect" id="Node000002" href="$group__shutdown__tasks.html#ga1a5488b48c282467dcbdb874aae37746" title="Initializes and prepares the system for safe entry into shutdown sleep modes." alt="" coords="5,5,149,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,22,149,22,149,16,181,16"/>
+</map>

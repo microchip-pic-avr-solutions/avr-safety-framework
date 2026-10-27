@@ -1,0 +1,5 @@
+<map id="T_DetermineResetReason" name="T_DetermineResetReason">
+<area shape="rect" id="Node000001" title="Determines the reason for the last device reset and stores it for later handling." alt="" coords="165,5,341,33"/>
+<area shape="rect" id="Node000002" href="$group__pre__startup.html#ga701184f0da98991964444f4558e9456e" title="Manages safety system Pre&#45;startup Tasks." alt="" coords="5,5,117,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,22,117,22,117,16,149,16"/>
+</map>

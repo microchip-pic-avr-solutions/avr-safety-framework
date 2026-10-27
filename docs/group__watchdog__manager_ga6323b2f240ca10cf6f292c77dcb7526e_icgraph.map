@@ -1,0 +1,5 @@
+<map id="MW_DiagSwdtCount" name="MW_DiagSwdtCount">
+<area shape="rect" id="Node000001" title="Performs diagnostic to detect faults in the Synchronous Watchdog Timer (SWDT) Counter mechanism." alt="" coords="224,5,370,33"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#ga30a606f4a3c8ae160671307c60c3b304" title="Waits until the current Synchronous Watchdog timeout is completed before clearing and setting the nex..." alt="" coords="5,5,176,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,22,176,22,176,16,208,16"/>
+</map>

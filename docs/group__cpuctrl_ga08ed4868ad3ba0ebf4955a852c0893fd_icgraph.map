@@ -1,0 +1,11 @@
+<map id="CPUCTRL_ReadStatusRegister" name="CPUCTRL_ReadStatusRegister">
+<area shape="rect" id="Node000001" title="Reads the SREG register value." alt="" coords="249,84,451,112"/>
+<area shape="rect" id="Node000002" href="$group__shared__middleware__diag.html#ga68b838ba045a40ea39b2f516f3c3bda3" title="Backup and disable global interrupts." alt="" coords="35,5,171,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="295,81,200,48,158,36,160,31,201,43,296,76"/>
+<area shape="rect" id="Node000036" href="$group__error__manager.html#ga297fd245072aac904e53cf9a9c94564f" title="Sets the error controller timeout duration and configures all error channels with the provided settin..." alt="" coords="12,57,194,85"/>
+<area shape="poly" id="edge2_Node000001_Node000036" title=" " alt="" coords="233,88,194,84,194,78,233,83"/>
+<area shape="rect" id="Node000039" href="$group__interrupt__manager.html#ga11949a5a036cd83e72aecd820a94788b" title="Enables global interrupts on the device." alt="" coords="5,109,201,137"/>
+<area shape="poly" id="edge3_Node000001_Node000039" title=" " alt="" coords="233,112,201,116,201,110,233,107"/>
+<area shape="rect" id="Node000042" href="$group__interrupt__manager.html#ga4e74c7084a038f39180380ef421fcd99" title="Enters a critical section by disabling global interrupts." alt="" coords="17,161,189,189"/>
+<area shape="poly" id="edge4_Node000001_Node000042" title=" " alt="" coords="295,120,201,151,159,163,158,158,200,146,293,115"/>
+</map>

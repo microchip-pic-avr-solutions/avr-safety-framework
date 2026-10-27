@@ -1,0 +1,5 @@
+<map id="EH_ProcessNotificationLog" name="EH_ProcessNotificationLog">
+<area shape="rect" id="Node000001" title="Processes all Error IDs in the log by calling the configured handler callback." alt="" coords="242,5,428,33"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#gae803dafb57af50cddeb8645cee1e1c99" title="Ensures Error IDs with &#39;NOTIFICATION&#39; criticality are handled." alt="" coords="5,5,194,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,22,194,22,194,16,226,16"/>
+</map>

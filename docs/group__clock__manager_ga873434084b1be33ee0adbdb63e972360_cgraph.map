@@ -1,0 +1,13 @@
+<map id="MW_StartCfm0" name="MW_StartCfm0">
+<area shape="rect" id="Node000001" title="Starts Clock Frequency Measure 0 (CFM0) to monitor the configured clock source with the configured re..." alt="" coords="5,109,121,137"/>
+<area shape="rect" id="Node000002" href="$group__clkctrl.html#gaf876efbf378f544f95e526ac3ef3c650" title="Overwrites the MCLKCFM0CTRLA register value." alt="" coords="181,5,387,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,107,116,75,167,43,187,36,189,41,170,48,120,79,81,111"/>
+<area shape="rect" id="Node000004" href="$group__clkctrl.html#ga3ca39e32990e88155dce728111ead38b" title="Overwrites the MCLKCFM0CTRLB register value." alt="" coords="181,57,387,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="121,107,168,95,205,86,206,92,169,100,122,112"/>
+<area shape="rect" id="Node000005" href="$group__clkctrl.html#ga875ea1a29f91ae6b58d16ff2c2e1ab30" title="Overwrites the MCLKCFM0REFNUM register value." alt="" coords="184,109,384,137"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="121,120,168,120,168,126,121,126"/>
+<area shape="rect" id="Node000006" href="$group__clkctrl.html#ga8e3f509e94b74e0b74daa345c10bb1fb" title="Overwrites the MCLKCFM0WINHT register value." alt="" coords="169,161,399,189"/>
+<area shape="poly" id="edge4_Node000001_Node000006" title=" " alt="" coords="122,134,169,146,206,155,205,160,168,151,121,140"/>
+<area shape="rect" id="Node000007" href="$group__clkctrl.html#gad08767953b6c7405789167d19c0ce2d1" title="Overwrites the MCLKCFM0WINLT register value." alt="" coords="171,213,397,241"/>
+<area shape="poly" id="edge5_Node000001_Node000007" title=" " alt="" coords="81,135,120,167,170,198,189,206,187,211,167,203,116,172,78,139"/>
+</map>

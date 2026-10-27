@@ -1,0 +1,5 @@
+<map id="SLPCTRL_WriteVregControl" name="SLPCTRL_WriteVregControl">
+<area shape="rect" id="Node000001" title="Overwrites the VREGCTRL register value." alt="" coords="5,5,196,33"/>
+<area shape="rect" id="Node000002" href="$group__ccp__utility.html#gae87c39ed3ac0f3733e3990e460b62859" title="Writes value to a Configuration Change Protected (CCP) 8&#45;bit register." alt="" coords="244,5,362,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,16,228,16,228,22,196,22"/>
+</map>

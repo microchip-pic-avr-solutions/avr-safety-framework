@@ -1,0 +1,5 @@
+<map id="MW_DiagRamParity" name="MW_DiagRamParity">
+<area shape="rect" id="Node000001" title="This function performs error injection diagnostic to detect faults in the RAM parity checker triggere..." alt="" coords="203,5,343,33"/>
+<area shape="rect" id="Node000002" href="$group__startup__tasks.html#ga17b1ec3c869cec62261da62811778c3c" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,155,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,22,155,22,155,16,187,16"/>
+</map>

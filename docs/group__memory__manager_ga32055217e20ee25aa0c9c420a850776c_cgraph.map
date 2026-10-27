@@ -1,0 +1,9 @@
+<map id="MW_SetRamStackLimit" name="MW_SetRamStackLimit">
+<area shape="rect" id="Node000001" title="Sets the Stack Pointer Limit value and optionally locks the value to prevent modification." alt="" coords="5,57,166,85"/>
+<area shape="rect" id="Node000002" href="$group__cpuctrl.html#ga072060db2ba6c28b982eb035236d0ffa" title="Clears specific bits in the CTRLA register." alt="" coords="214,5,387,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="145,54,224,35,226,40,147,59"/>
+<area shape="rect" id="Node000004" href="$group__cpuctrl.html#ga3f32dce54116f2d94354960f48e07eee" title="Sets specific bits in the CTRLA register." alt="" coords="220,57,380,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="166,68,205,68,205,74,166,74"/>
+<area shape="rect" id="Node000005" href="$group__cpuctrl.html#ga03153a1e95e4c5cd2ae4c0f703aa988c" title="Overwrites the SPLIM register value." alt="" coords="224,109,377,137"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="147,83,226,102,224,108,145,88"/>
+</map>

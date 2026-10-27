@@ -1,0 +1,7 @@
+<map id="MW_GetSwdtUnexpectedCmdError" name="MW_GetSwdtUnexpectedCmdError">
+<area shape="rect" id="Node000001" title="Reads the error flag indicating a clear command received in the closed window after a preclear comman..." alt="" coords="260,32,495,60"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#ga40767a464b76824800e0f407d8691462" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,212,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,35,212,32,213,27,244,30"/>
+<area shape="rect" id="Node000003" href="$group__interrupt__tasks.html#gac24623cbad6f695cd281b0128707a8ad" title="Handles SWDT interrupts by reporting the Error ID of any detected faults." alt="" coords="26,57,191,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,61,191,66,191,61,244,56"/>
+</map>

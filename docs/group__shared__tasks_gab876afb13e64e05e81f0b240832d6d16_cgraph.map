@@ -1,0 +1,9 @@
+<map id="T_HandleWatchdog" name="T_HandleWatchdog">
+<area shape="rect" id="Node000001" title="Clears the Watchdog Timer (WDT) while performing the WDT count diagnostic." alt="" coords="5,57,149,85"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="219,5,340,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,54,207,35,209,40,135,59"/>
+<area shape="rect" id="Node000023" href="$group__watchdog__manager.html#gade5cd810945a97880f9b8a344ccbb858" title="Clears the Watchdog Timer (WDT) by issuing a Watchdog Reset (WDR) instruction." alt="" coords="225,57,335,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="149,68,209,68,209,74,149,74"/>
+<area shape="rect" id="Node000025" href="$group__watchdog__manager.html#gae3f9158018a391e4f6cae8a03ba9e93d" title="Completes diagnostic to detect faults in the Watchdog Timer (WDT) Counter mechanism." alt="" coords="197,109,363,137"/>
+<area shape="poly" id="edge3_Node000001_Node000025" title=" " alt="" coords="135,83,209,102,207,107,133,88"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="CLKCTRL_ClearCfm0ControlA" name="CLKCTRL_ClearCfm0ControlA">
+<area shape="rect" id="Node000001" title="Clears specific bits in the MCLKCFM0CTRLA register." alt="" coords="168,5,373,33"/>
+<area shape="rect" id="Node000002" href="$group__clock__manager.html#gada3d88861e14f2b54831dfd1713c4683" title="Disables Clock Frequency Measure 0 (CFM0)." alt="" coords="5,5,120,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,22,120,22,120,16,152,16"/>
+</map>

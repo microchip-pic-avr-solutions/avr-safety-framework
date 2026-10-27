@@ -1,0 +1,13 @@
+<map id="T_HandleSyncWatchdog" name="T_HandleSyncWatchdog">
+<area shape="rect" id="Node000001" title="Waits until the current Synchronous Watchdog timeout is completed before clearing and setting the nex..." alt="" coords="5,109,176,137"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="247,5,368,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,107,161,76,223,43,240,36,242,41,225,48,164,80,114,111"/>
+<area shape="rect" id="Node000023" href="$group__watchdog__manager.html#gab05948a352ea6efc1a943afc18690b2e" title="Issues a CLEAR command to the Synchronous Watchdog Timer (SWDT)." alt="" coords="250,57,364,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="151,106,234,86,236,91,152,111"/>
+<area shape="rect" id="Node000026" href="$group__watchdog__manager.html#ga6323b2f240ca10cf6f292c77dcb7526e" title="Performs diagnostic to detect faults in the Synchronous Watchdog Timer (SWDT) Counter mechanism." alt="" coords="234,109,380,137"/>
+<area shape="poly" id="edge3_Node000001_Node000026" title=" " alt="" coords="176,120,219,120,219,126,176,126"/>
+<area shape="rect" id="Node000030" href="$group__watchdog__manager.html#ga08f80f5bccd43b75bcadd4b995cfb852" title="Issues a PRECLEAR command to the Synchronous Watchdog Timer (SWDT)." alt="" coords="240,161,374,189"/>
+<area shape="poly" id="edge4_Node000001_Node000030" title=" " alt="" coords="152,135,232,155,231,160,151,140"/>
+<area shape="rect" id="Node000031" href="$group__watchdog__manager.html#gaa1fcc73699e94b7feb1cfc485999a6ca" title="Sets the Synchronous Watchdog Timer (SWDT) countdown reset value." alt="" coords="224,213,391,241"/>
+<area shape="poly" id="edge5_Node000001_Node000031" title=" " alt="" coords="114,135,164,166,225,198,242,205,240,210,223,203,161,171,112,140"/>
+</map>

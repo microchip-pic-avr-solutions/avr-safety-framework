@@ -1,0 +1,7 @@
+<map id="MW_ClearSwdt" name="MW_ClearSwdt">
+<area shape="rect" id="Node000001" title="Issues a CLEAR command to the Synchronous Watchdog Timer (SWDT)." alt="" coords="5,32,120,60"/>
+<area shape="rect" id="Node000002" href="$group__swdt.html#ga0eac8b03390fd254d43121a5ca4765c2" title="Reads the INTFLAGS register value." alt="" coords="176,5,322,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,35,160,29,161,34,120,40"/>
+<area shape="rect" id="Node000003" href="$group__swdt.html#gab011115ce5a40eddca6f6866bad4028b" title="Overwrites the COMMAND register value." alt="" coords="168,57,330,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,51,152,55,152,61,120,56"/>
+</map>

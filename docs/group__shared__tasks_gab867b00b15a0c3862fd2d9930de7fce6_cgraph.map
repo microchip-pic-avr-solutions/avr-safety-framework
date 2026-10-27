@@ -1,0 +1,13 @@
+<map id="ReportClearVregfailChannelError" name="ReportClearVregfailChannelError">
+<area shape="rect" id="Node000001" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,101,198,146"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="290,5,412,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,98,188,70,245,43,274,33,276,38,247,48,190,75,141,103"/>
+<area shape="rect" id="Node000023" href="$group__error__manager.html#ga0f46e6936a413fab0a9dd8742635ce8d" title="Clears the specified error channel and confirms that the channel is cleared." alt="" coords="268,57,434,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="198,100,265,86,267,91,199,106"/>
+<area shape="rect" id="Node000026" href="$group__power__manager.html#ga3992f0e706d5e65563425a16bb1aad00" title="Reads and clears the flag indicating an overvoltage error detected by the Voltage Monitor." alt="" coords="250,109,452,137"/>
+<area shape="poly" id="edge3_Node000001_Node000026" title=" " alt="" coords="198,120,235,120,235,126,198,126"/>
+<area shape="rect" id="Node000029" href="$group__power__manager.html#ga52653dd26a90647b34993a3176262b2c" title="Reads and clears the flag indicating an undervoltage error detected by the Voltage Monitor." alt="" coords="246,161,456,189"/>
+<area shape="poly" id="edge4_Node000001_Node000029" title=" " alt="" coords="199,141,267,155,265,160,198,146"/>
+<area shape="rect" id="Node000030" href="$group__error__manager.html#ga607ff4ceda3dc4dd433aee396c76c737" title="Reads the status of the specified error channel." alt="" coords="273,213,429,241"/>
+<area shape="poly" id="edge5_Node000001_Node000030" title=" " alt="" coords="141,144,190,172,247,198,270,206,268,211,245,203,188,176,138,148"/>
+</map>

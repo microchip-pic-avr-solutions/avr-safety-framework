@@ -1,0 +1,5 @@
+<map id="MW_EnableSwdtInterrupts" name="MW_EnableSwdtInterrupts">
+<area shape="rect" id="Node000001" title="Enables all Synchronous Watchdog Timer (SWDT) error interrupts." alt="" coords="155,5,339,33"/>
+<area shape="rect" id="Node000002" href="$group__startup__tasks.html#ga672a9aa45c8cc288a585a3b40eb44a63" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,107,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,22,107,22,107,16,139,16"/>
+</map>

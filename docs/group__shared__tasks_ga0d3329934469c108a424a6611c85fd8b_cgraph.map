@@ -1,0 +1,13 @@
+<map id="ReportClearEepromChannelError" name="ReportClearEepromChannelError">
+<area shape="rect" id="Node000001" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,109,199,154"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="291,5,412,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,106,185,74,246,43,274,33,276,38,248,48,188,79,137,111"/>
+<area shape="rect" id="Node000023" href="$group__error__manager.html#ga0f46e6936a413fab0a9dd8742635ce8d" title="Clears the specified error channel and confirms that the channel is cleared." alt="" coords="268,57,434,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="197,106,275,87,276,92,198,111"/>
+<area shape="rect" id="Node000026" href="$group__memory__manager.html#gab9a52e0ec30c5ffc28cf9478fa9945a0" title="Reads and clears the flag indicating an ECC single&#45;bit error in EEPROM." alt="" coords="247,109,456,154"/>
+<area shape="poly" id="edge3_Node000001_Node000026" title=" " alt="" coords="199,128,231,128,231,134,199,134"/>
+<area shape="rect" id="Node000029" href="$group__memory__manager.html#ga455f43e8ea09e0d218327b3a0a7f663a" title="Reads and clears the flag indicating an ECC multi&#45;bit error in EEPROM." alt="" coords="247,178,456,223"/>
+<area shape="poly" id="edge4_Node000001_Node000029" title=" " alt="" coords="186,152,254,171,253,176,184,157"/>
+<area shape="rect" id="Node000030" href="$group__error__manager.html#ga607ff4ceda3dc4dd433aee396c76c737" title="Reads the status of the specified error channel." alt="" coords="273,247,430,274"/>
+<area shape="poly" id="edge5_Node000001_Node000030" title=" " alt="" coords="130,152,182,193,248,233,262,239,260,244,245,238,179,198,127,156"/>
+</map>

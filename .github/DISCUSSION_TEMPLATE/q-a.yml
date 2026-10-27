@@ -1,0 +1,19 @@
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask questions about using the AVR SD Safety Framework. Discussions are public. For questions that involve your own application code or configuration, or problems that may affect the safety of your application, email the Functional Safety Team at pic_avr.functionalsafety@microchip.com. Email keeps your project details out of public Discussions and reaches the team directly, so we can follow up with you.
+  - type: input
+    id: version
+    attributes:
+      label: Framework version
+      description: The version listed in the Release Notes.
+      placeholder: "1.0.0"
+    validations:
+      required: false
+  - type: textarea
+    id: question
+    attributes:
+      label: Question
+    validations:
+      required: true

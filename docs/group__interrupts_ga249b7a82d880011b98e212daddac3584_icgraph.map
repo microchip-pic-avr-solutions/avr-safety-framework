@@ -1,0 +1,5 @@
+<map id="TM_InterruptsPower" name="TM_InterruptsPower">
+<area shape="rect" id="Node000001" title="Executes the task responsible for handling a Sleep Controller (SLPCTRL) interrupt." alt="" coords="215,5,360,33"/>
+<area shape="rect" id="Node000002" href="$group__main__example.html#ga4cde42119bad6fc1acbabcc782c01a71" title="Runs the Interrupts Task Manager to handle a Sleep Controller (SLPCTRL) interrupt." alt="" coords="5,5,167,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,22,167,22,167,16,199,16"/>
+</map>

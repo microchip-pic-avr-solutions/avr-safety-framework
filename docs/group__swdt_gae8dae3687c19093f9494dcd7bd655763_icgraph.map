@@ -1,0 +1,5 @@
+<map id="SWDT_WriteControlA" name="SWDT_WriteControlA">
+<area shape="rect" id="Node000001" title="Overwrites the CTRLA register value." alt="" coords="178,5,331,33"/>
+<area shape="rect" id="Node000002" href="$group__watchdog__manager.html#ga4e9d89469b364692fe8feec062a7a247" title="Enables the Synchronous Watchdog Timer (SWDT) with the provided configurations." alt="" coords="5,5,130,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,22,130,22,130,16,162,16"/>
+</map>

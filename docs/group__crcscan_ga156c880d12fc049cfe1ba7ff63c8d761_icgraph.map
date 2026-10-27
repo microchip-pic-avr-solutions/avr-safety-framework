@@ -1,0 +1,9 @@
+<map id="CRCSCAN_WriteIntFlags" name="CRCSCAN_WriteIntFlags">
+<area shape="rect" id="Node000001" title="Overwrites the INTFLAGS register value." alt="" coords="251,57,422,85"/>
+<area shape="rect" id="Node000002" href="$group__checksum__manager.html#ga41b0619a6134563f30d4fcc45a7d3561" title="Clears the flag indicating that a CRC Scan period is done." alt="" coords="5,5,203,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,56,169,36,170,31,257,51"/>
+<area shape="rect" id="Node000006" href="$group__checksum__manager.html#gac7d5dd16810772e8d174bb3f506bda6a" title="Reads and clears the flag indicating a CRC Scan of Flash is done and returns the scan result." alt="" coords="9,57,199,85"/>
+<area shape="poly" id="edge2_Node000001_Node000006" title=" " alt="" coords="235,74,199,74,199,68,235,68"/>
+<area shape="rect" id="Node000007" href="$group__checksum__manager.html#ga11738d064dab76614d7c57adcf224dd7" title="Clears the Done interrupt flag and signals the CRC Scan diagnostic to complete and resume execution." alt="" coords="18,109,190,137"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="257,92,170,111,169,106,256,86"/>
+</map>

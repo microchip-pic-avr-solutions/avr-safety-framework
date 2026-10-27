@@ -1,0 +1,7 @@
+<map id="MW_GetClearClockCfd0Error" name="MW_GetClearClockCfd0Error">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating a clock failure detected by CFD0." alt="" coords="260,32,461,60"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#ga5589ac6e077c6724e985c35bd2fe76ef" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,212,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="244,36,212,33,212,27,244,31"/>
+<area shape="rect" id="Node000003" href="$group__interrupt__tasks.html#ga6bf1d72aa560322ee6981351fc2c7a5d" title="Handles Clock interrupts by reporting the Error ID of any detected faults and clearing CFM done flags..." alt="" coords="24,57,193,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,60,193,65,193,60,244,55"/>
+</map>

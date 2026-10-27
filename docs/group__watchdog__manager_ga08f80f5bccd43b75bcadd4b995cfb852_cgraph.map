@@ -1,0 +1,5 @@
+<map id="MW_PreClearSwdt" name="MW_PreClearSwdt">
+<area shape="rect" id="Node000001" title="Issues a PRECLEAR command to the Synchronous Watchdog Timer (SWDT)." alt="" coords="5,5,140,33"/>
+<area shape="rect" id="Node000002" href="$group__swdt.html#gab011115ce5a40eddca6f6866bad4028b" title="Overwrites the COMMAND register value." alt="" coords="188,5,350,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,16,172,16,172,22,140,22"/>
+</map>

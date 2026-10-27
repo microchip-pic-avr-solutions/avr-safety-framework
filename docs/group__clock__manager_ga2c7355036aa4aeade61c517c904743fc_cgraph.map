@@ -1,0 +1,5 @@
+<map id="MW_StopCfd1" name="MW_StopCfd1">
+<area shape="rect" id="Node000001" title="Disables Clock Failure Detect 1 (CFD1)." alt="" coords="5,5,114,33"/>
+<area shape="rect" id="Node000002" href="$group__clkctrl.html#ga178561d7a2ab8b1b0f1058442bffd992" title="Clears specific bits in the MCLKCFD1CTRLA register." alt="" coords="162,5,361,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,16,146,16,146,22,114,22"/>
+</map>

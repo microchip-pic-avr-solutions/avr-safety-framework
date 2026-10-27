@@ -1,0 +1,5 @@
+<map id="CPUINT_WriteIntPriority1" name="CPUINT_WriteIntPriority1">
+<area shape="rect" id="Node000001" title="Overwrites the LVL1VEC register value." alt="" coords="185,5,360,33"/>
+<area shape="rect" id="Node000002" href="$group__interrupt__manager.html#ga7d21344257d8a7d4879fc17fd8bdd0d5" title="Configures interrupt scheduling and priority scheme." alt="" coords="5,5,137,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,22,137,22,137,16,169,16"/>
+</map>

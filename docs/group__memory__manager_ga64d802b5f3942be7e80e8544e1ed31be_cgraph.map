@@ -1,0 +1,7 @@
+<map id="MW_GetClearCpuDataParityError" name="MW_GetClearCpuDataParityError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating a data bus parity error in the CPU." alt="" coords="5,24,198,68"/>
+<area shape="rect" id="Node000002" href="$group__cpuctrl.html#gad00d23ccb1b52fc677659ff8051382bc" title="Reads the INTFLAGS register value." alt="" coords="247,5,414,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,32,231,28,232,33,198,37"/>
+<area shape="rect" id="Node000003" href="$group__cpuctrl.html#gaebf883e85b87f59b699b5d0092d32c1e" title="Overwrites the INTFLAGS register value." alt="" coords="246,57,415,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,54,231,57,230,63,198,59"/>
+</map>

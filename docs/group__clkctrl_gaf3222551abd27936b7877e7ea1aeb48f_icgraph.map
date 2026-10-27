@@ -1,0 +1,5 @@
+<map id="CLKCTRL_SetIntControl" name="CLKCTRL_SetIntControl">
+<area shape="rect" id="Node000001" title="Sets specific bits in the MCLKINTCTRL register." alt="" coords="242,5,409,33"/>
+<area shape="rect" id="Node000002" href="$group__clock__manager.html#ga480fd74e01fe4bcf03cf76fc139496b0" title="Enables all Clock Failure Detect (CFD) and Clock Frequency Measure (CFM) interrupts." alt="" coords="5,5,194,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,22,194,22,194,16,227,16"/>
+</map>

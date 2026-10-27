@@ -1,0 +1,5 @@
+<map id="RAMCTRL_WriteIntFlags" name="RAMCTRL_WriteIntFlags">
+<area shape="rect" id="Node000001" title="Overwrites the INTFLAGS register value." alt="" coords="5,5,176,33"/>
+<area shape="rect" id="Node000002" href="$group__ccp__utility.html#gae87c39ed3ac0f3733e3990e460b62859" title="Writes value to a Configuration Change Protected (CCP) 8&#45;bit register." alt="" coords="224,5,342,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,16,208,16,208,22,176,22"/>
+</map>

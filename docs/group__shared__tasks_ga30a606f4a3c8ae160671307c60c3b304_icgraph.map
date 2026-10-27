@@ -1,0 +1,9 @@
+<map id="T_HandleSyncWatchdog" name="T_HandleSyncWatchdog">
+<area shape="rect" id="Node000001" title="Waits until the current Synchronous Watchdog timeout is completed before clearing and setting the nex..." alt="" coords="162,57,332,85"/>
+<area shape="rect" id="Node000002" href="$group__scheduler.html#ga6b38c1babeec44d857f14f3c38c88e72" title="Manages and synchronizes safety system and application Tasks from a user defined schedule." alt="" coords="6,5,113,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,55,111,36,113,31,181,50"/>
+<area shape="rect" id="Node000004" href="$group__shutdown.html#gad3975e9eed47a5c787388cf1a4bf3341" title="Manages Tasks that ensure safe execution of device sleeping in Standby or Power&#45;Down mode." alt="" coords="5,57,114,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="146,74,114,74,114,68,146,68"/>
+<area shape="rect" id="Node000005" href="$group__startup.html#gaafa77cc706561398012e37761145306f" title="Manages and synchronizes safety system and application startup Tasks." alt="" coords="14,109,105,137"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="180,92,106,113,105,108,179,87"/>
+</map>

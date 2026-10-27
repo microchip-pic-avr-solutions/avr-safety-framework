@@ -1,0 +1,5 @@
+<map id="MW_DisableGlobalInterrupts" name="MW_DisableGlobalInterrupts">
+<area shape="rect" id="Node000001" title="Disables global interrupts on the device." alt="" coords="199,5,396,33"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#gafa3d7008a2cea38c0d7c0fd8f5bf40d3" title="Transitions the system into a Safe State and resets the device." alt="" coords="5,5,151,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,22,151,22,151,16,183,16"/>
+</map>

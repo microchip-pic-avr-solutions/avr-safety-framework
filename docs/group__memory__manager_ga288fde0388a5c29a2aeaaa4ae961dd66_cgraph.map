@@ -1,0 +1,11 @@
+<map id="MW_StorePersistentVal" name="MW_StorePersistentVal">
+<area shape="rect" id="Node000001" title="Stores a value in General Purpose Registers (GPR) for preserving data between resets." alt="" coords="5,84,169,112"/>
+<area shape="rect" id="Node000002" href="$group__gpr.html#gaebf3d744a6e73be0a988de387a795db1" title="Reads the GPR0 register value." alt="" coords="218,5,360,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,81,216,43,234,36,236,41,218,48,124,86"/>
+<area shape="rect" id="Node000003" href="$group__gpr.html#ga8560cbeea01d3d316d2aae3b1379f446" title="Reads the GPR1 register value." alt="" coords="219,57,358,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,84,204,80,204,85,169,90"/>
+<area shape="rect" id="Node000004" href="$group__gpr.html#gabbfdce63e7076fdd98d98fa964ed89ad" title="Overwrites the GPR0 register value." alt="" coords="217,109,361,137"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="169,105,202,110,201,115,168,111"/>
+<area shape="rect" id="Node000005" href="$group__gpr.html#gaffbaf2e61f98957e364d3c42ef23a09e" title="Overwrites the GPR1 register value." alt="" coords="218,161,360,189"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="125,110,218,146,236,153,234,158,216,151,123,115"/>
+</map>

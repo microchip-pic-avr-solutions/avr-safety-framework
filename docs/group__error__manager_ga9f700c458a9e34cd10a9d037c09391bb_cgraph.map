@@ -1,0 +1,5 @@
+<map id="MW_StartHeartbeat" name="MW_StartHeartbeat">
+<area shape="rect" id="Node000001" title="Starts the Heartbeat output signal." alt="" coords="5,5,148,33"/>
+<area shape="rect" id="Node000002" href="$group__errctrl.html#gad93d7ffe898937664141c3e5ba9f1ec7" title="Sets specific bits in the CTRLA register." alt="" coords="196,5,354,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,16,180,16,180,22,148,22"/>
+</map>

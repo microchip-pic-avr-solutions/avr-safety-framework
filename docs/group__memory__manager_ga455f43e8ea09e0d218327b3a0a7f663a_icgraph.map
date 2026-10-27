@@ -1,0 +1,7 @@
+<map id="MW_GetClearNvmEepromEcc2Error" name="MW_GetClearNvmEepromEcc2Error">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating an ECC multi&#45;bit error in EEPROM." alt="" coords="247,36,456,81"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#ga0d3329934469c108a424a6611c85fd8b" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,199,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,46,199,42,200,37,231,41"/>
+<area shape="rect" id="Node000003" href="$group__interrupt__tasks.html#gac2360150e5b92001943a8cb083210ae4" title="Handles NVM interrupts by reporting the Error ID of any detected faults." alt="" coords="21,74,183,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="232,75,184,81,183,75,231,70"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="InitWatchdogs" name="InitWatchdogs">
+<area shape="rect" id="Node000001" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,84,116,112"/>
+<area shape="rect" id="Node000002" href="$group__watchdog__manager.html#ga4e9d89469b364692fe8feec062a7a247" title="Enables the Synchronous Watchdog Timer (SWDT) with the provided configurations." alt="" coords="194,5,318,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,81,163,43,184,36,185,41,165,48,88,86"/>
+<area shape="rect" id="Node000005" href="$group__watchdog__manager.html#gaa1fcc73699e94b7feb1cfc485999a6ca" title="Sets the Synchronous Watchdog Timer (SWDT) countdown reset value." alt="" coords="172,57,340,85"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="116,88,156,82,157,87,116,93"/>
+<area shape="rect" id="Node000008" href="$group__watchdog__manager.html#gaf2c6bc0abb36b5b562447c28feb48ac4" title="Sets the Synchronous Watchdog Timer (SWDT) open window value." alt="" coords="164,109,348,137"/>
+<area shape="poly" id="edge3_Node000001_Node000008" title=" " alt="" coords="116,102,148,107,148,112,116,108"/>
+<area shape="rect" id="Node000011" href="$group__watchdog__manager.html#gad4758187b6179f60eb9068432cc94f69" title="Configures and enables the Watchdog Timer (WDT) in either Normal or Window mode." alt="" coords="182,161,330,189"/>
+<area shape="poly" id="edge4_Node000001_Node000011" title=" " alt="" coords="89,110,165,146,186,154,185,159,163,151,86,115"/>
+</map>

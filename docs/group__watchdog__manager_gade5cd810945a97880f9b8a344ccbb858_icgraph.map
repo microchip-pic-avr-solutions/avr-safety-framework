@@ -1,0 +1,7 @@
+<map id="MW_ClearWdt" name="MW_ClearWdt">
+<area shape="rect" id="Node000001" title="Clears the Watchdog Timer (WDT) by issuing a Watchdog Reset (WDR) instruction." alt="" coords="264,32,374,60"/>
+<area shape="rect" id="Node000002" href="$group__shutdown__tasks.html#gaec196c40e57efef893e676766f06aa4a" title="Clears both the Watchdog Timer (WDT) and Synchronous Watchdog Timer (SWDT)." alt="" coords="5,5,216,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,40,216,35,216,30,249,34"/>
+<area shape="rect" id="Node000005" href="$group__shared__tasks.html#gab876afb13e64e05e81f0b240832d6d16" title="Clears the Watchdog Timer (WDT) while performing the WDT count diagnostic." alt="" coords="39,57,182,85"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="249,57,183,65,182,60,248,52"/>
+</map>

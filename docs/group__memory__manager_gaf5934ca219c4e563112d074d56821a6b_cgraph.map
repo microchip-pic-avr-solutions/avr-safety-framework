@@ -1,0 +1,7 @@
+<map id="MW_GetClearBusError" name="MW_GetClearBusError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating an error in the Bus Matrix." alt="" coords="5,32,164,60"/>
+<area shape="rect" id="Node000002" href="$group__cpuctrl.html#gad00d23ccb1b52fc677659ff8051382bc" title="Reads the INTFLAGS register value." alt="" coords="213,5,380,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,33,197,29,198,34,165,38"/>
+<area shape="rect" id="Node000003" href="$group__cpuctrl.html#gaebf883e85b87f59b699b5d0092d32c1e" title="Overwrites the INTFLAGS register value." alt="" coords="212,57,381,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,53,196,57,196,62,164,58"/>
+</map>

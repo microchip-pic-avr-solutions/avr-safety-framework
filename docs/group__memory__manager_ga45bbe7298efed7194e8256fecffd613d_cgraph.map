@@ -1,0 +1,7 @@
+<map id="MW_GetClearNvmFlashEcc1Error" name="MW_GetClearNvmFlashEcc1Error">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating an ECC single&#45;bit error in Flash." alt="" coords="5,32,230,60"/>
+<area shape="rect" id="Node000002" href="$group__nvmctrl.html#ga4055353c472a9613e4263a4f142f038a" title="Reads the INTFLAGSB register value." alt="" coords="279,5,456,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="230,31,263,28,264,33,230,37"/>
+<area shape="rect" id="Node000003" href="$group__nvmctrl.html#ga5f9f46c21f213fe5215ef418593b52b2" title="Overwrites the INTFLAGSB register value." alt="" coords="278,57,458,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,55,263,58,262,63,230,60"/>
+</map>

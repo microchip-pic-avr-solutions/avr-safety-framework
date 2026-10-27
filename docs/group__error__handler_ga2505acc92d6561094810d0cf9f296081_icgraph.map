@@ -1,0 +1,5 @@
+<map id="EH_PopNotificationLog" name="EH_PopNotificationLog">
+<area shape="rect" id="Node000001" title="Pops the last Error ID from the Notification Error Log for error handling." alt="" coords="240,5,404,33"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga0863f71aabb3ddbb37fbfc57aaa7ca95" title="Processes all Error IDs in the log by calling the configured handler callback." alt="" coords="5,5,192,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,22,192,22,192,16,225,16"/>
+</map>

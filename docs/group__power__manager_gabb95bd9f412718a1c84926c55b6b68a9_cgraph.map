@@ -1,0 +1,7 @@
+<map id="MW_GetClearVmonInternalError" name="MW_GetClearVmonInternalError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating internal error in the Voltage Monitor." alt="" coords="5,32,227,60"/>
+<area shape="rect" id="Node000002" href="$group__slpctrl.html#gafa9212c4a3a2bfb57253eff18ed228b9" title="Reads the INTFLAGS register value." alt="" coords="276,5,438,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,31,260,27,261,33,228,36"/>
+<area shape="rect" id="Node000003" href="$group__slpctrl.html#ga6561e59c74228d99af2d0510c18e7dab" title="Overwrites the INTFLAGS register value." alt="" coords="275,57,440,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,55,259,58,259,64,227,60"/>
+</map>

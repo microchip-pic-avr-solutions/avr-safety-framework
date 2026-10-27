@@ -1,0 +1,5 @@
+<map id="TM_InterruptsBod" name="TM_InterruptsBod">
+<area shape="rect" id="Node000001" title="Executes the task responsible for handling a Brown&#45;out Detector (BOD) interrupt." alt="" coords="192,5,323,33"/>
+<area shape="rect" id="Node000002" href="$group__main__example.html#ga3078cf08d51677698233b27c79a33edc" title="Runs the Interrupts Task Manager to handle a Brown&#45;out Detector (BOD) interrupt." alt="" coords="5,5,144,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,22,144,22,144,16,176,16"/>
+</map>

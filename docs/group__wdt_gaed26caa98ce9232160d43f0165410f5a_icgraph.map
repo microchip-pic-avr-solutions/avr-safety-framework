@@ -1,0 +1,5 @@
+<map id="WDT_WriteStatus" name="WDT_WriteStatus">
+<area shape="rect" id="Node000001" title="Overwrites the STATUS register value." alt="" coords="201,5,329,33"/>
+<area shape="rect" id="Node000002" href="$group__watchdog__manager.html#gad4758187b6179f60eb9068432cc94f69" title="Configures and enables the Watchdog Timer (WDT) in either Normal or Window mode." alt="" coords="5,5,153,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,22,153,22,153,16,185,16"/>
+</map>

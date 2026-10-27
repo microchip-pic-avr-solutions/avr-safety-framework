@@ -1,0 +1,7 @@
+<map id="MW_GetClearNvmFlashEcc1Error" name="MW_GetClearNvmFlashEcc1Error">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating an ECC single&#45;bit error in Flash." alt="" coords="238,44,462,72"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#ga2c6d2a27d4d3c039b40cc37bbfaffee0" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,190,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,45,190,42,190,36,222,40"/>
+<area shape="rect" id="Node000003" href="$group__interrupt__tasks.html#gac2360150e5b92001943a8cb083210ae4" title="Handles NVM interrupts by reporting the Error ID of any detected faults." alt="" coords="16,74,179,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,76,180,81,179,76,222,71"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="T_HandleErrorChInterrupt" name="T_HandleErrorChInterrupt">
+<area shape="rect" id="Node000001" title="Handles Error Channel interrupts by reporting the sources of the first set Error Channel." alt="" coords="5,5,188,33"/>
+<area shape="rect" id="Node000002" href="$group__error__manager.html#ga3b879838140816390fcc8a60896f6f98" title="Returns the first set error channel in the Error Controller." alt="" coords="236,5,438,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,16,220,16,220,22,188,22"/>
+</map>

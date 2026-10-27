@@ -1,0 +1,5 @@
+<map id="ERRCTRL_ModifyControlA" name="ERRCTRL_ModifyControlA">
+<area shape="rect" id="Node000001" title="Modifies specific bit field(s) in the CTRLA register." alt="" coords="235,5,415,33"/>
+<area shape="rect" id="Node000002" href="$group__error__manager.html#ga297fd245072aac904e53cf9a9c94564f" title="Sets the error controller timeout duration and configures all error channels with the provided settin..." alt="" coords="5,5,187,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,22,187,22,187,16,219,16"/>
+</map>

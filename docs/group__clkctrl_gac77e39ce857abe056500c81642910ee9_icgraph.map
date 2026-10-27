@@ -1,0 +1,5 @@
+<map id="CLKCTRL_ClearCfd0ControlA" name="CLKCTRL_ClearCfd0ControlA">
+<area shape="rect" id="Node000001" title="Clears specific bits in the MCLKCFD0CTRLA register." alt="" coords="164,5,365,33"/>
+<area shape="rect" id="Node000002" href="$group__clock__manager.html#ga448df38bf91d86ebc479da8bd67f2e46" title="Disables Clock Failure Detect 0 (CFD0)." alt="" coords="5,5,116,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,22,116,22,116,16,148,16"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="T_RunResetDiagnosticFsm" name="T_RunResetDiagnosticFsm">
+<area shape="rect" id="Node000001" title="Implements an FSM for performing error injection diagnostics leading to device resets." alt="" coords="5,57,187,85"/>
+<area shape="rect" id="Node000002" href="$group__cpu__manager.html#gac4298d440524be03e036d4cdac06e335" title="Performs error injection diagnostic to detect faults in the CPU lockstep mechanism." alt="" coords="242,5,399,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,54,242,35,243,40,160,59"/>
+<area shape="rect" id="Node000005" href="$group__watchdog__manager.html#ga29086743d0787e05dd075815b96d1469" title="Performs error injection diagnostic to detect faults in the Watchdog Timer (WDT) Expire mechanism." alt="" coords="249,57,392,85"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="187,68,234,68,234,74,187,74"/>
+<area shape="rect" id="Node000008" href="$group__memory__manager.html#ga485ad75797acb2ef94989c29f34ee09d" title="Stores two redundant boolean flags in General Purpose Registers (GPR) for preserving data between res..." alt="" coords="235,109,406,137"/>
+<area shape="poly" id="edge3_Node000001_Node000008" title=" " alt="" coords="160,83,243,103,242,108,158,88"/>
+</map>

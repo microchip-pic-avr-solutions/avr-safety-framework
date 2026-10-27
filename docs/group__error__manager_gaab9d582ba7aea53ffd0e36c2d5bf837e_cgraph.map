@@ -1,0 +1,5 @@
+<map id="MW_CheckIoSafe" name="MW_CheckIoSafe">
+<area shape="rect" id="Node000001" title="Checks if all I/O pins are floated (tri&#45;stated)." alt="" coords="5,5,133,33"/>
+<area shape="rect" id="Node000002" href="$group__errctrl.html#gad88e7f7b5ae9968735af6c32b4864cfa" title="Reads the STATUSA register value." alt="" coords="181,5,340,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,16,165,16,165,22,133,22"/>
+</map>

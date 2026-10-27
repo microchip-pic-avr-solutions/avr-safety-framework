@@ -1,0 +1,9 @@
+<map id="RunStartupDiagParity" name="RunStartupDiagParity">
+<area shape="rect" id="Node000001" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,57,155,85"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="213,5,334,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,54,204,35,205,40,135,59"/>
+<area shape="rect" id="Node000023" href="$group__memory__manager.html#ga23d47a56f19a800efc681bade9f07431" title="This function performs error injection diagnostic to detect faults in the CPU and NVM bus parity chec..." alt="" coords="203,57,344,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="155,68,187,68,187,74,155,74"/>
+<area shape="rect" id="Node000033" href="$group__memory__manager.html#ga77d9492dc32a40e0c873e0b84cc222d7" title="This function performs error injection diagnostic to detect faults in the RAM parity checker triggere..." alt="" coords="203,109,344,137"/>
+<area shape="poly" id="edge3_Node000001_Node000033" title=" " alt="" coords="135,83,205,102,204,107,134,88"/>
+</map>

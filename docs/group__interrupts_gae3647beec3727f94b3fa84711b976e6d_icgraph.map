@@ -1,0 +1,5 @@
+<map id="TM_InterruptsNmi" name="TM_InterruptsNmi">
+<area shape="rect" id="Node000001" title="Executes the task responsible for handling a Non&#45;maskable Interrupt (NMI)." alt="" coords="157,5,289,33"/>
+<area shape="rect" id="Node000002" href="$group__main__example.html#ga4c5dbea347fb5f3dcd4c5e64b423d67c" title="Runs the Interrupts Task Manager to handle a Non&#45;maskable Interrupt (NMI)." alt="" coords="5,5,109,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,22,109,22,109,16,141,16"/>
+</map>

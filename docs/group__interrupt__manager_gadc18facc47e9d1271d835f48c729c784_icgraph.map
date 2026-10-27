@@ -1,0 +1,7 @@
+<map id="MW_ExitCriticalSection" name="MW_ExitCriticalSection">
+<area shape="rect" id="Node000001" title="Exits a critical section by restoring the previous global interrupt state." alt="" coords="223,32,383,60"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga2505acc92d6561094810d0cf9f296081" title="Pops the last Error ID from the Notification Error Log for error handling." alt="" coords="8,5,172,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,36,172,32,173,27,207,31"/>
+<area shape="rect" id="Node000005" href="$group__error__handler.html#gadb8e7208478e2cdfd4374154518f31b9" title="Pushes Error ID to the Notification Error Log for later handling." alt="" coords="5,57,175,85"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="207,60,175,64,175,58,207,55"/>
+</map>

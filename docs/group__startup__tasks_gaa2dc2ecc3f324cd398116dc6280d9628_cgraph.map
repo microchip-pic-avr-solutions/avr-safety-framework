@@ -1,0 +1,9 @@
+<map id="T_HandleResetReason" name="T_HandleResetReason">
+<area shape="rect" id="Node000001" title="Retrieves and validates stored reset info from persistent memory and issues configurable callback for..." alt="" coords="5,57,163,85"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="235,5,356,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,54,221,35,222,40,144,59"/>
+<area shape="rect" id="Node000023" href="$group__memory__manager.html#ga21ac0a2a9a132045648a676323529fa2" title="Clears all stored persistent values in GPR." alt="" coords="211,57,380,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="163,68,195,68,195,74,163,74"/>
+<area shape="rect" id="Node000025" href="$group__memory__manager.html#gaa56bf0b58b937f3119150d05db80f063" title="Reads a value in General Purpose Registers (GPR) that is stored for preserving data between resets." alt="" coords="219,109,372,137"/>
+<area shape="poly" id="edge3_Node000001_Node000025" title=" " alt="" coords="144,83,222,102,221,108,143,88"/>
+</map>

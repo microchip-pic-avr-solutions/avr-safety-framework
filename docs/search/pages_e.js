@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['safety_20framework_0',['Using the Safety Framework',['../index.html',1,'']]],
+  ['scanning_20apis_1',['Optional CRC Scanning APIs',['../optional_apis_and_configs.html#opt_api_crcscan',1,'']]],
+  ['schedule_2',['Schedule',['../tips_and_tricks.html#tip_5',1,'Using Optional Tasks in the Application Schedule'],['../tips_and_tricks.html#tip_4',1,'Using Optional Tasks in the Application Startup Schedule']]],
+  ['schedule_20duration_20longer_20than_20fdti_3',['Total Startup Schedule Duration Longer than FDTI',['../tips_and_tricks.html#tip_1',1,'']]],
+  ['schedule_20tasks_4',['Optional Application Schedule Tasks',['../optional_apis_and_configs.html#opt_api_tasks',1,'']]],
+  ['schedules_5',['Using Dynamic and Constant Application Schedules',['../tips_and_tricks.html#tip_3',1,'']]],
+  ['scheduling_6',['Watchdog-Supervised Scheduling',['../software_architecture.html#watchdog_supervised_scheduling',1,'']]],
+  ['scope_7',['Scope',['../measurements.html#wcet_scope',1,'Measurement Scope'],['../measurements.html#stack_scope',1,'Measurement Scope']]],
+  ['setup_8',['Measurement Setup',['../measurements.html#wcet_setup',1,'']]],
+  ['shutdown_20sleep_9',['Shutdown Sleep',['../tips_and_tricks.html#tip_13',1,'Configuring Wake-up Sources and Watchdog Handling in Shutdown Sleep'],['../tips_and_tricks.html#tip_14',1,'External Output During Shutdown Sleep'],['../tips_and_tricks.html#tip_15',1,'Reducing Power Consumption Further in Shutdown Sleep']]],
+  ['sleep_10',['Sleep',['../tips_and_tricks.html#tip_13',1,'Configuring Wake-up Sources and Watchdog Handling in Shutdown Sleep'],['../tips_and_tricks.html#tip_14',1,'External Output During Shutdown Sleep'],['../tips_and_tricks.html#tip_15',1,'Reducing Power Consumption Further in Shutdown Sleep'],['../optional_apis_and_configs.html#opt_api_shutdown',1,'Task Manager For Standby And Power-down Sleep'],['../tips_and_tricks.html#tip_9',1,'Using VMON in Deep Sleep']]],
+  ['software_11',['Integrating Application Software',['../software_architecture.html#integrating_application_software',1,'']]],
+  ['software_20architecture_12',['Software Architecture',['../software_architecture.html',1,'']]],
+  ['software_20fmea_20and_20dfa_13',['Software FMEA and DFA',['../index.html#sw_fmea_dfa',1,'']]],
+  ['sources_20and_20watchdog_20handling_20in_20shutdown_20sleep_14',['Configuring Wake-up Sources and Watchdog Handling in Shutdown Sleep',['../tips_and_tricks.html#tip_13',1,'']]],
+  ['specific_20handling_15',['Diagnostic APIs Requiring Application Specific Handling',['../optional_apis_and_configs.html#opt_api_diags',1,'']]],
+  ['stack_20depth_20estimation_20methodology_16',['Stack Depth Estimation Methodology',['../measurements.html#stack',1,'']]],
+  ['standby_20and_20power_20down_20sleep_17',['Task Manager For Standby And Power-down Sleep',['../optional_apis_and_configs.html#opt_api_shutdown',1,'']]],
+  ['started_18',['Getting Started',['../index.html#getting_started',1,'']]],
+  ['startup_19',['Using CFD diagnostics in Startup',['../tips_and_tricks.html#tip_10',1,'']]],
+  ['startup_20schedule_20',['Using Optional Tasks in the Application Startup Schedule',['../tips_and_tricks.html#tip_4',1,'']]],
+  ['startup_20schedule_20duration_20longer_20than_20fdti_21',['Total Startup Schedule Duration Longer than FDTI',['../tips_and_tricks.html#tip_1',1,'']]],
+  ['states_22',['Lifecycle and Operating States',['../software_architecture.html#lifecycle_operating_states',1,'']]],
+  ['static_20analysis_20and_20code_20metrics_23',['Static Analysis and Code Metrics',['../index.html#static_analysis_metrics',1,'']]],
+  ['supervised_20scheduling_24',['Watchdog-Supervised Scheduling',['../software_architecture.html#watchdog_supervised_scheduling',1,'']]]
+];

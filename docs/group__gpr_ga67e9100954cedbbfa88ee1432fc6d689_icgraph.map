@@ -1,0 +1,7 @@
+<map id="GPR_ModifyRegister2" name="GPR_ModifyRegister2">
+<area shape="rect" id="Node000001" title="Modifies specific bit field(s) in the GPR2 register." alt="" coords="231,32,382,60"/>
+<area shape="rect" id="Node000002" href="$group__memory__manager.html#ga8b90f615924b9b82a5ee19da57d0d794" title="Clears all stored persistent flags in GPR." alt="" coords="5,5,183,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,37,183,33,184,28,216,32"/>
+<area shape="rect" id="Node000006" href="$group__memory__manager.html#ga21ac0a2a9a132045648a676323529fa2" title="Clears all stored persistent values in GPR." alt="" coords="9,57,179,85"/>
+<area shape="poly" id="edge2_Node000001_Node000006" title=" " alt="" coords="216,59,180,64,179,58,215,54"/>
+</map>

@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="741px" height="651px" viewBox="-0.5 -0.5 741 651" style="background-color: white;">
+	<defs/>
+	<g>
+		<g data-cell-id="HIswqKkz16Yv7U491MXX-0">
+			<g data-cell-id="HIswqKkz16Yv7U491MXX-1">
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-2">
+					<g>
+						<path d="M 0 0 L 180 0 L 180 25 L 170 40 L 0 40 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+						<path d="M 180 0 L 740 0 L 740 650 L 0 650 L 0 40" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 173px; height: 1px; padding-top: 20px; margin-left: 7px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+												ad Enter Idle Sleep CRC:
+												<br/>
+												Periodic CRC Enabled
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="7" y="24" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px">ad Enter Idle Sleep CRC:...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g data-cell-id="HIswqKkz16Yv7U491MXX-3">
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-5">
+					<g>
+						<path d="M 370 281 L 370 297.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 366.5 291.88 L 370 298.88 L 373.5 291.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-6">
+					<g>
+						<rect x="290" y="240" width="160" height="41" rx="6.15" ry="6.15" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 261px; margin-left: 291px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Start CRC scan of next enabled Flash section</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="370" y="264" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">Start CRC scan of next ena...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-7">
+					<g>
+						<path d="M 370 220.5 L 370 237.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 366.5 231.88 L 370 238.88 L 373.5 231.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-8">
+					<g>
+						<path d="M 370 161 L 370 177.26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 366.5 171.38 L 370 178.38 L 373.5 171.38" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-9">
+					<g>
+						<rect x="290" y="120" width="160" height="41" rx="6.15" ry="6.15" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 141px; margin-left: 291px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Run CRCSCAN Diagnostic</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="370" y="144" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">Run CRCSCAN Diagnostic</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-10">
+					<g>
+						<path d="M 370 101 L 370 117.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 366.5 111.88 L 370 118.88 L 373.5 111.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-11">
+					<g>
+						<path d="M 385 80.5 L 470 80.5 L 470 200 L 387.24 200" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 393.12 196.5 L 386.12 200 L 393.12 203.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-12">
+					<g>
+						<path d="M 370 60 L 385 80.5 L 370 101 L 355 80.5 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-13">
+					<g>
+						<path d="M 370 40 L 370 60 L 370 40 L 370 57.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 366.5 51.88 L 370 58.88 L 373.5 51.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-14">
+					<g>
+						<ellipse cx="370" cy="30" rx="10" ry="10" fill="#000000" stroke="rgb(0, 0, 0)" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="R2c1oktcaza2ABwHigcT-5">
+					<g>
+						<path d="M 355 200 L 270 200 L 270 320.5 L 352.76 320.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 346.88 324 L 353.88 320.5 L 346.88 317" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-16">
+					<g>
+						<path d="M 370 179.5 L 385 200 L 370 220.5 L 355 200 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-17">
+					<g>
+						<path d="M 370 341 L 370 361 L 370 340 L 370 357.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 366.5 351.88 L 370 358.88 L 373.5 351.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-19">
+					<g>
+						<path d="M 370 300 L 385 320.5 L 370 341 L 355 320.5 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-20">
+					<g>
+						<path d="M 370 401 L 370 421 L 370 399 L 370 416.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 366.5 410.88 L 370 417.88 L 373.5 410.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-21">
+					<g>
+						<rect x="290" y="360" width="160" height="41" rx="6.15" ry="6.15" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 381px; margin-left: 291px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Enter Idle Sleep</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="370" y="384" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">Enter Idle Sleep</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-22">
+					<g>
+						<path d="M 370 460 L 370 480 L 370 460 L 370 477.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 366.5 471.88 L 370 478.88 L 373.5 471.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="R2c1oktcaza2ABwHigcT-18">
+					<g>
+						<path d="M 385 439.5 L 470 439.5 L 470 560.5 L 387.24 560.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 393.12 557 L 386.12 560.5 L 393.12 564" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="HIswqKkz16Yv7U491MXX-23">
+					<g>
+						<path d="M 370 419 L 385 439.5 L 370 460 L 355 439.5 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="R2c1oktcaza2ABwHigcT-8">
+					<g>
+						<rect x="380" y="60" width="160" height="20" fill="none" stroke="none" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 70px; margin-left: 381px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">[CRC Diagnostic disabled]</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="460" y="73" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">[CRC Diagnostic disabled]</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="R2c1oktcaza2ABwHigcT-10">
+					<g>
+						<rect x="230" y="179.5" width="125" height="20" fill="none" stroke="none" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 123px; height: 1px; padding-top: 190px; margin-left: 231px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">[CRCSCAN in progress]</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="293" y="193" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">[CRCSCAN in progress]</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="R2c1oktcaza2ABwHigcT-16">
+					<g>
+						<path d="M 370 521 L 370 541 L 370 520 L 370 537.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 366.5 531.88 L 370 538.88 L 373.5 531.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="R2c1oktcaza2ABwHigcT-12">
+					<g>
+						<rect x="290" y="480" width="160" height="41" rx="6.15" ry="6.15" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 501px; margin-left: 291px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Check and report CRCSCAN result</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="370" y="504" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">Check and report CRCSCAN r...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="R2c1oktcaza2ABwHigcT-13">
+					<g>
+						<rect x="360" y="460" width="125" height="20" fill="none" stroke="none" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 123px; height: 1px; padding-top: 470px; margin-left: 361px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">[CRCSCAN done]</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="423" y="473" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">[CRCSCAN done]</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="R2c1oktcaza2ABwHigcT-14">
+					<g>
+						<ellipse cx="370" cy="615.5" rx="11" ry="11.5" fill="#000000" stroke="#000000" pointer-events="all"/>
+						<ellipse cx="370" cy="615.5" rx="15" ry="15.5" fill="none" stroke="#000000" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="R2c1oktcaza2ABwHigcT-17">
+					<g>
+						<path d="M 370 581 L 370 601 L 370 580 L 370 597.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 366.5 591.88 L 370 598.88 L 373.5 591.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="R2c1oktcaza2ABwHigcT-15">
+					<g>
+						<path d="M 370 540 L 385 560.5 L 370 581 L 355 560.5 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="R2c1oktcaza2ABwHigcT-19">
+					<g>
+						<rect x="385" y="419" width="125" height="20" fill="none" stroke="none" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 123px; height: 1px; padding-top: 429px; margin-left: 386px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">[CRCSCAN in progress]</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="448" y="432" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">[CRCSCAN in progress]</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g data-cell-id="HIswqKkz16Yv7U491MXX-25">
+				<g data-cell-id="R2c1oktcaza2ABwHigcT-0">
+					<g>
+						<path d="M 20 270 L 196 270 L 210 284 L 210 370 L 20 370 L 20 270 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+						<path d="M 196 270 L 196 284 L 210 284 Z" fill-opacity="0.05" fill="#000000" stroke="none" pointer-events="all"/>
+						<path d="M 196 270 L 196 284 L 210 284" fill="none" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 320px; margin-left: 22px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+												Uses Round Robin scheduling 
+												<br/>
+												in the following order:
+												<br/>
+												1. BOOT 
+												<br/>
+												2. APPDATA
+												<br/>
+												3. APPCODE
+												<br/>
+												Any disabled section is taken out of the schedule. 
+												<br/>
+												<div style=""/>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="22" y="324" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px">Uses Round Robin scheduling...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="R2c1oktcaza2ABwHigcT-2">
+					<g>
+						<path d="M 210 320 L 240 320 L 260 260.5 L 290 260.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="8 8" pointer-events="stroke"/>
+					</g>
+				</g>
+				<g data-cell-id="iecyb7dq38-LZ7GQQHEM-0">
+					<g>
+						<path d="M 530 260.75 L 706 260.75 L 720 274.75 L 720 380.25 L 530 380.25 L 530 260.75 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+						<path d="M 706 260.75 L 706 274.75 L 720 274.75 Z" fill-opacity="0.05" fill="#000000" stroke="none" pointer-events="all"/>
+						<path d="M 706 260.75 L 706 274.75 L 720 274.75" fill="none" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 321px; margin-left: 532px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+												Can optionally be configured to wake up after scanning 32 words, where no other wake-up source is required. This effectively converts the focus of the Task to "scan the next Flash 32 words", since it will not re-enter sleep once completed. 
+												<br/>
+												<div style=""/>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="532" y="324" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px">Can optionally be configured to...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="qmVD2FD807EiwMxGxF1V-2">
+					<g>
+						<path d="M 530 320.5 L 500 320.5 L 480 380.5 L 450 380.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="8 8" pointer-events="stroke"/>
+					</g>
+				</g>
+				<g data-cell-id="qmVD2FD807EiwMxGxF1V-1">
+					<g>
+						<path d="M 450 260.5 L 480 260.5 L 500 320.5 L 530 320.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="8 8" pointer-events="stroke"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<switch>
+		<g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+		<a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+			<text text-anchor="middle" font-size="10px" x="50%" y="100%">Text is not SVG - cannot display</text>
+		</a>
+	</switch>
+</svg>

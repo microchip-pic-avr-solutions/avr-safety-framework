@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="871px" height="594px" viewBox="-0.5 -0.5 871 594" style="background-color: white;">
+	<defs/>
+	<g>
+		<g data-cell-id="0">
+			<g data-cell-id="_rN0HQeWooNB3aKPb9x7-33">
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-1">
+					<g>
+						<path d="M 0 3 L 160 3 L 160 28 L 150 43 L 0 43 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+						<path d="M 160 3 L 870 3 L 870 593 L 0 593 L 0 43" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 153px; height: 1px; padding-top: 23px; margin-left: 7px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+												ad Interrupts Architecture: 
+												<br/>
+												Non-maskable interrupts
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="7" y="27" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px">ad Interrupts Architecture...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="AlqF4MKPO-lCkDG_hBVV-3">
+					<g>
+						<path d="M 270 263 L 300 263 L 370 363 L 400 363" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="8 8" pointer-events="stroke"/>
+					</g>
+				</g>
+			</g>
+			<g data-cell-id="amlukgyqqANOESIfIdLt-1">
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-7">
+					<g>
+						<rect x="200" y="163" width="340" height="260" rx="39" ry="39" fill="none" stroke="rgb(0, 0, 0)" stroke-dasharray="8 8" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-24">
+					<g>
+						<rect x="240" y="163" width="200" height="30" fill="none" stroke="none" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 198px; height: 1px; padding-top: 178px; margin-left: 241px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">Interruptible Activity Region</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="340" y="181" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">Interruptible Activity Region</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g data-cell-id="1">
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-8">
+					<g>
+						<path d="M 440 143 L 440 173 L 440 200.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 436.5 194.88 L 440 201.88 L 443.5 194.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-9">
+					<g>
+						<path d="M 360 143 L 380 123 L 360 103 L 520 103 L 520 123 L 520 143 Z" fill="#dae8fc" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 144px; height: 1px; padding-top: 123px; margin-left: 375px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 14px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+												<span style="font-size: 12px;">
+													<b>
+														Non-Maskable 
+														<br/>
+														Interrupt (NMI)
+													</b>
+												</span>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="447" y="127" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="14px" text-anchor="middle">Non-Maskable...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-10">
+					<g>
+						<ellipse cx="440" cy="558" rx="11" ry="11" fill="#000000" stroke="#000000" pointer-events="all"/>
+						<ellipse cx="440" cy="558" rx="15" ry="15" fill="none" stroke="#000000" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="rztix_iN7G-Nmvmz0VnY-1">
+					<g>
+						<path d="M 440 243 L 440 280.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 436.5 274.88 L 440 281.88 L 443.5 274.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-12">
+					<g>
+						<rect x="360" y="203" width="160" height="40" rx="6" ry="6" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 223px; margin-left: 361px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Determine and clear Error Interrupt Source</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="440" y="227" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">Determine and clear Error...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-13">
+					<g>
+						<path d="M 440 323 L 440 343 L 440 360.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 436.5 354.88 L 440 361.88 L 443.5 354.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-14">
+					<g>
+						<rect x="360" y="283" width="160" height="40" rx="6" ry="6" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 303px; margin-left: 361px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Handle Error</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="440" y="307" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">Handle Error</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-19">
+					<g>
+						<path d="M 280 323 L 320 323 L 300 343 Z" fill="#dae8fc" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+						<path d="M 280 363 L 320 363 L 300 343 Z" fill="#dae8fc" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-20">
+					<g>
+						<path d="M 440 503 L 440 540.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 436.5 534.88 L 440 541.88 L 443.5 534.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-21">
+					<g>
+						<path d="M 440 463 L 455 483 L 440 503 L 425 483 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-22">
+					<g>
+						<path d="M 360 483 L 422.76 483" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 416.88 486.5 L 423.88 483 L 416.88 479.5" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-23">
+					<g>
+						<rect x="200" y="463" width="160" height="40" rx="6" ry="6" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 483px; margin-left: 201px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Promote Error to CRITICAL</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="280" y="487" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">Promote Error to CRITICAL</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-25">
+					<g>
+						<path d="M 280 393 L 300 413" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-26">
+					<g>
+						<path d="M 280 393 L 280 460.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 276.5 454.88 L 280 461.88 L 283.5 454.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-27">
+					<g>
+						<path d="M 300 363 L 300 413" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+					</g>
+				</g>
+				<g data-cell-id="_rN0HQeWooNB3aKPb9x7-28">
+					<g>
+						<rect x="220" y="383" width="60" height="40" fill="none" stroke="none" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 58px; height: 1px; padding-top: 403px; margin-left: 221px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">[Timeout]</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="250" y="406" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="11px" text-anchor="middle">[Timeout]</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="QRIVFoXi-qKYlM5z0K-P-6">
+					<g>
+						<rect x="360" y="363" width="160" height="40" rx="6" ry="6" fill="#dae8fc" stroke="#000000" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 383px; margin-left: 361px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; font-weight: bold; white-space: normal; overflow-wrap: normal;">Safe State Transition</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="440" y="387" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px" text-anchor="middle" font-weight="bold">Safe State Transition</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="syAcvr1FmHuskcUSoLum-5">
+					<g>
+						<path d="M 440 403 L 440 460.76" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="stroke"/>
+						<path d="M 436.5 454.88 L 440 461.88 L 443.5 454.88" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+				</g>
+				<g data-cell-id="mjZJMS8yWSMjjdIFgeDM-1">
+					<g>
+						<path d="M 580 383 L 550 383 L 510 323 L 480 323" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="8 8" pointer-events="stroke"/>
+					</g>
+				</g>
+			</g>
+			<g data-cell-id="_rN0HQeWooNB3aKPb9x7-34">
+				<g data-cell-id="mjZJMS8yWSMjjdIFgeDM-4">
+					<g>
+						<path d="M 600 83 L 570 83 L 550 123 L 520 123" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="8 8" pointer-events="stroke"/>
+					</g>
+				</g>
+				<g data-cell-id="QRIVFoXi-qKYlM5z0K-P-4">
+					<g>
+						<path d="M 580 333 L 786 333 L 800 347 L 800 433 L 580 433 L 580 333 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+						<path d="M 786 333 L 786 347 L 800 347 Z" fill-opacity="0.05" fill="#000000" stroke="none" pointer-events="all"/>
+						<path d="M 786 333 L 786 347 L 800 347" fill="none" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 218px; height: 1px; padding-top: 383px; margin-left: 582px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+												The error channels connected to the interrupt source are not cleared for redundancy if the safe state transition fails. This will stall the program until either the watchdog or the error controller times out. 
+												<br/>
+												<div style=""/>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="582" y="387" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px">The error channels connected to the...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="rztix_iN7G-Nmvmz0VnY-2">
+					<g>
+						<path d="M 610 207 L 836 207 L 850 221 L 850 317 L 610 317 L 610 207 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+						<path d="M 836 207 L 836 221 L 850 221 Z" fill-opacity="0.05" fill="#000000" stroke="none" pointer-events="all"/>
+						<path d="M 836 207 L 836 221 L 850 221" fill="none" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 238px; height: 1px; padding-top: 262px; margin-left: 612px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+												This only checks for CPU NMI sources. If this is not the source, it is reported as an unknown NMI source error. This is because it is assumed that the optional NMI sources are not configured as an NMI but are handled through normal interrupts to avoid unnecessary data hazards.
+												<br/>
+												<div style=""/>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="612" y="266" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px">This only checks for CPU NMI sources. If...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="4FMDx33yHwrp3qU5aW2a-1">
+					<g>
+						<path d="M 600 23 L 826 23 L 840 37 L 840 143 L 600 143 L 600 23 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+						<path d="M 826 23 L 826 37 L 840 37 Z" fill-opacity="0.05" fill="#000000" stroke="none" pointer-events="all"/>
+						<path d="M 826 23 L 826 37 L 840 37" fill="none" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 238px; height: 1px; padding-top: 83px; margin-left: 602px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+												<p>
+													<span style="background-color: initial; letter-spacing: 0px;">
+														<b>Non-Optional NMI Sources</b>
+														<br/>
+													</span>
+													<span style="background-color: initial; letter-spacing: 0px;">
+														- CPU: Bus Error
+														<br/>
+													</span>
+													<span style="background-color: initial; letter-spacing: 0px;">
+														- CPU: Stack Pointer Limit Error
+														<br/>
+													</span>
+													<span style="background-color: initial; letter-spacing: 0px;">- CPU: Illegal Opcode</span>
+												</p>
+												<p>
+													<span style="background-color: initial; letter-spacing: 0px; border-color: var(--border-color);">
+														<b>Optional NMI Sources (not supported</b>
+													</span>
+													<span style="background-color: initial; letter-spacing: 0px; border-color: var(--border-color);">
+														<b>
+															)
+															<br/>
+														</b>
+													</span>
+													<span style="background-color: initial; letter-spacing: 0px;">
+														- CRCSCAN: Error
+														<br/>
+													</span>
+													<span style="background-color: initial; letter-spacing: 0px;">- ERRCTRL: NON_CRITICAL error channel</span>
+												</p>
+												<p/>
+												<div style=""/>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="602" y="87" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px">Non-Optional NMI Sources...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="rztix_iN7G-Nmvmz0VnY-5">
+					<g>
+						<path d="M 610 262 L 580 262 L 550 303 L 520 303" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="8 8" pointer-events="stroke"/>
+					</g>
+				</g>
+				<g data-cell-id="rztix_iN7G-Nmvmz0VnY-4">
+					<g>
+						<path d="M 610 262 L 580 262 L 550 223 L 520 223" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="8 8" pointer-events="stroke"/>
+					</g>
+				</g>
+				<g data-cell-id="AlqF4MKPO-lCkDG_hBVV-1">
+					<g>
+						<path d="M 20 213 L 256 213 L 270 227 L 270 313 L 20 313 L 20 213 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+						<path d="M 256 213 L 256 227 L 270 227 Z" fill-opacity="0.05" fill="#000000" stroke="none" pointer-events="all"/>
+						<path d="M 256 213 L 256 227 L 270 227" fill="none" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 248px; height: 1px; padding-top: 263px; margin-left: 22px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+												The NMI must reset the device to prevent undefined behavior. It may have interrupted an atomic operation, such as setting the Error Controller to the Config state or writing to a CCP-protected register, which could leave the system in an inconsistent state.
+												<br/>
+												<div style=""/>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="22" y="267" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px">The NMI must reset the device to prevent...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="aowonNhODE4W3IltD7bi-1">
+					<g>
+						<path d="M 550 453 L 726 453 L 740 467 L 740 533 L 550 533 L 550 453 Z" fill="#fff2cc" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+						<path d="M 726 453 L 726 467 L 740 467 Z" fill-opacity="0.05" fill="#000000" stroke="none" pointer-events="all"/>
+						<path d="M 726 453 L 726 467 L 740 467" fill="none" stroke="#d6b656" stroke-miterlimit="10" pointer-events="all"/>
+					</g>
+					<g>
+						<g transform="translate(-0.5 -0.5)">
+							<switch>
+								<foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+									<div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe flex-start; width: 188px; height: 1px; padding-top: 493px; margin-left: 552px;">
+										<div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: left;">
+											<div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+												This region indicates that if the Error Controller is in an ALARM state, the error will be promoted to CRITICAL if the timeout is triggered. 
+												<br/>
+												<div style=""/>
+											</div>
+										</div>
+									</div>
+								</foreignObject>
+								<text x="552" y="497" fill="rgb(0, 0, 0)" font-family="&quot;Helvetica&quot;" font-size="12px">This region indicates that if t...</text>
+							</switch>
+						</g>
+					</g>
+				</g>
+				<g data-cell-id="aowonNhODE4W3IltD7bi-2">
+					<g>
+						<path d="M 550 493 L 520 493 L 485 423 L 455 423" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="8 8" pointer-events="stroke"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<switch>
+		<g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+		<a transform="translate(0,-5)" xlink:href="https://www.drawio.com/doc/faq/svg-export-text-problems" target="_blank">
+			<text text-anchor="middle" font-size="10px" x="50%" y="100%">Text is not SVG - cannot display</text>
+		</a>
+	</switch>
+</svg>

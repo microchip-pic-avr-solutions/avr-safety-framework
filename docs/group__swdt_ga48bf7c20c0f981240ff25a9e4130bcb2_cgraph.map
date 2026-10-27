@@ -1,0 +1,5 @@
+<map id="SWDT_WriteResetValue" name="SWDT_WriteResetValue">
+<area shape="rect" id="Node000001" title="Overwrites the RESET register value." alt="" coords="5,5,170,33"/>
+<area shape="rect" id="Node000002" href="$group__ccp__utility.html#ga92d6424b66eac0568185eb9dc5e62e5d" title="Writes value to a Configuration Change Protected (CCP) 24&#45;bit register." alt="" coords="218,5,343,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,16,202,16,202,22,170,22"/>
+</map>

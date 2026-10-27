@@ -1,0 +1,7 @@
+<map id="MW_GetClearBusError" name="MW_GetClearBusError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating an error in the Bus Matrix." alt="" coords="237,44,395,72"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#ga750e10737bfee1caa46c3d79c872de66" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,189,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,48,189,43,190,38,222,42"/>
+<area shape="rect" id="Node000003" href="$group__interrupt__tasks.html#gaab0d86ebfceb97ba075c6f0acfef870c" title="Handles Non&#45;Maskable Interrupts (NMI) by reporting the Error ID of any detected faults." alt="" coords="17,74,177,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,74,177,80,177,74,221,68"/>
+</map>

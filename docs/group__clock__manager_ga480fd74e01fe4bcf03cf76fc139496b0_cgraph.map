@@ -1,0 +1,5 @@
+<map id="MW_EnableClockInterrupts" name="MW_EnableClockInterrupts">
+<area shape="rect" id="Node000001" title="Enables all Clock Failure Detect (CFD) and Clock Frequency Measure (CFM) interrupts." alt="" coords="5,5,194,33"/>
+<area shape="rect" id="Node000002" href="$group__clkctrl.html#gaf3222551abd27936b7877e7ea1aeb48f" title="Sets specific bits in the MCLKINTCTRL register." alt="" coords="242,5,409,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,16,226,16,226,22,194,22"/>
+</map>

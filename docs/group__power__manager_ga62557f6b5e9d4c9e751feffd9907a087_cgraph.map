@@ -1,0 +1,7 @@
+<map id="MW_GetClearVlmError" name="MW_GetClearVlmError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating a supply voltage trigger error detected by the Voltage Level Mon..." alt="" coords="5,32,167,60"/>
+<area shape="rect" id="Node000002" href="$group__bodctrl.html#gac907468b3eb8103e3a5a1f7211f79a80" title="Reads the INTFLAGS register value." alt="" coords="216,5,384,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,33,200,29,201,34,168,38"/>
+<area shape="rect" id="Node000003" href="$group__bodctrl.html#gac03ef7f0c099f959037b9a02d3071701" title="Overwrites the INTFLAGS register value." alt="" coords="215,57,385,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,53,200,57,199,62,167,58"/>
+</map>

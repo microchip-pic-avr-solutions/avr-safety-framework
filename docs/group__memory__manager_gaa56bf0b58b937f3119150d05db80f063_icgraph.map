@@ -1,0 +1,5 @@
+<map id="MW_GetPersistentVal" name="MW_GetPersistentVal">
+<area shape="rect" id="Node000001" title="Reads a value in General Purpose Registers (GPR) that is stored for preserving data between resets." alt="" coords="211,5,364,33"/>
+<area shape="rect" id="Node000002" href="$group__startup__tasks.html#gaa2dc2ecc3f324cd398116dc6280d9628" title="Retrieves and validates stored reset info from persistent memory and issues configurable callback for..." alt="" coords="5,5,163,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,22,163,22,163,16,195,16"/>
+</map>

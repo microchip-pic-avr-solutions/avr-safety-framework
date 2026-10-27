@@ -1,0 +1,68 @@
+# This file normalizes line endings for text files to LF and protects binary files from any
+# line-ending conversion. This matters because Windows and Linux/macOS use different line endings
+# by default (e.g. Git and the VS Code Source Control extension can otherwise mark unchanged files
+# as modified when switching between them). This file is necessary for release_content.sha256 to
+# verify correctly regardless of which OS is used to clone or check out this repository.
+# For more info, see https://code.visualstudio.com/docs/remote/troubleshooting#_resolving-git-line-ending-issues-in-wsl-resulting-in-many-modified-files
+#
+# The base rule below relies on Git's own content-based text/binary detection to apply this
+# automatically, with shell and batch scripts exempted since they depend on their own native line
+# endings.
+* text=auto eol=lf
+*.{cmd,[cC][mM][dD]} text eol=crlf
+*.{bat,[bB][aA][tT]} text eol=crlf
+
+# The explicit rules below classify common file types as text or binary. Git's automatic detection
+# above already handles these correctly on its own; these entries are explicit, self-documenting
+# defense against edge cases that could confuse the automatic detection.
+
+*.awk text eol=lf
+*.c text eol=lf
+.clang-format text eol=lf
+.clang-tidy text eol=lf
+*.cmapx text eol=lf
+*.css text eol=lf
+*.csv text eol=lf
+*.diff text eol=lf
+*.dox text eol=lf
+*.drawio text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+.gitkeep text eol=lf
+*.h text eol=lf
+*.html text eol=lf
+*.info text eol=lf
+*.inx text eol=lf
+*.js text eol=lf
+*.json text eol=lf
+*.jsonc text eol=lf
+*.lic text eol=lf
+*.log text eol=lf
+Makefile text eol=lf
+*.map text eol=lf
+*.md text eol=lf
+*.md5 text eol=lf
+*.py text eol=lf
+*.S text eol=lf
+*.sh text eol=lf
+*.svg text eol=lf
+*.txt text eol=lf
+*.xml text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.doc binary
+*.docx binary
+*.elf binary
+*.exe binary
+*.gif binary
+*.jpeg binary
+*.jpg binary
+*.o binary
+*.pdf binary
+*.png binary
+*.ppt binary
+*.pptx binary
+*.xls binary
+*.xlsm binary
+*.xlsx binary
+*.zip binary

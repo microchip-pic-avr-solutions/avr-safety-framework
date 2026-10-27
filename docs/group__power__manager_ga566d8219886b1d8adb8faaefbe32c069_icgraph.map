@@ -1,0 +1,7 @@
+<map id="MW_EnterSleepMode" name="MW_EnterSleepMode">
+<area shape="rect" id="Node000001" title="Enters the selected device sleep mode." alt="" coords="217,32,369,60"/>
+<area shape="rect" id="Node000002" href="$group__scheduler__tasks.html#ga7a146d3a982c0ac1ed91b78903e44dd3" title="Enters device sleep in Idle mode and optionally enables and handles CRC Scan of Flash." alt="" coords="24,5,150,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,37,149,30,150,25,202,31"/>
+<area shape="rect" id="Node000003" href="$group__shutdown__tasks.html#gaff0ed8c54b94a07bfce2a278f76256e4" title="Enters device sleep in either Standby or Power&#45;Down mode depending on the configuration." alt="" coords="5,57,169,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="202,60,170,64,169,58,201,54"/>
+</map>

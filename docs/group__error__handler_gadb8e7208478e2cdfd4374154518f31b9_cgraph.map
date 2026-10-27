@@ -1,0 +1,7 @@
+<map id="EH_PushNotificationLog" name="EH_PushNotificationLog">
+<area shape="rect" id="Node000001" title="Pushes Error ID to the Notification Error Log for later handling." alt="" coords="5,32,175,60"/>
+<area shape="rect" id="Node000002" href="$group__interrupt__manager.html#ga4e74c7084a038f39180380ef421fcd99" title="Enters a critical section by disabling global interrupts." alt="" coords="223,5,394,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,33,207,29,208,34,176,38"/>
+<area shape="rect" id="Node000005" href="$group__interrupt__manager.html#gadc18facc47e9d1271d835f48c729c784" title="Exits a critical section by restoring the previous global interrupt state." alt="" coords="228,57,388,85"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="176,53,213,57,212,63,175,58"/>
+</map>

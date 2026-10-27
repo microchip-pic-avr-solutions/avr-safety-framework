@@ -1,0 +1,5 @@
+<map id="MW_GetSwdtClearError" name="MW_GetSwdtClearError">
+<area shape="rect" id="Node000001" title="Reads the error flag indicating a non&#45;clear command received while expecting a clear command in the S..." alt="" coords="5,5,173,33"/>
+<area shape="rect" id="Node000002" href="$group__swdt.html#ga0eac8b03390fd254d43121a5ca4765c2" title="Reads the INTFLAGS register value." alt="" coords="221,5,366,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,16,205,16,205,22,173,22"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MW_GetClearVmonOverError" name="MW_GetClearVmonOverError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating an overvoltage error detected by the Voltage Monitor." alt="" coords="5,32,207,60"/>
+<area shape="rect" id="Node000002" href="$group__slpctrl.html#gafa9212c4a3a2bfb57253eff18ed228b9" title="Reads the INTFLAGS register value." alt="" coords="256,5,418,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,32,240,28,241,33,207,37"/>
+<area shape="rect" id="Node000003" href="$group__slpctrl.html#ga6561e59c74228d99af2d0510c18e7dab" title="Overwrites the INTFLAGS register value." alt="" coords="255,57,420,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,54,240,58,239,63,207,60"/>
+</map>

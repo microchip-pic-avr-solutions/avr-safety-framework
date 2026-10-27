@@ -1,0 +1,5 @@
+<map id="MW_GetSwdtCounterExpiredError" name="MW_GetSwdtCounterExpiredError">
+<area shape="rect" id="Node000001" title="Reads the error flag indicating that the Synchronous Watchdog Timer (SWDT) counter expired." alt="" coords="5,5,204,50"/>
+<area shape="rect" id="Node000002" href="$group__swdt.html#ga0eac8b03390fd254d43121a5ca4765c2" title="Reads the INTFLAGS register value." alt="" coords="252,14,397,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,25,236,25,236,30,204,30"/>
+</map>

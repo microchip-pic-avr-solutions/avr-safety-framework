@@ -1,0 +1,9 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Runs the Startup, Scheduler and optionally Shutdown Task Managers." alt="" coords="5,57,57,85"/>
+<area shape="rect" id="Node000002" href="$group__scheduler.html#ga6b38c1babeec44d857f14f3c38c88e72" title="Manages and synchronizes safety system and application Tasks from a user defined schedule." alt="" coords="106,5,212,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="56,58,108,37,110,42,58,63"/>
+<area shape="rect" id="Node000041" href="$group__shutdown.html#gad3975e9eed47a5c787388cf1a4bf3341" title="Manages Tasks that ensure safe execution of device sleeping in Standby or Power&#45;Down mode." alt="" coords="105,57,213,85"/>
+<area shape="poly" id="edge2_Node000001_Node000041" title=" " alt="" coords="57,68,89,68,89,74,57,74"/>
+<area shape="rect" id="Node000065" href="$group__startup.html#gaafa77cc706561398012e37761145306f" title="Manages and synchronizes safety system and application startup Tasks." alt="" coords="113,109,204,137"/>
+<area shape="poly" id="edge3_Node000001_Node000065" title=" " alt="" coords="58,79,110,101,108,106,56,84"/>
+</map>

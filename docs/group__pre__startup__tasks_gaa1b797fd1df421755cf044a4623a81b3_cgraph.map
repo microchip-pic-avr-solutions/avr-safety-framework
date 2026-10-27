@@ -1,0 +1,7 @@
+<map id="T_DetermineResetReason" name="T_DetermineResetReason">
+<area shape="rect" id="Node000001" title="Determines the reason for the last device reset and stores it for later handling." alt="" coords="5,32,182,60"/>
+<area shape="rect" id="Node000002" href="$group__reset__manager.html#ga56ebf076652d75a321f4ff07fd1c3964" title="Reads and clears the reset flag registers." alt="" coords="230,5,413,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,33,214,29,214,34,182,38"/>
+<area shape="rect" id="Node000003" href="$group__memory__manager.html#ga288fde0388a5c29a2aeaaa4ae961dd66" title="Stores a value in General Purpose Registers (GPR) for preserving data between resets." alt="" coords="240,57,403,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,53,224,58,224,63,182,58"/>
+</map>

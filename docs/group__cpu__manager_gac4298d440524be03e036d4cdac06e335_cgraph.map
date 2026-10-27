@@ -1,0 +1,5 @@
+<map id="MW_DiagCpuLockstep" name="MW_DiagCpuLockstep">
+<area shape="rect" id="Node000001" title="Performs error injection diagnostic to detect faults in the CPU lockstep mechanism." alt="" coords="5,5,163,33"/>
+<area shape="rect" id="Node000002" href="$group__cpuctrl.html#ga3f32dce54116f2d94354960f48e07eee" title="Sets specific bits in the CTRLA register." alt="" coords="211,5,371,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,16,195,16,195,22,163,22"/>
+</map>

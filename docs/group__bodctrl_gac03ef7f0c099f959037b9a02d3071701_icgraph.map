@@ -1,0 +1,5 @@
+<map id="BODCTRL_WriteIntFlags" name="BODCTRL_WriteIntFlags">
+<area shape="rect" id="Node000001" title="Overwrites the INTFLAGS register value." alt="" coords="215,5,385,33"/>
+<area shape="rect" id="Node000002" href="$group__power__manager.html#ga62557f6b5e9d4c9e751feffd9907a087" title="Reads and clears the flag indicating a supply voltage trigger error detected by the Voltage Level Mon..." alt="" coords="5,5,167,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,22,167,22,167,16,199,16"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ReportClearEvsys1ChannelError" name="ReportClearEvsys1ChannelError">
+<area shape="rect" id="Node000001" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,49,189,94"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="259,5,380,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,47,244,34,245,39,190,52"/>
+<area shape="rect" id="Node000023" href="$group__error__manager.html#ga0f46e6936a413fab0a9dd8742635ce8d" title="Clears the specified error channel and confirms that the channel is cleared." alt="" coords="237,57,403,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="189,68,221,68,221,74,189,74"/>
+<area shape="rect" id="Node000026" href="$group__error__manager.html#ga607ff4ceda3dc4dd433aee396c76c737" title="Reads the status of the specified error channel." alt="" coords="242,109,398,137"/>
+<area shape="poly" id="edge3_Node000001_Node000026" title=" " alt="" coords="190,90,243,103,242,108,189,95"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="MW_DiagClockCfm0" name="MW_DiagClockCfm0">
+<area shape="rect" id="Node000001" title="Performs error injection diagnostic to detect faults in the Clock Frequency Measure 0 (CFM0) monitor." alt="" coords="5,57,153,85"/>
+<area shape="rect" id="Node000002" href="$group__shared__middleware__diag.html#ga6f1ac925bac3786a0aa0ae43c81b1a11" title="Restore global interrupts if previously enabled." alt="" coords="208,5,339,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,54,203,35,205,40,134,59"/>
+<area shape="rect" id="Node000004" href="$group__shared__middleware__diag.html#ga68b838ba045a40ea39b2f516f3c3bda3" title="Backup and disable global interrupts." alt="" coords="205,57,342,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="153,68,190,68,190,74,153,74"/>
+<area shape="rect" id="Node000007" href="$group__shared__middleware__diag.html#ga85c8aa30dd05c181cb258a6a4029630e" title="Check Error Controller state and error channels indicated by the channel mask input." alt="" coords="201,109,346,137"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="134,83,205,102,203,107,133,88"/>
+</map>

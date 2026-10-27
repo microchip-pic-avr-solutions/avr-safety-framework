@@ -1,0 +1,7 @@
+<map id="MW_EnableGlobalInterrupts" name="MW_EnableGlobalInterrupts">
+<area shape="rect" id="Node000001" title="Enables global interrupts on the device." alt="" coords="5,32,201,60"/>
+<area shape="rect" id="Node000002" href="$group__cpuctrl.html#ga08ed4868ad3ba0ebf4955a852c0893fd" title="Reads the SREG register value." alt="" coords="249,5,451,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,33,233,29,233,34,201,38"/>
+<area shape="rect" id="Node000003" href="$group__cpuctrl.html#ga4902a90a08e11129de26f48f6b8712a2" title="Sets specific bits in the SREG register." alt="" coords="254,57,446,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,53,239,57,238,62,201,59"/>
+</map>

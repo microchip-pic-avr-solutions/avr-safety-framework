@@ -1,0 +1,5 @@
+<map id="MW_EnableSwdtInterrupts" name="MW_EnableSwdtInterrupts">
+<area shape="rect" id="Node000001" title="Enables all Synchronous Watchdog Timer (SWDT) error interrupts." alt="" coords="5,5,190,33"/>
+<area shape="rect" id="Node000002" href="$group__swdt.html#ga47a2584f34b184b7b8635e26f39e29c9" title="Overwrites the INTCTRL register value." alt="" coords="238,5,400,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,16,222,16,222,22,190,22"/>
+</map>

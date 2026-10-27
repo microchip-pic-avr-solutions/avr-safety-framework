@@ -1,0 +1,7 @@
+<map id="MW_ClearSwdt" name="MW_ClearSwdt">
+<area shape="rect" id="Node000001" title="Issues a CLEAR command to the Synchronous Watchdog Timer (SWDT)." alt="" coords="264,32,378,60"/>
+<area shape="rect" id="Node000002" href="$group__shutdown__tasks.html#gaec196c40e57efef893e676766f06aa4a" title="Clears both the Watchdog Timer (WDT) and Synchronous Watchdog Timer (SWDT)." alt="" coords="5,5,216,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,39,216,35,216,30,249,34"/>
+<area shape="rect" id="Node000005" href="$group__shared__tasks.html#ga30a606f4a3c8ae160671307c60c3b304" title="Waits until the current Synchronous Watchdog timeout is completed before clearing and setting the nex..." alt="" coords="25,57,196,85"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="249,57,196,64,196,58,248,52"/>
+</map>

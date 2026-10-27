@@ -1,0 +1,7 @@
+<map id="MW_DiagClockCfd1End" name="MW_DiagClockCfd1End">
+<area shape="rect" id="Node000001" title="Completes error injection diagnostic to detect faults in the Clock Failure Detection 1 (CFD1) monitor..." alt="" coords="5,32,171,60"/>
+<area shape="rect" id="Node000002" href="$group__shared__middleware__diag.html#ga6f1ac925bac3786a0aa0ae43c81b1a11" title="Restore global interrupts if previously enabled." alt="" coords="221,5,352,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,32,205,27,206,33,171,37"/>
+<area shape="rect" id="Node000004" href="$group__shared__middleware__diag.html#ga68b838ba045a40ea39b2f516f3c3bda3" title="Backup and disable global interrupts." alt="" coords="219,57,355,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="171,54,204,58,203,63,170,59"/>
+</map>

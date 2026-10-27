@@ -1,0 +1,5 @@
+<map id="ISR_RAMCTRL_INT_vect" name="ISR_RAMCTRL_INT_vect">
+<area shape="rect" id="Node000001" title="Runs the Interrupts Task Manager to handle a RAM Controller (RAMCTRL) error interrupt." alt="" coords="5,5,172,33"/>
+<area shape="rect" id="Node000002" href="$group__interrupts.html#gac69afebb3b0c5bcac0bb573c03fa7923" title="Executes the task responsible for handling a RAM Controller (RAMCTRL) error interrupt." alt="" coords="220,5,354,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,16,204,16,204,22,172,22"/>
+</map>

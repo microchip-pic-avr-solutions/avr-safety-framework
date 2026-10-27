@@ -1,0 +1,7 @@
+<map id="MW_GetClearNvmEccCompError" name="MW_GetClearNvmEccCompError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating an ECC comparator error in the NVM controller." alt="" coords="239,44,461,72"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#ga15f60447438b4b10b3927edc5ac3e668" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,191,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,46,191,42,191,36,223,40"/>
+<area shape="rect" id="Node000003" href="$group__interrupt__tasks.html#gac2360150e5b92001943a8cb083210ae4" title="Handles NVM interrupts by reporting the Error ID of any detected faults." alt="" coords="17,74,179,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="224,76,180,81,179,76,223,70"/>
+</map>

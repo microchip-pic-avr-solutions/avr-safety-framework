@@ -1,0 +1,9 @@
+<map id="T_HandlePreStartupErrors" name="T_HandlePreStartupErrors">
+<area shape="rect" id="Node000001" title="Retrieves and validates stored Pre&#45;startup error flags from persistent memory and reports them to the..." alt="" coords="5,57,187,85"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="263,5,384,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,54,247,34,248,39,161,59"/>
+<area shape="rect" id="Node000023" href="$group__memory__manager.html#ga8b90f615924b9b82a5ee19da57d0d794" title="Clears all stored persistent flags in GPR." alt="" coords="235,57,412,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="187,68,219,68,219,74,187,74"/>
+<area shape="rect" id="Node000026" href="$group__memory__manager.html#ga51415dcf4d1f2d4dc52707dfa3fd347b" title="Reads two redundant bits for each boolean flags in General Purpose Registers (GPR) that is stored for..." alt="" coords="243,109,404,137"/>
+<area shape="poly" id="edge3_Node000001_Node000026" title=" " alt="" coords="161,83,245,103,244,108,159,88"/>
+</map>

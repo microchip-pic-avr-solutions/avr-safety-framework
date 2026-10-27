@@ -1,0 +1,9 @@
+<map id="MW_DiagWdtCountBegin" name="MW_DiagWdtCountBegin">
+<area shape="rect" id="Node000001" title="Begins diagnostic to detect faults in the Watchdog Timer (WDT) Counter mechanism." alt="" coords="5,57,182,85"/>
+<area shape="rect" id="Node000002" href="$group__shared__middleware__diag.html#ga6f1ac925bac3786a0aa0ae43c81b1a11" title="Restore global interrupts if previously enabled." alt="" coords="233,5,364,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,54,225,35,226,40,152,59"/>
+<area shape="rect" id="Node000004" href="$group__shared__middleware__diag.html#ga68b838ba045a40ea39b2f516f3c3bda3" title="Backup and disable global interrupts." alt="" coords="230,57,366,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="182,68,215,68,215,74,182,74"/>
+<area shape="rect" id="Node000007" href="$group__wdt.html#ga5d551015a04b9ada4317d0c7e0eabcf1" title="Reads the CNT register value." alt="" coords="230,109,367,137"/>
+<area shape="poly" id="edge3_Node000001_Node000007" title=" " alt="" coords="152,83,226,102,225,107,150,88"/>
+</map>

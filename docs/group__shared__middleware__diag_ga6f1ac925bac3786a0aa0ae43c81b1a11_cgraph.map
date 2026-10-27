@@ -1,0 +1,5 @@
+<map id="AtomicSectionEnd" name="AtomicSectionEnd">
+<area shape="rect" id="Node000001" title="Restore global interrupts if previously enabled." alt="" coords="5,5,137,33"/>
+<area shape="rect" id="Node000002" href="$group__cpuctrl.html#ga4902a90a08e11129de26f48f6b8712a2" title="Sets specific bits in the SREG register." alt="" coords="185,5,376,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="137,16,169,16,169,22,137,22"/>
+</map>

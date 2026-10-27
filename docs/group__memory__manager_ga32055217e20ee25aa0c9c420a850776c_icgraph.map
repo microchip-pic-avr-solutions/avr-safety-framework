@@ -1,0 +1,5 @@
+<map id="MW_SetRamStackLimit" name="MW_SetRamStackLimit">
+<area shape="rect" id="Node000001" title="Sets the Stack Pointer Limit value and optionally locks the value to prevent modification." alt="" coords="154,5,314,33"/>
+<area shape="rect" id="Node000002" href="$group__startup__tasks.html#gafa9512cf79e8d5aa2e195bdbbc07fdc9" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,106,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="138,22,106,22,106,16,138,16"/>
+</map>

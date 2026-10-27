@@ -1,0 +1,5 @@
+<map id="CRCSCAN_ReadCrcResult" name="CRCSCAN_ReadCrcResult">
+<area shape="rect" id="Node000001" title="Reads the CRC register value." alt="" coords="228,5,403,33"/>
+<area shape="rect" id="Node000002" href="$group__checksum__manager.html#gaf31c32c2628e3c3f14583d4575e47bb1" title="Ends a CRC Manual Mode calculation and returns the computed CRC result." alt="" coords="5,5,180,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,22,180,22,180,16,213,16"/>
+</map>

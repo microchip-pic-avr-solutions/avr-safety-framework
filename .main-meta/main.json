@@ -1,0 +1,102 @@
+{
+    "metaDataVersion": "1.0.0",
+    "category": "com.microchip.ide.project",
+    "content": {
+        "metaDataVersion": "1.3.0",
+        "name": "com.microchip.mcu8.mplabx.project.avr-safety-framework",
+        "version": "1.0.0",
+        "displayName": "AVR SD Safety Framework",
+        "projectName": "avr-safety-framework",
+        "shortDescription": "ISO 26262 ASIL C and IEC 61508 SIL 2 compliant software framework that coordinates the hardware safety mechanisms of the AVR SD family. The framework source code is available free of charge from the AVR SD product page.",
+        "ide": [
+            {
+                "name": "MPLAB X",
+                "semverRange": ">=6.30.0"
+            }
+        ],
+        "compiler": [
+            {
+                "name": "XC8",
+                "semverRange": "^3.19.0"
+            }
+        ],
+        "dfp": [
+            {
+                "name": "AVR-Sx_DFP",
+                "semverRange": "^1.2.26"
+            }
+        ],
+        "configurator": {
+            "name": "N/A",
+            "semverRange": ""
+        },
+        "device": [
+            {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.contentRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "category": "com.microchip.device",
+                    "name": "AVR32SD20",
+                    "versionRange": "*"
+                }
+            },
+            {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.contentRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "category": "com.microchip.device",
+                    "name": "AVR32SD28",
+                    "versionRange": "*"
+                }
+            },
+            {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.contentRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "category": "com.microchip.device",
+                    "name": "AVR32SD32",
+                    "versionRange": "*"
+                }
+            }
+        ],
+        "author": "Microchip Technology",
+        "peripherals": [
+            "WDT",
+            "WWDT",
+            "CRCSCAN",
+            "Clock Failure Detection",
+            "Brown Out Detect",
+            "ECC Flash with Fault Injection",
+            "Reset Controller",
+            "Interrupt"
+        ],
+        "keywords": [
+            "Functional Safety",
+            "FuSa",
+            "Safety",
+            "ISO 26262",
+            "IEC 61508",
+            "IEC 60730",
+            "ASIL C",
+            "SIL 2",
+            "Class B",
+            "Class C",
+            "Fault Injection",
+            "Library"
+        ],
+        "additionalData": {
+            "longDescription": {
+                "metaDataVersion": "1.0.0",
+                "category": "com.microchip.portal.fileRef",
+                "content": {
+                    "metaDataVersion": "1.0.0",
+                    "fileName": "./README.md",
+                    "mimeType": "text/markdown"
+                }
+            }
+        }
+    }
+}

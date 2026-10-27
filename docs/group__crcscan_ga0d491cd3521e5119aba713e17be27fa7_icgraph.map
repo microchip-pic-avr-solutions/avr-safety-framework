@@ -1,0 +1,5 @@
+<map id="CRCSCAN_ReadStatus" name="CRCSCAN_ReadStatus">
+<area shape="rect" id="Node000001" title="Reads the STATUSA register value." alt="" coords="243,5,398,33"/>
+<area shape="rect" id="Node000002" href="$group__checksum__manager.html#gac7d5dd16810772e8d174bb3f506bda6a" title="Reads and clears the flag indicating a CRC Scan of Flash is done and returns the scan result." alt="" coords="5,5,195,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,22,195,22,195,16,227,16"/>
+</map>

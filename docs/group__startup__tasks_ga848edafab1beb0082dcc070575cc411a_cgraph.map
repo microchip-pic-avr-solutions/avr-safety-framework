@@ -1,0 +1,7 @@
+<map id="InitErrorController" name="InitErrorController">
+<area shape="rect" id="Node000001" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,32,141,60"/>
+<area shape="rect" id="Node000002" href="$group__error__manager.html#ga297fd245072aac904e53cf9a9c94564f" title="Sets the error controller timeout duration and configures all error channels with the provided settin..." alt="" coords="193,5,374,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,35,177,30,178,35,141,40"/>
+<area shape="rect" id="Node000010" href="$group__error__manager.html#gac95e8b400df565ee8464cdb6d58c2381" title="Selects whether a normal or a Non&#45;Maskable Interrupt (NMI) should occur when the Error Controller is ..." alt="" coords="189,57,379,85"/>
+<area shape="poly" id="edge2_Node000001_Node000010" title=" " alt="" coords="141,51,173,55,173,61,140,57"/>
+</map>

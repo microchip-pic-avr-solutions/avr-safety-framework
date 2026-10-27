@@ -1,0 +1,7 @@
+<map id="MW_EnterCriticalSection" name="MW_EnterCriticalSection">
+<area shape="rect" id="Node000001" title="Enters a critical section by disabling global interrupts." alt="" coords="5,32,177,60"/>
+<area shape="rect" id="Node000002" href="$group__cpuctrl.html#ga3a436dd72247a70b3e31836004ea0e13" title="Clears specific bits in the SREG register." alt="" coords="225,5,429,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,33,209,30,209,35,177,39"/>
+<area shape="rect" id="Node000003" href="$group__cpuctrl.html#ga08ed4868ad3ba0ebf4955a852c0893fd" title="Reads the SREG register value." alt="" coords="226,57,428,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,52,210,56,210,61,177,58"/>
+</map>

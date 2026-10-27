@@ -1,0 +1,5 @@
+<map id="CPUCTRL_WriteSplim" name="CPUCTRL_WriteSplim">
+<area shape="rect" id="Node000001" title="Overwrites the SPLIM register value." alt="" coords="214,5,367,33"/>
+<area shape="rect" id="Node000002" href="$group__memory__manager.html#ga32055217e20ee25aa0c9c420a850776c" title="Sets the Stack Pointer Limit value and optionally locks the value to prevent modification." alt="" coords="5,5,166,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,22,166,22,166,16,198,16"/>
+</map>

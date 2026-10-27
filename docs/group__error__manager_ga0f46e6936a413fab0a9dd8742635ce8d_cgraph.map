@@ -1,0 +1,7 @@
+<map id="MW_ClearErrorChannel" name="MW_ClearErrorChannel">
+<area shape="rect" id="Node000001" title="Clears the specified error channel and confirms that the channel is cleared." alt="" coords="5,32,172,60"/>
+<area shape="rect" id="Node000002" href="$group__errctrl.html#ga49e47a70a09340726f90f2d64af933a9" title="Reads the ESF register value." alt="" coords="221,5,424,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,34,206,30,206,35,172,39"/>
+<area shape="rect" id="Node000003" href="$group__errctrl.html#gaf7bdfc8342d456c358a49b9cf63f2d12" title="Overwrites the ESF register value." alt="" coords="220,57,425,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,52,205,56,204,61,172,57"/>
+</map>

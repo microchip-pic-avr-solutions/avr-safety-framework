@@ -1,0 +1,5 @@
+<map id="RunStartupDiagClock" name="RunStartupDiagClock">
+<area shape="rect" id="Node000001" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="226,5,375,33"/>
+<area shape="rect" id="Node000002" href="$group__startup__tasks.html#ga149b832df770dee9dc8e30ebca47399c" title="Runs all enabled startup diagnostics and reports any detected faults to the Error Handler." alt="" coords="5,5,178,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,22,178,22,178,16,210,16"/>
+</map>

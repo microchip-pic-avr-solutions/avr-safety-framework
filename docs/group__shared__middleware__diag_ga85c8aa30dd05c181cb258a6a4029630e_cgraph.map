@@ -1,0 +1,7 @@
+<map id="IsErrChConfigurable" name="IsErrChConfigurable">
+<area shape="rect" id="Node000001" title="Check Error Controller state and error channels indicated by the channel mask input." alt="" coords="5,32,151,60"/>
+<area shape="rect" id="Node000002" href="$group__errctrl.html#ga49e47a70a09340726f90f2d64af933a9" title="Reads the ESF register value." alt="" coords="199,5,401,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="151,34,183,31,184,36,151,40"/>
+<area shape="rect" id="Node000003" href="$group__errctrl.html#ga1621b555fcd8d31d8457b4d7f16ed37a" title="Reads the CTRLA register value." alt="" coords="215,57,384,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,51,200,57,200,62,151,57"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="TM_InterruptsDefault" name="TM_InterruptsDefault">
+<area shape="rect" id="Node000001" title="Executes the default task responsible for handling accidental (bad) interrupts." alt="" coords="5,5,157,33"/>
+<area shape="rect" id="Node000002" href="$group__interrupt__tasks.html#ga417c88c1c05408aff3495b1e24c7c26a" title="Handles bad interrupt requests that do not have a corresponding ISR for handling it." alt="" coords="205,5,362,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,16,189,16,189,22,157,22"/>
+</map>

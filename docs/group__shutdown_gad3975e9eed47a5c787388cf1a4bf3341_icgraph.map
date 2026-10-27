@@ -1,0 +1,5 @@
+<map id="TM_Shutdown" name="TM_Shutdown">
+<area shape="rect" id="Node000001" title="Manages Tasks that ensure safe execution of device sleeping in Standby or Power&#45;Down mode." alt="" coords="105,5,213,33"/>
+<area shape="rect" id="Node000002" href="$group__main__example.html#ga840291bc02cba5474a4cb46a9b9566fe" title="Runs the Startup, Scheduler and optionally Shutdown Task Managers." alt="" coords="5,5,57,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,22,57,22,57,16,89,16"/>
+</map>

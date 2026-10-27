@@ -1,0 +1,5 @@
+<map id="T_HandleBodInterrupt" name="T_HandleBodInterrupt">
+<area shape="rect" id="Node000001" title="Handles Brown&#45;out Detector (BOD) Voltage Level Monitor (VLM) interrupt by reporting the associated Er..." alt="" coords="185,5,343,33"/>
+<area shape="rect" id="Node000002" href="$group__interrupts.html#ga203889922adfd5ec85425dd88af2a0f7" title="Executes the task responsible for handling a Brown&#45;out Detector (BOD) interrupt." alt="" coords="5,5,137,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,22,137,22,137,16,169,16"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MW_StartCfd1" name="MW_StartCfd1">
+<area shape="rect" id="Node000001" title="Starts Clock Failure Detect 1 (CFD1) to monitor the configured clock source with the configured refer..." alt="" coords="5,5,115,33"/>
+<area shape="rect" id="Node000002" href="$group__clkctrl.html#ga75083c475fc33922b240d1308232d4b1" title="Overwrites the MCLKCFD1CTRLA register value." alt="" coords="163,5,363,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,16,147,16,147,22,115,22"/>
+</map>

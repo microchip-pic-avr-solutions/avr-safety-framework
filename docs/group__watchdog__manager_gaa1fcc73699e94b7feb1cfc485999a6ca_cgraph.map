@@ -1,0 +1,5 @@
+<map id="MW_SetSwdtResetValue" name="MW_SetSwdtResetValue">
+<area shape="rect" id="Node000001" title="Sets the Synchronous Watchdog Timer (SWDT) countdown reset value." alt="" coords="5,5,173,33"/>
+<area shape="rect" id="Node000002" href="$group__swdt.html#ga48bf7c20c0f981240ff25a9e4130bcb2" title="Overwrites the RESET register value." alt="" coords="221,5,385,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,16,205,16,205,22,173,22"/>
+</map>

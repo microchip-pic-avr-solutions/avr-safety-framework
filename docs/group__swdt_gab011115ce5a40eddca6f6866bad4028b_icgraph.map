@@ -1,0 +1,7 @@
+<map id="SWDT_WriteCommand" name="SWDT_WriteCommand">
+<area shape="rect" id="Node000001" title="Overwrites the COMMAND register value." alt="" coords="188,32,350,60"/>
+<area shape="rect" id="Node000002" href="$group__watchdog__manager.html#gab05948a352ea6efc1a943afc18690b2e" title="Issues a CLEAR command to the Synchronous Watchdog Timer (SWDT)." alt="" coords="15,5,130,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="172,35,130,30,131,24,173,30"/>
+<area shape="rect" id="Node000009" href="$group__watchdog__manager.html#ga08f80f5bccd43b75bcadd4b995cfb852" title="Issues a PRECLEAR command to the Synchronous Watchdog Timer (SWDT)." alt="" coords="5,57,140,85"/>
+<area shape="poly" id="edge2_Node000001_Node000009" title=" " alt="" coords="172,61,141,65,140,60,172,56"/>
+</map>

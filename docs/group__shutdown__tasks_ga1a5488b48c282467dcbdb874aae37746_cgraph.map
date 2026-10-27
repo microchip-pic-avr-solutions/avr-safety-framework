@@ -1,0 +1,19 @@
+<map id="T_InitSafeShutdown" name="T_InitSafeShutdown">
+<area shape="rect" id="Node000001" title="Initializes and prepares the system for safe entry into shutdown sleep modes." alt="" coords="5,188,149,216"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="234,5,355,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,186,123,118,156,78,195,44,218,32,220,37,198,48,160,82,128,121,87,189"/>
+<area shape="rect" id="Node000023" href="$group__error__manager.html#gaab9d582ba7aea53ffd0e36c2d5bf837e" title="Checks if all I/O pins are floated (tri&#45;stated)." alt="" coords="231,57,358,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="89,186,133,141,163,117,195,95,215,87,217,91,198,100,166,121,136,145,93,189"/>
+<area shape="rect" id="Node000006" href="$group__error__manager.html#gae241ba85bb32c4c6a48527b95fe17af8" title="Enables forced floating (tri&#45;stating) of all I/O pins." alt="" coords="214,109,374,137"/>
+<area shape="poly" id="edge3_Node000001_Node000006" title=" " alt="" coords="107,185,196,147,220,139,222,144,198,152,109,190"/>
+<area shape="rect" id="Node000025" href="$group__interrupt__manager.html#ga11949a5a036cd83e72aecd820a94788b" title="Enables global interrupts on the device." alt="" coords="197,161,392,189"/>
+<area shape="poly" id="edge4_Node000001_Node000025" title=" " alt="" coords="149,190,181,186,181,192,150,196"/>
+<area shape="rect" id="Node000026" href="$group__clock__manager.html#ga448df38bf91d86ebc479da8bd67f2e46" title="Disables Clock Failure Detect 0 (CFD0)." alt="" coords="239,213,350,241"/>
+<area shape="poly" id="edge5_Node000001_Node000026" title=" " alt="" coords="150,208,224,216,223,222,149,213"/>
+<area shape="rect" id="Node000028" href="$group__clock__manager.html#ga2c7355036aa4aeade61c517c904743fc" title="Disables Clock Failure Detect 1 (CFD1)." alt="" coords="240,265,348,293"/>
+<area shape="poly" id="edge6_Node000001_Node000028" title=" " alt="" coords="110,214,198,250,226,259,224,264,196,255,108,219"/>
+<area shape="rect" id="Node000030" href="$group__clock__manager.html#gada3d88861e14f2b54831dfd1713c4683" title="Disables Clock Frequency Measure 0 (CFM0)." alt="" coords="237,317,352,345"/>
+<area shape="poly" id="edge7_Node000001_Node000030" title=" " alt="" coords="93,214,136,258,166,282,198,302,224,313,222,318,195,307,163,286,133,262,89,218"/>
+<area shape="rect" id="Node000032" href="$group__clock__manager.html#gafe806b2e5fe7583ef0108d3e3dd7501b" title="Disables Clock Frequency Measure 1 (CFM1)." alt="" coords="238,369,350,397"/>
+<area shape="poly" id="edge8_Node000001_Node000032" title=" " alt="" coords="88,215,128,282,160,321,198,354,225,368,223,372,195,359,156,325,124,285,83,218"/>
+</map>

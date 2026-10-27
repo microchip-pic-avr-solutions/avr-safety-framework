@@ -1,0 +1,5 @@
+<map id="EH_PushNotificationLog" name="EH_PushNotificationLog">
+<area shape="rect" id="Node000001" title="Pushes Error ID to the Notification Error Log for later handling." alt="" coords="175,5,344,33"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="5,5,127,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="159,22,127,22,127,16,159,16"/>
+</map>

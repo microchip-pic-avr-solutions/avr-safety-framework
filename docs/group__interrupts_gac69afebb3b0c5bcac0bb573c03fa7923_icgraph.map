@@ -1,0 +1,5 @@
+<map id="TM_InterruptsRam" name="TM_InterruptsRam">
+<area shape="rect" id="Node000001" title="Executes the task responsible for handling a RAM Controller (RAMCTRL) error interrupt." alt="" coords="220,5,354,33"/>
+<area shape="rect" id="Node000002" href="$group__main__example.html#gab4167838dad5f27447692b6d2133cc6a" title="Runs the Interrupts Task Manager to handle a RAM Controller (RAMCTRL) error interrupt." alt="" coords="5,5,172,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,22,172,22,172,16,204,16"/>
+</map>

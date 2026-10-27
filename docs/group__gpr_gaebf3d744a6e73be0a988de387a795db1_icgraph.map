@@ -1,0 +1,9 @@
+<map id="GPR_ReadRegister0" name="GPR_ReadRegister0">
+<area shape="rect" id="Node000001" title="Reads the GPR0 register value." alt="" coords="248,57,389,85"/>
+<area shape="rect" id="Node000002" href="$group__memory__manager.html#gaa56bf0b58b937f3119150d05db80f063" title="Reads a value in General Purpose Registers (GPR) that is stored for preserving data between resets." alt="" coords="26,5,179,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,56,163,36,164,31,244,51"/>
+<area shape="rect" id="Node000004" href="$group__memory__manager.html#gaa710d73ca145fde751841820388ded66" title="Checks if any of the stored persistent values are corrupted." alt="" coords="5,57,200,85"/>
+<area shape="poly" id="edge2_Node000001_Node000004" title=" " alt="" coords="232,74,200,74,200,68,232,68"/>
+<area shape="rect" id="Node000005" href="$group__memory__manager.html#ga288fde0388a5c29a2aeaaa4ae961dd66" title="Stores a value in General Purpose Registers (GPR) for preserving data between resets." alt="" coords="21,109,184,137"/>
+<area shape="poly" id="edge3_Node000001_Node000005" title=" " alt="" coords="244,92,164,111,163,106,242,87"/>
+</map>

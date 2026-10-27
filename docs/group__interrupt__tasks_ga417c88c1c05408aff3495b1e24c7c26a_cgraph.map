@@ -1,0 +1,5 @@
+<map id="T_HandleBadInterrupt" name="T_HandleBadInterrupt">
+<area shape="rect" id="Node000001" title="Handles bad interrupt requests that do not have a corresponding ISR for handling it." alt="" coords="5,5,163,33"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="211,5,332,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,16,195,16,195,22,163,22"/>
+</map>

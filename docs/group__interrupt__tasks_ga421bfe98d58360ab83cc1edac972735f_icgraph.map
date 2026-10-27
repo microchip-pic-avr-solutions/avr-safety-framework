@@ -1,0 +1,5 @@
+<map id="T_HandleErrorChInterrupt" name="T_HandleErrorChInterrupt">
+<area shape="rect" id="Node000001" title="Handles Error Channel interrupts by reporting the sources of the first set Error Channel." alt="" coords="209,5,391,33"/>
+<area shape="rect" id="Node000002" href="$group__interrupts.html#gacba8acdefd7244ae191d43afab5fd56f" title="Executes the task responsible for handling a Error Controller (ERRCTRL) channel interrupt." alt="" coords="5,5,161,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,22,161,22,161,16,193,16"/>
+</map>

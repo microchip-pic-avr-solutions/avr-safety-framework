@@ -1,0 +1,7 @@
+<map id="T_EnterIdleSleep" name="T_EnterIdleSleep">
+<area shape="rect" id="Node000001" title="Enters device sleep in Idle mode and optionally enables and handles CRC Scan of Flash." alt="" coords="5,32,131,60"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="194,5,316,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,34,179,27,179,33,132,40"/>
+<area shape="rect" id="Node000023" href="$group__power__manager.html#ga566d8219886b1d8adb8faaefbe32c069" title="Enters the selected device sleep mode." alt="" coords="179,57,331,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="132,52,163,56,163,61,131,57"/>
+</map>

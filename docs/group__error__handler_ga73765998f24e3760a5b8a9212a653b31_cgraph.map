@@ -1,0 +1,7 @@
+<map id="EH_HandleError" name="EH_HandleError">
+<area shape="rect" id="Node000001" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="5,32,127,60"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#gafa3d7008a2cea38c0d7c0fd8f5bf40d3" title="Transitions the system into a Safe State and resets the device." alt="" coords="187,5,332,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,35,171,29,172,34,128,40"/>
+<area shape="rect" id="Node000017" href="$group__error__handler.html#gadb8e7208478e2cdfd4374154518f31b9" title="Pushes Error ID to the Notification Error Log for later handling." alt="" coords="175,57,344,85"/>
+<area shape="poly" id="edge2_Node000001_Node000017" title=" " alt="" coords="127,51,160,55,159,61,127,56"/>
+</map>

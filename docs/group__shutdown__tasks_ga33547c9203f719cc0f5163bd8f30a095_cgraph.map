@@ -1,0 +1,7 @@
+<map id="T_RestartDevice" name="T_RestartDevice">
+<area shape="rect" id="Node000001" title="Restarts the device as part of the shutdown exit sequence." alt="" coords="5,32,123,60"/>
+<area shape="rect" id="Node000002" href="$group__reset__manager.html#ga8964c4e3b57b5a6693c2ff3a3e1ee17e" title="Issues a software reset request to reset the device." alt="" coords="191,5,314,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,35,175,27,175,33,123,40"/>
+<area shape="rect" id="Node000005" href="$group__memory__manager.html#ga288fde0388a5c29a2aeaaa4ae961dd66" title="Stores a value in General Purpose Registers (GPR) for preserving data between resets." alt="" coords="171,57,334,85"/>
+<area shape="poly" id="edge2_Node000001_Node000005" title=" " alt="" coords="123,51,156,55,155,61,123,56"/>
+</map>

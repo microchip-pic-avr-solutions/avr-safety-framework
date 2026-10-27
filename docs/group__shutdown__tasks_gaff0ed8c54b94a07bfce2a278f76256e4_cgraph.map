@@ -1,0 +1,7 @@
+<map id="T_EnterShutdownSleep" name="T_EnterShutdownSleep">
+<area shape="rect" id="Node000001" title="Enters device sleep in either Standby or Power&#45;Down mode depending on the configuration." alt="" coords="5,32,169,60"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="232,5,354,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,33,216,26,217,32,170,38"/>
+<area shape="rect" id="Node000023" href="$group__power__manager.html#ga566d8219886b1d8adb8faaefbe32c069" title="Enters the selected device sleep mode." alt="" coords="217,57,369,85"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="170,53,202,57,201,63,169,59"/>
+</map>

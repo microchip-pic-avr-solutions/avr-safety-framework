@@ -1,0 +1,7 @@
+<map id="AtomicSectionStart" name="AtomicSectionStart">
+<area shape="rect" id="Node000001" title="Backup and disable global interrupts." alt="" coords="5,32,142,60"/>
+<area shape="rect" id="Node000002" href="$group__cpuctrl.html#ga3a436dd72247a70b3e31836004ea0e13" title="Clears specific bits in the SREG register." alt="" coords="190,5,394,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,35,174,31,174,36,142,40"/>
+<area shape="rect" id="Node000003" href="$group__cpuctrl.html#ga08ed4868ad3ba0ebf4955a852c0893fd" title="Reads the SREG register value." alt="" coords="191,57,393,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="142,51,176,55,175,60,142,56"/>
+</map>

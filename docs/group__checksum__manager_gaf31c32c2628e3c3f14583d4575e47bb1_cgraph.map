@@ -1,0 +1,5 @@
+<map id="MW_EndCrcManualMode" name="MW_EndCrcManualMode">
+<area shape="rect" id="Node000001" title="Ends a CRC Manual Mode calculation and returns the computed CRC result." alt="" coords="5,5,180,33"/>
+<area shape="rect" id="Node000002" href="$group__crcscan.html#ga230554dd38481aea074e508a18b117bc" title="Reads the CRC register value." alt="" coords="228,5,403,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,16,212,16,212,22,180,22"/>
+</map>

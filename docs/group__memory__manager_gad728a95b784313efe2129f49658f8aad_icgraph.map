@@ -1,0 +1,7 @@
+<map id="MW_GetClearRamStackError" name="MW_GetClearRamStackError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating a stack pointer limit error in SRAM." alt="" coords="264,32,460,60"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#ga72ca8ba2f847828ae2f2686be15abd6c" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,216,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,36,216,33,216,28,249,31"/>
+<area shape="rect" id="Node000003" href="$group__interrupt__tasks.html#gaab0d86ebfceb97ba075c6f0acfef870c" title="Handles Non&#45;Maskable Interrupts (NMI) by reporting the Error ID of any detected faults." alt="" coords="31,57,190,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,60,191,66,190,60,248,55"/>
+</map>

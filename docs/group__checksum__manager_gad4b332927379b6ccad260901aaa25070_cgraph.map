@@ -1,0 +1,7 @@
+<map id="MW_SetCrcScanInterrupts" name="MW_SetCrcScanInterrupts">
+<area shape="rect" id="Node000001" title="Configures the interrupt settings for the next CRC Scan of a Flash section." alt="" coords="5,32,185,60"/>
+<area shape="rect" id="Node000002" href="$group__crcscan.html#gaf795a24ae3292427783cb706296e1c74" title="Modifies specific bit field(s) in the CTRLA register." alt="" coords="233,5,418,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,33,217,29,218,34,185,38"/>
+<area shape="rect" id="Node000003" href="$group__crcscan.html#ga523aae8a1aef034d32d0f03b96a6f16b" title="Overwrites the INTCTRL register value." alt="" coords="233,57,418,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="185,53,217,57,217,62,185,58"/>
+</map>

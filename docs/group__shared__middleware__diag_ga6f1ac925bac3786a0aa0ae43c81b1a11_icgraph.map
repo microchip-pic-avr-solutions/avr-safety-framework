@@ -1,0 +1,47 @@
+<map id="AtomicSectionEnd" name="AtomicSectionEnd">
+<area shape="rect" id="Node000001" title="Restore global interrupts if previously enabled." alt="" coords="263,552,394,580"/>
+<area shape="rect" id="Node000002" href="$group__clock__manager.html#ga1d7c53e68a97d8e3cc76cc45950772c8" title="Starts error injection diagnostic to detect faults in the Clock Failure Detection 0 (CFD0) monitor." alt="" coords="21,5,199,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="322,537,311,429,290,282,275,207,257,140,237,85,213,48,197,36,200,31,217,44,241,82,262,138,280,206,295,281,316,428,327,537"/>
+<area shape="rect" id="Node000007" href="$group__clock__manager.html#ga49c6f85eafdc204a1e8df718606215a2" title="Completes error injection diagnostic to detect faults in the Clock Failure Detection 0 (CFD0) monitor..." alt="" coords="26,57,194,85"/>
+<area shape="poly" id="edge2_Node000001_Node000007" title=" " alt="" coords="321,537,309,439,286,307,271,241,254,181,235,132,213,100,193,86,196,81,217,96,239,130,259,180,277,240,292,306,314,438,327,537"/>
+<area shape="rect" id="Node000008" href="$group__clock__manager.html#gac1c0792179588d0960f6696196fc9b6b" title="Starts error injection diagnostic to detect faults in the Clock Failure Detection 1 (CFD1) monitor." alt="" coords="22,109,198,137"/>
+<area shape="poly" id="edge3_Node000001_Node000008" title=" " alt="" coords="320,537,306,449,283,333,251,223,233,180,213,152,196,140,199,135,217,148,237,178,256,221,288,332,311,448,326,536"/>
+<area shape="rect" id="Node000009" href="$group__clock__manager.html#ga22b91c5b0dd88b61fa195da4e82a81f4" title="Completes error injection diagnostic to detect faults in the Clock Failure Detection 1 (CFD1) monitor..." alt="" coords="27,161,193,189"/>
+<area shape="poly" id="edge4_Node000001_Node000009" title=" " alt="" coords="324,536,320,468,304,378,290,331,270,284,245,241,213,204,191,190,194,185,216,200,249,238,275,282,295,329,309,377,325,468,330,536"/>
+<area shape="rect" id="Node000010" href="$group__clock__manager.html#gac0d063cef4101d5f0300aa265abc63ef" title="Performs error injection diagnostic to detect faults in the Clock Frequency Measure 0 (CFM0) monitor." alt="" coords="36,213,184,241"/>
+<area shape="poly" id="edge5_Node000001_Node000010" title=" " alt="" coords="323,537,315,477,297,401,283,362,264,323,241,287,213,256,183,239,186,234,216,252,245,284,269,320,288,360,302,400,320,476,328,536"/>
+<area shape="rect" id="Node000011" href="$group__clock__manager.html#ga5f602f6a69f97263f948f9ae3d17270b" title="Performs error injection diagnostic to detect faults in the Clock Frequency Measure 1 (CFM1) monitor." alt="" coords="37,265,183,293"/>
+<area shape="poly" id="edge6_Node000001_Node000011" title=" " alt="" coords="320,537,310,487,290,425,258,362,237,333,213,308,182,291,185,286,216,304,242,329,263,359,295,423,315,486,325,536"/>
+<area shape="rect" id="Node000012" href="$group__error__manager.html#gafadfbd939d053cb5cf3a431a637f6917" title="Performs error injection diagnostic to detect faults in the CFD0 error channel." alt="" coords="14,317,206,345"/>
+<area shape="poly" id="edge7_Node000001_Node000012" title=" " alt="" coords="317,538,303,497,282,449,252,401,234,379,213,360,193,348,195,343,216,356,238,375,256,398,287,447,308,496,322,536"/>
+<area shape="rect" id="Node000014" href="$group__error__manager.html#ga018e7674b7f5ae7e90e67e6d05138506" title="Performs error injection diagnostic to detect faults in the CFD1 error channel." alt="" coords="15,369,205,397"/>
+<area shape="poly" id="edge8_Node000001_Node000014" title=" " alt="" coords="312,540,274,475,246,441,213,412,190,400,192,395,216,408,250,437,278,472,317,537"/>
+<area shape="rect" id="Node000015" href="$group__error__manager.html#gab576ac1d17c090709fb4d0ca08b72e67" title="Performs error injection diagnostic to detect faults in the CFM0 error channel." alt="" coords="12,421,208,449"/>
+<area shape="poly" id="edge9_Node000001_Node000015" title=" " alt="" coords="304,542,264,501,240,481,213,464,185,452,187,447,216,459,243,477,268,498,308,538"/>
+<area shape="rect" id="Node000016" href="$group__error__manager.html#ga8e46f364e7e9fc741cc0a2685f274836" title="Performs error injection diagnostic to detect faults in the CFM1 error channel." alt="" coords="13,473,207,501"/>
+<area shape="poly" id="edge10_Node000001_Node000016" title=" " alt="" coords="285,547,214,516,174,504,176,499,216,511,287,542"/>
+<area shape="rect" id="Node000017" href="$group__error__manager.html#gac8132190cab8f6c95d6e3c227a549909" title="Performs error injection diagnostic to detect faults in the EEPROM error channel." alt="" coords="5,525,215,553"/>
+<area shape="poly" id="edge11_Node000001_Node000017" title=" " alt="" coords="247,559,215,555,215,549,248,553"/>
+<area shape="rect" id="Node000018" href="$group__error__manager.html#ga5376a4e6406b7baafa8505b820f8b7f1" title="Performs error injection diagnostic to detect faults in the EVSYS0 error channel." alt="" coords="9,577,211,605"/>
+<area shape="poly" id="edge12_Node000001_Node000018" title=" " alt="" coords="247,578,211,582,211,577,247,573"/>
+<area shape="rect" id="Node000019" href="$group__error__manager.html#gafafe6879b2844c6e28e4e91ba2103122" title="Performs error injection diagnostic to detect faults in the EVSYS1 error channel." alt="" coords="10,629,210,657"/>
+<area shape="poly" id="edge13_Node000001_Node000019" title=" " alt="" coords="286,589,216,619,175,631,173,626,214,614,284,584"/>
+<area shape="rect" id="Node000020" href="$group__error__manager.html#ga7ed9e9ae9fb78150a2f20292f595b0fb" title="Performs error injection diagnostic to detect faults in the SPLIM error channel." alt="" coords="12,681,208,709"/>
+<area shape="poly" id="edge14_Node000001_Node000020" title=" " alt="" coords="308,593,268,633,243,654,216,671,186,683,184,678,213,666,240,649,264,629,304,589"/>
+<area shape="rect" id="Node000021" href="$group__memory__manager.html#ga8c0a7269815dcfd457314af9794dfd9f" title="This function performs error injection diagnostic to detect faults in the NVMCTRL ECC checkers with E..." alt="" coords="22,733,198,761"/>
+<area shape="poly" id="edge15_Node000001_Node000021" title=" " alt="" coords="317,595,278,660,250,694,216,723,192,735,189,730,213,718,246,690,274,657,312,592"/>
+<area shape="rect" id="Node000023" href="$group__memory__manager.html#ga6791bb6da541eff4ba61a9af25994ca6" title="This function performs error injection diagnostic to detect faults in the NVMCTRL ECC checkers with F..." alt="" coords="30,785,190,813"/>
+<area shape="poly" id="edge16_Node000001_Node000023" title=" " alt="" coords="322,595,308,636,287,684,256,733,216,775,192,788,189,784,213,770,252,730,282,682,303,634,317,594"/>
+<area shape="rect" id="Node000024" href="$group__memory__manager.html#ga23d47a56f19a800efc681bade9f07431" title="This function performs error injection diagnostic to detect faults in the CPU and NVM bus parity chec..." alt="" coords="39,837,181,865"/>
+<area shape="poly" id="edge17_Node000001_Node000024" title=" " alt="" coords="325,596,315,646,294,708,263,772,241,801,216,827,200,837,182,845,180,840,198,833,213,822,237,798,258,769,290,706,309,644,320,594"/>
+<area shape="rect" id="Node000026" href="$group__memory__manager.html#ga65d1ed209ac5e5010e929fcfd0f5e5ee" title="This function performs error injection diagnostic to detect faults in the redundant RAMCTRL ECC check..." alt="" coords="47,889,173,917"/>
+<area shape="poly" id="edge18_Node000001_Node000026" title=" " alt="" coords="328,596,320,655,302,731,287,771,269,810,245,847,216,879,197,892,174,900,173,895,194,887,213,874,241,843,264,808,283,769,297,730,315,654,323,595"/>
+<area shape="rect" id="Node000027" href="$group__memory__manager.html#ga77d9492dc32a40e0c873e0b84cc222d7" title="This function performs error injection diagnostic to detect faults in the RAM parity checker triggere..." alt="" coords="40,941,180,969"/>
+<area shape="poly" id="edge19_Node000001_Node000027" title=" " alt="" coords="330,595,325,664,309,754,295,802,275,849,249,892,216,930,200,942,181,950,179,945,197,938,213,927,245,889,270,846,290,800,304,753,320,663,324,595"/>
+<area shape="rect" id="Node000028" href="$group__watchdog__manager.html#ga6323b2f240ca10cf6f292c77dcb7526e" title="Performs diagnostic to detect faults in the Synchronous Watchdog Timer (SWDT) Counter mechanism." alt="" coords="37,993,183,1021"/>
+<area shape="poly" id="edge20_Node000001_Node000028" title=" " alt="" coords="326,595,311,683,288,799,256,910,237,953,217,982,202,994,185,1001,183,996,199,989,213,979,233,950,251,908,283,798,306,683,320,594"/>
+<area shape="rect" id="Node000032" href="$group__watchdog__manager.html#ga583967c17ffc5fc118d1bd19973a92c5" title="Begins diagnostic to detect faults in the Watchdog Timer (WDT) Counter mechanism." alt="" coords="22,1045,198,1073"/>
+<area shape="poly" id="edge21_Node000001_Node000032" title=" " alt="" coords="327,596,314,694,291,825,276,891,259,951,239,1001,217,1034,200,1047,197,1043,213,1031,234,998,254,950,271,890,286,824,309,693,321,595"/>
+<area shape="rect" id="Node000033" href="$group__watchdog__manager.html#gae3f9158018a391e4f6cae8a03ba9e93d" title="Completes diagnostic to detect faults in the Watchdog Timer (WDT) Counter mechanism." alt="" coords="27,1097,193,1125"/>
+<area shape="poly" id="edge22_Node000001_Node000033" title=" " alt="" coords="327,595,316,703,295,850,280,924,262,992,241,1048,217,1086,195,1102,192,1097,213,1083,236,1046,257,991,275,923,290,849,311,702,322,594"/>
+</map>

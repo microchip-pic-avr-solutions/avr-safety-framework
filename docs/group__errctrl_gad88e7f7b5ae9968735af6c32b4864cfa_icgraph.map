@@ -1,0 +1,5 @@
+<map id="ERRCTRL_ReadStatusA" name="ERRCTRL_ReadStatusA">
+<area shape="rect" id="Node000001" title="Reads the STATUSA register value." alt="" coords="181,5,340,33"/>
+<area shape="rect" id="Node000002" href="$group__error__manager.html#gaab9d582ba7aea53ffd0e36c2d5bf837e" title="Checks if all I/O pins are floated (tri&#45;stated)." alt="" coords="5,5,133,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,22,133,22,133,16,165,16"/>
+</map>

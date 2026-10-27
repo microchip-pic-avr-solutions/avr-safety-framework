@@ -1,0 +1,5 @@
+<map id="MW_GetFirstSetErrorChannel" name="MW_GetFirstSetErrorChannel">
+<area shape="rect" id="Node000001" title="Returns the first set error channel in the Error Controller." alt="" coords="5,5,208,33"/>
+<area shape="rect" id="Node000002" href="$group__errctrl.html#ga49e47a70a09340726f90f2d64af933a9" title="Reads the ESF register value." alt="" coords="256,5,458,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,16,240,16,240,22,208,22"/>
+</map>

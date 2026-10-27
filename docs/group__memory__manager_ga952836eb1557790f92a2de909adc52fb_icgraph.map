@@ -1,0 +1,7 @@
+<map id="MW_GetClearCpuInstrParityError" name="MW_GetClearCpuInstrParityError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating an instruction bus parity error in the CPU." alt="" coords="254,24,446,68"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#ga920f2345d8e8c14218e91ba09c3d479e" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,206,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,36,206,33,207,27,239,31"/>
+<area shape="rect" id="Node000003" href="$group__interrupt__tasks.html#gaab0d86ebfceb97ba075c6f0acfef870c" title="Handles Non&#45;Maskable Interrupts (NMI) by reporting the Error ID of any detected faults." alt="" coords="26,57,185,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="239,60,186,66,185,60,238,55"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="SWDT_WriteWindowValue" name="SWDT_WriteWindowValue">
+<area shape="rect" id="Node000001" title="Overwrites the WINDOW register value." alt="" coords="238,5,419,33"/>
+<area shape="rect" id="Node000002" href="$group__watchdog__manager.html#gaf2c6bc0abb36b5b562447c28feb48ac4" title="Sets the Synchronous Watchdog Timer (SWDT) open window value." alt="" coords="5,5,190,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,22,190,22,190,16,222,16"/>
+</map>

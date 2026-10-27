@@ -1,0 +1,7 @@
+<map id="MW_GetClearRamEccCompError" name="MW_GetClearRamEccCompError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating an ECC comparator error in the RAM controller." alt="" coords="264,32,485,60"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#ga19dd107d63aba8d6f9661342fabe1bf2" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,216,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,36,216,32,216,27,249,30"/>
+<area shape="rect" id="Node000003" href="$group__interrupt__tasks.html#gaf4e6160e44dcc18f321b19ccd160e5d8" title="Handles RAM interrupts by reporting the Error ID of any detected faults." alt="" coords="30,57,191,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="249,61,192,66,192,61,248,55"/>
+</map>

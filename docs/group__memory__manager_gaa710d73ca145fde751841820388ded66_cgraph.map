@@ -1,0 +1,7 @@
+<map id="MW_IsPersistentValsCorrupt" name="MW_IsPersistentValsCorrupt">
+<area shape="rect" id="Node000001" title="Checks if any of the stored persistent values are corrupted." alt="" coords="5,32,200,60"/>
+<area shape="rect" id="Node000002" href="$group__gpr.html#gaebf3d744a6e73be0a988de387a795db1" title="Reads the GPR0 register value." alt="" coords="248,5,389,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,31,232,27,232,32,200,36"/>
+<area shape="rect" id="Node000003" href="$group__gpr.html#ga8560cbeea01d3d316d2aae3b1379f446" title="Reads the GPR1 register value." alt="" coords="249,57,388,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,55,233,59,233,64,200,60"/>
+</map>

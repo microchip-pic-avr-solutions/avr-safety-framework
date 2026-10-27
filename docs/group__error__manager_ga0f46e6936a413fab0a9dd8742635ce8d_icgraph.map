@@ -1,0 +1,47 @@
+<map id="MW_ClearErrorChannel" name="MW_ClearErrorChannel">
+<area shape="rect" id="Node000001" title="Clears the specified error channel and confirms that the channel is cleared." alt="" coords="264,654,430,682"/>
+<area shape="rect" id="Node000002" href="$group__shared__tasks.html#ga750e10737bfee1caa46c3d79c872de66" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="19,5,202,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="340,639,327,515,302,343,285,255,265,175,241,109,228,83,214,64,200,52,204,48,218,61,232,81,246,107,270,173,290,254,308,342,333,515,346,638"/>
+<area shape="rect" id="Node000003" href="$group__shared__tasks.html#ga5589ac6e077c6724e985c35bd2fe76ef" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="7,74,214,102"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="340,639,326,524,301,367,283,287,263,215,240,156,214,116,198,104,201,100,218,113,245,153,268,213,288,286,306,366,331,523,345,638"/>
+<area shape="rect" id="Node000004" href="$group__shared__tasks.html#gaa76de776541e6f6f8a635b1462c28846" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="8,126,213,154"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="339,639,324,534,297,392,280,321,260,256,238,204,214,168,198,156,201,152,218,164,243,201,265,254,285,320,302,391,329,533,344,638"/>
+<area shape="rect" id="Node000005" href="$group__shared__tasks.html#gaa0293b3d33676b57ecb92fe06c4edd19" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,178,216,206"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="344,638,340,556,334,502,324,443,308,383,285,323,254,268,214,220,197,208,200,204,217,216,258,265,290,321,313,381,329,442,340,501,346,555,349,638"/>
+<area shape="rect" id="Node000006" href="$group__shared__tasks.html#gadd7f8c916cf7fe26a012cd22b752a34e" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="6,230,215,258"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="342,638,336,564,318,464,301,412,279,360,250,312,214,271,199,260,202,256,217,267,255,309,284,358,306,410,323,463,342,563,348,638"/>
+<area shape="rect" id="Node000007" href="$group__shared__tasks.html#ga0d3329934469c108a424a6611c85fd8b" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="14,281,207,326"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="340,639,329,577,306,497,290,454,269,413,244,374,214,340,198,329,202,324,217,336,248,371,274,410,295,452,311,495,334,576,345,638"/>
+<area shape="rect" id="Node000008" href="$group__shared__tasks.html#gae3bed61dbd6e4d0e9810350f43710978" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="18,351,203,395"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="336,639,322,590,297,528,262,464,239,435,214,410,197,398,200,394,217,406,243,432,266,462,302,526,327,588,341,638"/>
+<area shape="rect" id="Node000009" href="$group__shared__tasks.html#ga407d5e6b1644b18032e7b96dc53f5ed8" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="19,420,202,465"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="331,641,313,604,287,560,254,517,214,479,195,467,198,463,217,475,258,513,291,558,317,601,336,638"/>
+<area shape="rect" id="Node000010" href="$group__shared__tasks.html#ga2c6d2a27d4d3c039b40cc37bbfaffee0" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="18,489,203,534"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="322,644,275,596,246,570,214,549,191,537,193,532,217,544,249,566,279,592,326,640"/>
+<area shape="rect" id="Node000011" href="$group__shared__tasks.html#ga15f60447438b4b10b3927edc5ac3e668" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="18,559,203,603"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="296,650,215,618,182,606,183,601,217,613,298,645"/>
+<area shape="rect" id="Node000012" href="$group__shared__tasks.html#ga920f2345d8e8c14218e91ba09c3d479e" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="10,627,211,655"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="248,659,211,655,211,650,248,654"/>
+<area shape="rect" id="Node000013" href="$group__shared__tasks.html#ga64abeb191507578a6f7cdbd87c5cf68d" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="6,679,215,707"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="248,681,216,684,215,679,248,676"/>
+<area shape="rect" id="Node000014" href="$group__shared__tasks.html#ga19dd107d63aba8d6f9661342fabe1bf2" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,731,216,759"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="299,690,216,721,174,733,172,728,215,716,297,685"/>
+<area shape="rect" id="Node000015" href="$group__shared__tasks.html#ga72ca8ba2f847828ae2f2686be15abd6c" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,783,216,811"/>
+<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="323,694,276,735,217,773,185,785,183,780,214,768,273,730,319,690"/>
+<area shape="rect" id="Node000016" href="$group__shared__tasks.html#ga40767a464b76824800e0f407d8691462" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="7,835,214,863"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="332,696,287,761,254,795,217,825,191,837,189,832,214,820,251,792,282,758,328,693"/>
+<area shape="rect" id="Node000017" href="$group__shared__tasks.html#gab867b00b15a0c3862fd2d9930de7fce6" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="14,887,207,931"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="338,697,320,737,294,785,260,834,217,876,199,888,196,884,214,872,256,831,289,782,315,735,333,695"/>
+<area shape="rect" id="Node000018" href="$group__shared__tasks.html#ga682dff97f19c7585ff48a0cb2addefc1" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="9,956,212,1001"/>
+<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="342,698,328,750,304,817,268,886,245,918,217,946,200,958,197,953,214,942,240,914,263,883,299,815,323,749,337,696"/>
+<area shape="rect" id="Node000019" href="$group__interrupt__tasks.html#ga6bf1d72aa560322ee6981351fc2c7a5d" title="Handles Clock interrupts by reporting the Error ID of any detected faults and clearing CFM done flags..." alt="" coords="26,1024,195,1052"/>
+<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="346,698,337,763,316,849,299,894,278,938,251,979,217,1015,196,1028,194,1024,214,1011,246,976,273,936,294,892,311,847,332,762,341,697"/>
+<area shape="rect" id="Node000022" href="$group__interrupt__tasks.html#gac2360150e5b92001943a8cb083210ae4" title="Handles NVM interrupts by reporting the Error ID of any detected faults." alt="" coords="29,1076,192,1104"/>
+<area shape="poly" id="edge19_Node000001_Node000022" title=" " alt="" coords="348,698,341,772,322,871,306,924,283,975,254,1024,217,1066,194,1081,191,1076,214,1062,250,1020,279,973,301,922,317,870,336,771,342,697"/>
+<area shape="rect" id="Node000025" href="$group__interrupt__tasks.html#gaad65aa1a682f653829da3404f62e339e" title="Handles power related interrupts by reporting the Error ID of any detected faults." alt="" coords="24,1128,197,1156"/>
+<area shape="poly" id="edge20_Node000001_Node000025" title=" " alt="" coords="349,697,346,780,340,834,329,893,313,954,289,1013,258,1069,217,1118,198,1131,195,1127,214,1114,254,1066,285,1011,308,952,324,892,334,833,340,779,344,697"/>
+<area shape="rect" id="Node000028" href="$group__interrupt__tasks.html#gaf4e6160e44dcc18f321b19ccd160e5d8" title="Handles RAM interrupts by reporting the Error ID of any detected faults." alt="" coords="30,1180,191,1208"/>
+<area shape="poly" id="edge21_Node000001_Node000028" title=" " alt="" coords="344,697,329,802,302,943,285,1015,265,1080,243,1133,218,1170,193,1186,190,1181,214,1166,238,1131,260,1078,280,1013,297,942,324,801,339,696"/>
+<area shape="rect" id="Node000031" href="$group__interrupt__tasks.html#gac24623cbad6f695cd281b0128707a8ad" title="Handles SWDT interrupts by reporting the Error ID of any detected faults." alt="" coords="28,1232,193,1260"/>
+<area shape="poly" id="edge22_Node000001_Node000031" title=" " alt="" coords="345,697,331,812,306,969,288,1049,268,1121,244,1181,218,1222,195,1237,192,1233,214,1218,240,1178,263,1119,283,1047,300,968,326,811,340,697"/>
+</map>

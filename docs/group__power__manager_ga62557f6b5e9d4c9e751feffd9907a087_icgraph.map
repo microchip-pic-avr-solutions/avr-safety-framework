@@ -1,0 +1,5 @@
+<map id="MW_GetClearVlmError" name="MW_GetClearVlmError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating a supply voltage trigger error detected by the Voltage Level Mon..." alt="" coords="212,5,373,33"/>
+<area shape="rect" id="Node000002" href="$group__interrupt__tasks.html#ga6eb6023e6ccae51e6d9a3829f4294af6" title="Handles Brown&#45;out Detector (BOD) Voltage Level Monitor (VLM) interrupt by reporting the associated Er..." alt="" coords="5,5,164,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,22,164,22,164,16,196,16"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="MW_ConfigErrorChannels" name="MW_ConfigErrorChannels">
+<area shape="rect" id="Node000001" title="Sets the error controller timeout duration and configures all error channels with the provided settin..." alt="" coords="189,5,370,33"/>
+<area shape="rect" id="Node000002" href="$group__startup__tasks.html#ga848edafab1beb0082dcc070575cc411a" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="5,5,141,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,22,141,22,141,16,173,16"/>
+</map>

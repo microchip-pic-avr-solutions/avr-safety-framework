@@ -1,0 +1,5 @@
+<map id="MW_ClearSwdtErrors" name="MW_ClearSwdtErrors">
+<area shape="rect" id="Node000001" title="Clears all the error interrupt flags in the Synchronous Watchdog Timer (SWDT)." alt="" coords="5,5,157,33"/>
+<area shape="rect" id="Node000002" href="$group__swdt.html#ga183660a2ee171024040cfc7e3d1e00de" title="Overwrites the INTFLAGS register value." alt="" coords="205,5,353,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,16,189,16,189,22,157,22"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="ERRCTRL_ReadConfigRam2" name="ERRCTRL_ReadConfigRam2">
+<area shape="rect" id="Node000001" title="Reads the ESCRAM2 register value." alt="" coords="180,5,369,33"/>
+<area shape="rect" id="Node000002" href="$group__memory__manager.html#ga65d1ed209ac5e5010e929fcfd0f5e5ee" title="This function performs error injection diagnostic to detect faults in the redundant RAMCTRL ECC check..." alt="" coords="5,5,132,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,22,132,22,132,16,164,16"/>
+</map>

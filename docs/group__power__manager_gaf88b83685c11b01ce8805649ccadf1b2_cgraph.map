@@ -1,0 +1,7 @@
+<map id="MW_GetClearVmonDisabledError" name="MW_GetClearVmonDisabledError">
+<area shape="rect" id="Node000001" title="Reads and clears the flag indicating a disabled Voltage Monitor error." alt="" coords="5,32,231,60"/>
+<area shape="rect" id="Node000002" href="$group__slpctrl.html#gafa9212c4a3a2bfb57253eff18ed228b9" title="Reads the INTFLAGS register value." alt="" coords="280,5,442,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,31,264,27,265,32,232,36"/>
+<area shape="rect" id="Node000003" href="$group__slpctrl.html#ga6561e59c74228d99af2d0510c18e7dab" title="Overwrites the INTFLAGS register value." alt="" coords="279,57,444,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,55,263,58,263,64,231,60"/>
+</map>

@@ -1,0 +1,876 @@
+{
+    "_meta": {
+        "schema_version": "1.0",
+        "timestamp": "2026-10-23T14:02:59Z",
+        "purpose": "Build record showing how each generated release artifact was generated (tools, versions, commands and relevant configurations). Provided for customer transparency.",
+        "note": "This file is auto-generated."
+    },
+    "release": {
+        "product": "AVR SD Safety Framework",
+        "version": "1.0.0",
+        "date": "2026-10-23",
+        "package_tiers": {
+            "free_public": "Artifacts included in the free, public release",
+            "free_private": "Artifacts included in the free, private release (includes free_public artifacts)",
+            "paid": "Artifacts included in the paid release (includes free_public and free_private artifacts)"
+        },
+        "artifacts_note": "Each artifact is listed once, under its first applicable tier (its 'package_tiers' field lists all tiers it is actually included in). Only what affects the data is documented; pure layout/formatting steps are not."
+    },
+    "tools": [
+        {
+            "name": "Black Duck Hub",
+            "versions": [
+                "2026.7.0"
+            ]
+        },
+        {
+            "name": "Coverity",
+            "versions": [
+                "2025.12.0"
+            ]
+        },
+        {
+            "name": "WeasyPrint",
+            "versions": [
+                "52.5"
+            ]
+        },
+        {
+            "name": "ceedling",
+            "versions": [
+                "0.31.1"
+            ]
+        },
+        {
+            "name": "clang-format",
+            "versions": [
+                "Debian clang-format version 16.0.6"
+            ]
+        },
+        {
+            "name": "clang-tidy",
+            "versions": [
+                "Debian LLVM version 16.0.6"
+            ]
+        },
+        {
+            "name": "cppcheck",
+            "versions": [
+                "Cppcheck Premium 26.3.0"
+            ]
+        },
+        {
+            "name": "doxygen",
+            "versions": [
+                "1.17.0"
+            ]
+        },
+        {
+            "name": "lizard",
+            "versions": [
+                "1.17.10"
+            ]
+        },
+        {
+            "name": "mcdc_checker",
+            "versions": [
+                "1.3.1"
+            ]
+        },
+        {
+            "name": "sed",
+            "versions": [
+                "sed (GNU sed) 4.8"
+            ]
+        },
+        {
+            "name": "sha256sum",
+            "versions": [
+                "sha256sum (GNU coreutils) 8.32"
+            ]
+        },
+        {
+            "name": "unifdef",
+            "versions": [
+                "2.12-1"
+            ]
+        },
+        {
+            "name": "xc8-cc",
+            "versions": [
+                "Microchip MPLAB XC8 Functional Safety C Compiler V3.19. Build date: Feb 12 2026. Copyright (C) 2026 Microchip Technology Inc."
+            ]
+        }
+    ],
+    "artifacts": {
+        "free_public": [
+            {
+                "package_tiers": [
+                    "free_public"
+                ],
+                "path": "api_documentation.html, docs/",
+                "name": "API documentation (free_public)",
+                "note": "The API documentation is generated with the settings defined in the configuration file (see the configuration field for relevant non-default settings used). Includes documentation only, no source or test files. docs/ contains the generated doxygen output, api_documentation.html redirects to docs/index.html.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "doxygen <config_file>",
+                            "configuration": [
+                                "PROJECT_NAME = \"AVR SD Safety Framework\"",
+                                "PROJECT_NUMBER = 1.0.0",
+                                "PROJECT_LOGO = doxygen/Microchip_logo.png",
+                                "FULL_PATH_NAMES = NO",
+                                "STRIP_FROM_PATH = source_files/processed/",
+                                "OPTIMIZE_OUTPUT_FOR_C = YES",
+                                "TOC_INCLUDE_HEADINGS = 2",
+                                "EXTRACT_LOCAL_CLASSES = NO",
+                                "RESOLVE_UNNAMED_PARAMS = NO",
+                                "HIDE_UNDOC_NAMESPACES = NO",
+                                "CASE_SENSE_NAMES = YES",
+                                "HIDE_SCOPE_NAMES = YES",
+                                "LAYOUT_FILE = doxygen/DoxygenLayout.xml",
+                                "WARN_NO_PARAMDOC = YES",
+                                "WARN_IF_UNDOC_ENUM_VAL = YES",
+                                "INPUT = doxygen source_files/processed/src",
+                                "RECURSIVE = YES",
+                                "IMAGE_PATH = uml_diagrams/",
+                                "VERBATIM_HEADERS = NO",
+                                "HTML_COLORSTYLE = TOGGLE",
+                                "HTML_DYNAMIC_SECTIONS = YES",
+                                "MACRO_EXPANSION = YES",
+                                "EXPAND_ONLY_PREDEF = YES",
+                                "PREDEFINED = __DOXYGEN__ \"ISR(x)= ISR_##x()\" INIT3_SECTION=",
+                                "ALLEXTERNALS = YES",
+                                "HAVE_DOT = YES",
+                                "CALL_GRAPH = YES",
+                                "CALLER_GRAPH = YES",
+                                "DOT_IMAGE_FORMAT = svg",
+                                "INTERACTIVE_SVG = YES",
+                                "MAX_DOT_GRAPH_DEPTH = 1",
+                                "ENUM_VALUES_PER_LINE   = 0",
+                                "ALWAYS_DETAILED_SEC    = YES"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "doxygen",
+                            "version": "1.17.0"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "free_public",
+                    "free_private",
+                    "paid"
+                ],
+                "path": "release_content.sha256",
+                "name": "Release content checksum",
+                "note": "One SHA-256 checksum per eligible file in this package (one line per file), generated separately for each package tier. Free-tier READMEs and Github specific files do not have checksums generated in order to allow modification after they have been published. They are thus not found in release_content.sha256. Text files (per .gitattributes) have their line endings normalized to LF first, so the checksum is stable regardless of the checkout/OS settings used to produce this package - binary files and CRLF-required files (e.g. .bat/.cmd) are left untouched.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "sed",
+                            "configuration": [
+                                "-i 's/\\r$// <file>' (run once per text file, to strip trailing carriage returns in place before hashing)"
+                            ]
+                        },
+                        {
+                            "command": "sha256sum",
+                            "configuration": [
+                                "<file> (run once for every eligible file in this package, excluding release_content.sha256 itself, any .git directory, and specific files internally flagged as ineligeble; sorted by path for a deterministic checksum-file order)"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "sed",
+                            "version": "sed (GNU sed) 4.8"
+                        },
+                        {
+                            "name": "sha256sum",
+                            "version": "sha256sum (GNU coreutils) 8.32"
+                        }
+                    ]
+                }
+            }
+        ],
+        "free_private": [
+            {
+                "package_tiers": [
+                    "free_private"
+                ],
+                "path": "api_documentation.html, docs/api/",
+                "name": "API documentation (free_private)",
+                "note": "The API documentation is generated with the settings defined in the configuration file (see the configuration field for relevant non-default settings used). Same settings as the free_public tier, but with a browsable, syntax-highlighted copy of the source code included (SOURCE_BROWSER) alongside the documentation. docs/api/ contains the generated doxygen output; api_documentation.html redirects to docs/api/index.html.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "doxygen <config_file>",
+                            "configuration": [
+                                "PROJECT_NAME = \"AVR SD Safety Framework\"",
+                                "PROJECT_NUMBER = 1.0.0",
+                                "PROJECT_LOGO = doxygen/Microchip_logo.png",
+                                "FULL_PATH_NAMES = NO",
+                                "STRIP_FROM_PATH = source_files/processed/",
+                                "OPTIMIZE_OUTPUT_FOR_C = YES",
+                                "TOC_INCLUDE_HEADINGS = 2",
+                                "EXTRACT_LOCAL_CLASSES = NO",
+                                "RESOLVE_UNNAMED_PARAMS = NO",
+                                "HIDE_UNDOC_NAMESPACES = NO",
+                                "CASE_SENSE_NAMES = YES",
+                                "HIDE_SCOPE_NAMES = YES",
+                                "LAYOUT_FILE = doxygen/DoxygenLayout.xml",
+                                "WARN_NO_PARAMDOC = YES",
+                                "WARN_IF_UNDOC_ENUM_VAL = YES",
+                                "INPUT = doxygen source_files/processed/src",
+                                "RECURSIVE = YES",
+                                "IMAGE_PATH = uml_diagrams/",
+                                "SOURCE_BROWSER = YES",
+                                "HTML_COLORSTYLE = TOGGLE",
+                                "HTML_DYNAMIC_SECTIONS = YES",
+                                "MACRO_EXPANSION = YES",
+                                "EXPAND_ONLY_PREDEF = YES",
+                                "PREDEFINED = __DOXYGEN__ \"ISR(x)= ISR_##x()\" INIT3_SECTION=",
+                                "ALLEXTERNALS = YES",
+                                "HAVE_DOT = YES",
+                                "CALL_GRAPH = YES",
+                                "CALLER_GRAPH = YES",
+                                "DOT_IMAGE_FORMAT = svg",
+                                "INTERACTIVE_SVG = YES",
+                                "MAX_DOT_GRAPH_DEPTH = 1",
+                                "ENUM_VALUES_PER_LINE   = 0",
+                                "ALWAYS_DETAILED_SEC    = YES"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "doxygen",
+                            "version": "1.17.0"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "free_private",
+                    "paid"
+                ],
+                "path": "src/",
+                "name": "Source code",
+                "note": "Test-related code (#ifdef TEST blocks) is stripped from each .c/.h file in src/ by running the unifdef command once per file. Every .c/.h file except main_example.c/.h and configuration_validator.c is then reformatted with clang-format, using tools/clang/.clang-format as config file.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "unifdef",
+                            "configuration": [
+                                "-UTEST",
+                                "<file>"
+                            ]
+                        },
+                        {
+                            "command": "clang-format",
+                            "configuration": [
+                                "<files> (separated by ' ')",
+                                "-i"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "unifdef",
+                            "version": "2.12-1"
+                        },
+                        {
+                            "name": "clang-format",
+                            "version": "Debian clang-format version 16.0.6"
+                        }
+                    ]
+                }
+            }
+        ],
+        "paid": [
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "api_documentation.html, docs/api/",
+                "name": "API documentation (paid)",
+                "note": "The API documentation is generated with the settings defined in the configuration file (see the configuration field for relevant non-default settings used). Same settings as the free_private tier, but also including the unit test source code for reference (INPUT/INCLUDE_PATH). docs/api/ contains the generated doxygen output; api_documentation.html redirects to docs/api/index.html.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "doxygen <config_file>",
+                            "configuration": [
+                                "PROJECT_NAME = \"AVR SD Safety Framework\"",
+                                "PROJECT_NUMBER = 1.0.0",
+                                "PROJECT_LOGO = doxygen/Microchip_logo.png",
+                                "FULL_PATH_NAMES = NO",
+                                "STRIP_FROM_PATH = source_files/sorted/",
+                                "OPTIMIZE_OUTPUT_FOR_C = YES",
+                                "TOC_INCLUDE_HEADINGS = 2",
+                                "EXTRACT_LOCAL_CLASSES = NO",
+                                "RESOLVE_UNNAMED_PARAMS = NO",
+                                "HIDE_UNDOC_NAMESPACES = NO",
+                                "CASE_SENSE_NAMES = YES",
+                                "HIDE_SCOPE_NAMES = YES",
+                                "LAYOUT_FILE = doxygen/DoxygenLayout.xml",
+                                "WARN_NO_PARAMDOC = YES",
+                                "WARN_IF_UNDOC_ENUM_VAL = YES",
+                                "INPUT = doxygen source_files/sorted/src test",
+                                "RECURSIVE = YES",
+                                "IMAGE_PATH = uml_diagrams/",
+                                "SOURCE_BROWSER = YES",
+                                "HTML_COLORSTYLE = TOGGLE",
+                                "HTML_DYNAMIC_SECTIONS = YES",
+                                "MACRO_EXPANSION = YES",
+                                "EXPAND_ONLY_PREDEF = YES",
+                                "INCLUDE_PATH = test/support",
+                                "PREDEFINED = __DOXYGEN__ \"ISR(x)= ISR_##x()\" INIT3_SECTION=",
+                                "ALLEXTERNALS = YES",
+                                "HAVE_DOT = YES",
+                                "CALL_GRAPH = YES",
+                                "CALLER_GRAPH = YES",
+                                "DOT_IMAGE_FORMAT = svg",
+                                "INTERACTIVE_SVG = YES",
+                                "MAX_DOT_GRAPH_DEPTH = 1",
+                                "ENUM_VALUES_PER_LINE   = 0",
+                                "ALWAYS_DETAILED_SEC    = YES"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "doxygen",
+                            "version": "1.17.0"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/clang/clang_format_result.log",
+                "name": "Clang format result",
+                "note": "Verifies that every .c/.h file in src/ (excluding main_example.c/.h and configuration_validator.c) is fully clang-format-compliant after formatting the source files, using tools/clang/.clang-format as config file.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "clang-format",
+                            "configuration": [
+                                "<files> (separated by ' ')",
+                                "--Werror",
+                                "--dry-run"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "clang-format",
+                            "version": "Debian clang-format version 16.0.6"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/clang/clang_tidy_result.log",
+                "name": "Clang tidy result",
+                "note": "Static analysis applied once against every .c/.h file in src/ together (excluding main_example.c/.h and configuration_validator.c), using tools/clang/.clang-tidy as config file.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "clang-tidy",
+                            "configuration": [
+                                "<files> (separated by ' ')",
+                                "--warnings-as-errors=*",
+                                "-D'_SFR_MEM8(x)=(*(volatile uint8_t*)(x))' (AVR special function register access macro)",
+                                "-D'_SFR_MEM16(x)=(*(volatile uint16_t*)(x))' (AVR special function register access macro)",
+                                "-I<src subfolders>",
+                                "-I<mocked XC8 library path>",
+                                "-I<real DFP device header path>"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "clang-tidy",
+                            "version": "Debian LLVM version 16.0.6"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/coverity/coverity_report.html, reports/coverity/assets/, reports/coverity/coverity_summary.html, reports/coverity/his_metrics_report.html, reports/coverity/his_metrics_result.csv",
+                "name": "Coverity report and summary (HTML), HIS metrics result and report",
+                "note": "Static analysis of every .c file in src/ (excluding files ending in _example.c and configuration_validator.c) with Coverity: cov-build compiles the source for analysis, then cov-analyze runs against it using the MISRA C:2025 ruleset (2 documented rule deviations - Rule 17.11 not applicable to C99, Rule 15.5 Disapplied in MISRA C:2025), ~51 additional individually-enabled checkers, and a separate MISRA C:2023 ruleset with every rule suppressed, used only as a workaround to get Coverity to emit HIS metrics (a tool limitation - HIS metrics can only be generated alongside a MISRA C:2023 analysis in this version of Coverity). Defects are committed to the Coverity server then formatted into coverity_report.html. Its defect-detail folder is renamed to assets/, and its defect table is further populated with triage comment/external reference columns from a preview report. coverity_summary.html is a summary of the same analysis. his_metrics_report.html/his_metrics_result.csv are HIS (Hersteller Initiative Software) code metrics, produced by the same cov-analyze run; his_metrics_result.csv is a reformatted copy of cov-analyze's own raw, semicolon-delimited metrics output.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "cov-build",
+                            "configuration": [
+                                "--emit-complementary-info",
+                                "--dir <build intermediate output directory>",
+                                "-c coverity_output/compiler_config.xml",
+                                "<a shell script running xc8-cc once per .c file in src/>"
+                            ]
+                        },
+                        {
+                            "command": "cov-analyze",
+                            "configuration": [
+                                "--dir <build intermediate output directory>",
+                                "-c coverity_output/compiler_config.xml",
+                                "-en MISRA_CAST",
+                                "--enable ARRAY_VS_SINGLETON, ATOMICITY, AUTO_CAUSES_COPY, BAD_COMPARE, BAD_SHIFT, BAD_SIZEOF, COPY_PASTE_ERROR, DIVIDE_BY_ZERO, ENUM_AS_BOOLEAN, EVALUATION_ORDER, FLOATING_POINT_EQUALITY, FORMAT_STRING_INJECTION, FORWARD_NULL, HFA, IDENTICAL_BRANCHES, INCOMPATIBLE_CAST, INFINITE_LOOP, INTEGER_OVERFLOW, MISSING_BREAK, MISSING_COMMA, MISSING_RETURN, MIXED_ENUMS, NEGATIVE_RETURNS, NESTING_INDENT_MISMATCH, NO_EFFECT, NULL_RETURNS, ODR_VIOLATION, OVERFLOW_BEFORE_WIDEN, OVERRUN, PARSE_ERROR, PASS_BY_VALUE, POINTER_NONDETERMINISM, PRECEDENCE_ERROR, RETURN_LOCAL, REVERSE_NEGATIVE, REVERSE_INULL, REVERSE_OVERRUN, SIGN_EXTENSION, SIZEOF_MISMATCH, STRAY_SEMICOLON, SWAPPED_ARGUMENTS, TAINTED_SCALAR, UNEXPECTED_CONTROL_FLOW, UNINIT, UNINTENDED_INTEGER_DIVISION, UNREACHABLE, UNUSED_VALUE, USELESS_CALL, VARARGS, WRAPPER_ESCAPE, WRITE_CONST_FIELD (via @@enable-checkers.txt)",
+                                "--coding-standard-config misrac2023-suppressed-his.config (all misra C:2023 rules disabled, HIS metrics enabled, with the COMF and CALLING policies' compliant threshold set to 0, overriding the tool default)",
+                                "--coding-standard-config misrac2025-nohis-integration.config (all misra C:2025 rules except 17.11 and 15.5)",
+                                "--concurrency",
+                                "--security",
+                                "--rule",
+                                "--enable-spotbugs"
+                            ]
+                        },
+                        {
+                            "command": "cov-commit-defects",
+                            "configuration": [
+                                "--dir <build intermediate output directory>",
+                                "-c coverity_output/compiler_config.xml",
+                                "--url <Coverity server URL>",
+                                "--stream <stream name>",
+                                "--include-files <src/ path>",
+                                "--preview-report-v3 Coverity/initial_report.json"
+                            ]
+                        },
+                        {
+                            "command": "cov-format-errors",
+                            "configuration": [
+                                "--include-files <src/ path>",
+                                "--preview-report Coverity/initial_report.json",
+                                "--no-default-triage-filters",
+                                "--strip-path <workspace src/ path> (show paths in the report relative to src/)",
+                                "--dir <build intermediate output directory>",
+                                "--html-output Coverity/release_report_input"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "Coverity",
+                            "version": "2025.12.0"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/coverity/coverity_summary.pdf",
+                "name": "Coverity summary (PDF)",
+                "note": "PDF converted from reports/coverity/coverity_summary.html, using a custom script with the WeasyPrint Python library.",
+                "generated_with": {
+                    "commands": [],
+                    "tools": [
+                        {
+                            "name": "WeasyPrint",
+                            "version": "52.5"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/cppcheck/cppcheck_misra_compliance_report.html",
+                "name": "Cppcheck MISRA compliance report (HTML)",
+                "note": "MISRA C:2025 compliance report generated by compliance-report from cppcheck.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "compliance-report",
+                            "configuration": [
+                                "--misra-c-2025",
+                                "--project-name=\"AVR SD Safety Framework\"",
+                                "--project-version=\"1.0.0\"",
+                                "--output-file=reports/cppcheck/cppcheck_misra_compliance_report.html",
+                                "reports/cppcheck/cppcheck_result.xml"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "cppcheck",
+                            "version": "Cppcheck Premium 26.3.0"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/cppcheck/cppcheck_misra_compliance_report.pdf",
+                "name": "Cppcheck MISRA compliance report (PDF)",
+                "note": "PDF converted from reports/cppcheck/cppcheck_misra_compliance_report.html, using a custom script with the WeasyPrint Python library.",
+                "generated_with": {
+                    "commands": [],
+                    "tools": [
+                        {
+                            "name": "WeasyPrint",
+                            "version": "52.5"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/cppcheck/cppcheck_report.html, reports/cppcheck/assets/",
+                "name": "Cppcheck report",
+                "note": "Same static analysis as \"Cppcheck result and checkers report\", but re-run without the cppcheck_suppressions.xml suppression list, so this report shows every finding. cppcheck-htmlreport then turns that XML output into a browsable HTML report: cppcheck_report.html redirects to assets/index.html.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "cppcheck",
+                            "configuration": [
+                                "--premium=misra-c-2025",
+                                "--enable=style",
+                                "--platform=avr8",
+                                "--std=c99",
+                                "--xml-version=3",
+                                "--suppress=knownConditionTrueFalse (a known false-positive on overflow checks)",
+                                "--suppress=premium-misra-c-2025-15.5 (Rule 15.5 is Disapplied in MISRA C:2025)",
+                                "-UTEST",
+                                "-Isrc",
+                                "-I<required_include_paths>",
+                                "--file-list=<file listing every .c file to analyze>",
+                                "2> reports/cppcheck/cppcheck_result_no_suppression.xml"
+                            ]
+                        },
+                        {
+                            "command": "cppcheck-htmlreport",
+                            "configuration": [
+                                "--file=reports/cppcheck/cppcheck_result_no_suppression.xml",
+                                "--report-dir=reports/cppcheck/assets",
+                                "--source-dir=."
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "cppcheck",
+                            "version": "Cppcheck Premium 26.3.0"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/cppcheck/cppcheck_result.xml, reports/cppcheck/cppcheck_checkers_report.txt",
+                "name": "Cppcheck result and checkers report",
+                "note": "Static analysis with Cppcheck Premium of every .c file in src/ (excluding files ending in _example.c and configuration_validator.c), using reports/cppcheck/cppcheck_suppressions.xml as the suppression list. cppcheck_result.xml is the tool's raw XML output (also used to generate reports/cppcheck/cppcheck_misra_compliance_report.html); cppcheck_checkers_report.txt lists every checker that was active during this run.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "cppcheck",
+                            "configuration": [
+                                "--premium=misra-c-2025",
+                                "--enable=style",
+                                "--platform=avr8",
+                                "--std=c99",
+                                "--xml-version=3",
+                                "--suppress-xml=cppcheck_suppressions.xml",
+                                "--suppress=knownConditionTrueFalse (a known false-positive on overflow checks)",
+                                "--suppress=premium-misra-c-2025-15.5 (Rule 15.5 is Disapplied in MISRA C:2025)",
+                                "--checkers-report=reports/cppcheck/cppcheck_checkers_report.txt",
+                                "-UTEST",
+                                "-Isrc",
+                                "-I<required_include_paths>",
+                                "--file-list=<file listing every .c file to analyze>",
+                                "2> reports/cppcheck/cppcheck_result.xml"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "cppcheck",
+                            "version": "Cppcheck Premium 26.3.0"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/lizard/lizard_complexity_result.xml",
+                "name": "Lizard complexity result",
+                "note": "Cyclomatic complexity metrics of the Safety Framework .c/.h source files, without threshold filtering.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "lizard",
+                            "configuration": [
+                                "src",
+                                "-o reports/lizard/lizard_complexity_result.xml"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "lizard",
+                            "version": "1.17.10"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/lizard/lizard_report.html",
+                "name": "Lizard report (HTML)",
+                "note": "Cyclomatic complexity and code metrics analysis of the Safety Framework .c source files (headers excluded), against configured thresholds.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "lizard",
+                            "configuration": [
+                                "src",
+                                "-x \"*.h\"",
+                                "-C 10",
+                                "-L 50",
+                                "-a 4",
+                                "-Ttoken_count=175",
+                                "-Tnloc=30",
+                                "-o reports/lizard/lizard_report.html"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "lizard",
+                            "version": "1.17.10"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/lizard/lizard_report.pdf",
+                "name": "Lizard report (PDF)",
+                "note": "PDF converted from reports/lizard/lizard_report.html, using a custom script with the WeasyPrint Python library.",
+                "generated_with": {
+                    "commands": [],
+                    "tools": [
+                        {
+                            "name": "WeasyPrint",
+                            "version": "52.5"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/mcdc_checker/mcdc_checker_result.json, reports/mcdc_checker/mcdc_checker_result.log",
+                "name": "MC/DC checker result",
+                "note": "MC/DC analysis applied to each .c/.h file in src/, excluding main_example.c/.h and configuration_validator.c. mcdc_checker_result.json is written directly by mcdc_checker (--json-output). mcdc_checker_result.log is a transcript of that same run: the exact mcdc_checker command executed (echoed first), the tool's combined stdout/stderr output (2>&1 | tee \"../reports/mcdc_checker/mcdc_checker_result.log\"), and two completion lines confirming where the JSON report and log were written (<completion_line> | tee -a \"../reports/mcdc_checker/mcdc_checker_result.log\").",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "mcdc_checker",
+                            "configuration": [
+                                "-I.",
+                                "-I<required_include_paths>",
+                                "--all",
+                                "--json-output ../reports/mcdc_checker/mcdc_checker_result.json"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "mcdc_checker",
+                            "version": "1.3.1"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/sbom/blackduck_sbom.json",
+                "name": "SBOM",
+                "note": "SBOM (Software Bill of Materials) generated with Black Duck Hub, from combining the results of a code snippet scan of src/ and a binary analysis (BDBA) of the compiled output, covering third-party components and their licenses.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "Black Duck Hub",
+                            "configuration": [
+                                "--projectName avr8-sf-release-package",
+                                "--version 1.0.0",
+                                "--inputJson sbom/BlackduckScanInput.json (contains the code snippet scan input path)",
+                                "--scanType blackduck (code snippet scan of src/)"
+                            ]
+                        },
+                        {
+                            "command": "Black Duck Hub",
+                            "configuration": [
+                                "--projectName avr8-sf-release-package",
+                                "--version 1.0.0",
+                                "--inputJson sbom/BlackduckScanInput.json (contains the binary analysis input path)",
+                                "--scanType bdba (binary analysis of the compiled output)"
+                            ]
+                        },
+                        {
+                            "command": "Black Duck Hub",
+                            "configuration": [
+                                "--repo avr8-sf-release-package",
+                                "--version 1.0.0",
+                                "--sbom (generates the SBOM output from the combined scan results)"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "Black Duck Hub",
+                            "version": "2026.7.0"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/unit_tests/code_coverage/code_coverage_report.html, reports/unit_tests/code_coverage/assets/",
+                "name": "Unit test code coverage report",
+                "note": "GCC code coverage of the source files, measured by running its unit tests, with the HTML output renamed and moved into assets/ and the Microchip logo added. Ceedling is run with a standard project.yml file (with settings listed in the configuration field).",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "ceedling gcov:all utils:gcov",
+                            "configuration": [
+                                "paths: pointing to src code, test code and the DFP",
+                                "defines: TEST and __AVR_DEV_LIB_NAME__=avr32sd32",
+                                "cmock plugins: ignore, callback, ignore_arg, expect_any_args, return_thru_ptr",
+                                "gcov: use -b and gcovr",
+                                "gcovr: detailed html report with medium threshold 95 and high threshold 100",
+                                "flags: -std=c99, gcov compile with -O0",
+                                "plugins: gcov"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "ceedling",
+                            "version": "0.31.1"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/unit_tests/code_coverage/code_coverage_summary.pdf",
+                "name": "Unit test code coverage summary (PDF)",
+                "note": "PDF converted from reports/unit_tests/code_coverage/assets/gcov_report.html, using a custom script with the WeasyPrint Python library.",
+                "generated_with": {
+                    "commands": [],
+                    "tools": [
+                        {
+                            "name": "WeasyPrint",
+                            "version": "52.5"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/unit_tests/test_results/test_report.html, reports/unit_tests/test_results/assets/",
+                "name": "Unit test report",
+                "note": "Per-test pass/fail results for the unit tests run to produce \"Unit test code coverage report\" - see that entry for how the Ceedling project is set up. Two Ceedling plugins (xml_tests_report, junit_tests_report) are enabled to produce report.xml and report_junit.xml, which are used as input and cross-referenced in a script using the xml and html Python standard libraries to generate the HTML output.",
+                "generated_with": {
+                    "commands": [],
+                    "tools": []
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/unit_tests/test_results/test_result_summary.pdf",
+                "name": "Unit test result summary (PDF)",
+                "note": "PDF converted from reports/unit_tests/test_results/assets/index.html, using a custom script with the WeasyPrint Python library.",
+                "generated_with": {
+                    "commands": [],
+                    "tools": [
+                        {
+                            "name": "WeasyPrint",
+                            "version": "52.5"
+                        }
+                    ]
+                }
+            },
+            {
+                "package_tiers": [
+                    "paid"
+                ],
+                "path": "reports/xc8/xc8_diagnostics_result.log",
+                "name": "XC8 diagnostics result",
+                "note": "Compiles every .c/.S file in src/ individually, once per optimization level. .h files are not compiled separately, but are included into a .c file's translation unit via #include. main_example.c and configuration_validator.c are compiled with less strict flags and not included in xc8_diagnostics_result.log.",
+                "generated_with": {
+                    "commands": [
+                        {
+                            "command": "xc8-cc",
+                            "configuration": [
+                                "-mcpu=<device>",
+                                "-D__<device>__",
+                                "-mdfp=<DFP path> (device family pack, provides device-specific register/memory definitions)",
+                                "-c",
+                                "-x <language> (\"c\" for .c files, \"assembler-with-cpp\" for .S files)",
+                                "-O<level> (optimization level - once per level: O0, O1, O2, O3, Os)",
+                                "-std=c99",
+                                "-Wall",
+                                "-Wextra",
+                                "-Werror",
+                                "-Wundef",
+                                "-pedantic",
+                                "-D__XC_STRICT_MISRA (enables the compiler's stricter MISRA-aligned diagnostics)",
+                                "-I<src subfolders>",
+                                "-o <object file>",
+                                "<file>"
+                            ]
+                        }
+                    ],
+                    "tools": [
+                        {
+                            "name": "xc8-cc",
+                            "version": "Microchip MPLAB XC8 Functional Safety C Compiler V3.19. Build date: Feb 12 2026. Copyright (C) 2026 Microchip Technology Inc."
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

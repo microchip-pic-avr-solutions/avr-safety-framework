@@ -1,0 +1,29 @@
+<map id="T_RunStartupDiagnostics" name="T_RunStartupDiagnostics">
+<area shape="rect" id="Node000001" title="Runs all enabled startup diagnostics and reports any detected faults to the Error Handler." alt="" coords="5,261,178,289"/>
+<area shape="rect" id="Node000002" href="$group__error__handler.html#ga73765998f24e3760a5b8a9212a653b31" title="Handles error based on configured Error ID criticality if the error flag is set." alt="" coords="468,417,589,445"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,260,105,215,130,153,147,120,169,89,194,61,224,39,277,13,301,6,325,3,348,4,372,11,396,22,422,40,443,65,462,104,478,152,492,206,514,316,526,401,521,402,509,317,487,208,473,154,457,106,439,68,418,43,394,27,370,16,348,10,325,8,302,11,279,18,227,44,198,65,173,92,152,123,135,155,111,217,98,262"/>
+<area shape="rect" id="Node000023" href="$group__power__manager.html#gaaa0b58f241470e5d172c620d106554f2" title="Starts error injection diagnostic to detect faults in the VMON overvoltage detector." alt="" coords="234,53,412,81"/>
+<area shape="poly" id="edge2_Node000001_Node000023" title=" " alt="" coords="97,259,114,225,142,180,179,132,224,91,234,85,236,90,227,96,183,136,146,183,119,228,102,262"/>
+<area shape="rect" id="Node000024" href="$group__power__manager.html#ga1f43e0cb407e0e83881aa257b1dbc820" title="Completes error injection diagnostic to detect faults in the VMON overvoltage detector." alt="" coords="239,105,406,133"/>
+<area shape="poly" id="edge3_Node000001_Node000024" title=" " alt="" coords="102,259,150,203,185,171,224,143,238,136,240,141,227,148,189,175,154,206,106,262"/>
+<area shape="rect" id="Node000025" href="$group__power__manager.html#ga093b951980d99df08f9fb7ebf38f140a" title="Starts error injection diagnostic to detect faults in the VMON undervoltage detector." alt="" coords="230,157,416,185"/>
+<area shape="poly" id="edge4_Node000001_Node000025" title=" " alt="" coords="112,258,162,227,225,195,245,187,247,192,227,200,165,232,115,263"/>
+<area shape="rect" id="Node000026" href="$group__power__manager.html#ga63dd5e20d4a744160f74d8504e5f135f" title="Completes error injection diagnostic to detect faults in the VMON undervoltage detector." alt="" coords="235,209,411,237"/>
+<area shape="poly" id="edge5_Node000001_Node000026" title=" " alt="" coords="156,258,242,238,243,243,157,263"/>
+<area shape="rect" id="Node000027" href="$group__power__manager.html#ga768b163e2d0e650ff066fe2a6b906639" title="Checks if the VMON overvoltage error injection has been completed." alt="" coords="230,261,416,289"/>
+<area shape="poly" id="edge6_Node000001_Node000027" title=" " alt="" coords="178,272,215,272,215,278,178,278"/>
+<area shape="rect" id="Node000028" href="$group__power__manager.html#gaca1d92331a809951ea5aa34813ba49f6" title="Checks if the VMON undervoltage error injection has been completed." alt="" coords="226,313,420,341"/>
+<area shape="poly" id="edge7_Node000001_Node000028" title=" " alt="" coords="157,287,243,306,242,312,156,292"/>
+<area shape="rect" id="Node000029" href="$group__startup__tasks.html#gabbcfa89184ff1b231ca026f653fc920a" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="248,365,398,393"/>
+<area shape="poly" id="edge8_Node000001_Node000029" title=" " alt="" coords="115,287,165,318,227,350,247,357,245,362,225,355,162,323,112,291"/>
+<area shape="rect" id="Node000040" href="$group__startup__tasks.html#gab1a357e6b8b152415e328bcd825d7f39" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="255,417,390,445"/>
+<area shape="poly" id="edge10_Node000001_Node000040" title=" " alt="" coords="106,288,154,343,189,375,227,402,242,409,240,414,224,406,185,379,150,347,102,291"/>
+<area shape="rect" id="Node000052" href="$group__startup__tasks.html#ga417ff18972aee9a35af1825851eaccfc" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="241,469,404,497"/>
+<area shape="poly" id="edge12_Node000001_Node000052" title=" " alt="" coords="102,288,119,322,146,367,183,414,227,454,236,460,234,464,224,458,179,418,142,370,114,325,97,290"/>
+<area shape="rect" id="Node000061" href="$group__startup__tasks.html#ga17b1ec3c869cec62261da62811778c3c" title="Private function, only exposed for unit testing and should not be called directly." alt="" coords="248,521,398,549"/>
+<area shape="poly" id="edge14_Node000001_Node000061" title=" " alt="" coords="99,288,113,331,139,390,177,453,200,481,227,506,236,512,233,516,224,510,197,485,172,456,134,392,108,333,94,290"/>
+<area shape="poly" id="edge9_Node000029_Node000002" title=" " alt="" coords="381,391,457,410,455,415,380,396"/>
+<area shape="poly" id="edge11_Node000040_Node000002" title=" " alt="" coords="391,428,452,428,452,434,391,434"/>
+<area shape="poly" id="edge13_Node000052_Node000002" title=" " alt="" coords="380,466,455,446,457,452,381,471"/>
+<area shape="poly" id="edge15_Node000061_Node000002" title=" " alt="" coords="387,518,419,506,462,480,498,453,501,457,465,485,421,511,389,523"/>
+</map>

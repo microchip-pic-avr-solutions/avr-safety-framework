@@ -1,0 +1,5 @@
+<map id="T_StartMissionMode" name="T_StartMissionMode">
+<area shape="rect" id="Node000001" title="Transitions the device from Safe State into Mission Mode." alt="" coords="145,5,289,33"/>
+<area shape="rect" id="Node000002" href="$group__startup.html#gaafa77cc706561398012e37761145306f" title="Manages and synchronizes safety system and application startup Tasks." alt="" coords="5,5,97,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,22,97,22,97,16,129,16"/>
+</map>

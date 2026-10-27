@@ -1,0 +1,15 @@
+<map id="CPUCTRL_ClearControlA" name="CPUCTRL_ClearControlA">
+<area shape="rect" id="Node000001" title="Clears specific bits in the CTRLA register." alt="" coords="229,136,402,164"/>
+<area shape="rect" id="Node000002" href="$group__memory__manager.html#ga8c0a7269815dcfd457314af9794dfd9f" title="This function performs error injection diagnostic to detect faults in the NVMCTRL ECC checkers with E..." alt="" coords="5,5,181,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,127,239,87,179,48,150,36,152,31,182,43,242,82,290,123"/>
+<area shape="rect" id="Node000007" href="$group__memory__manager.html#ga6791bb6da541eff4ba61a9af25994ca6" title="This function performs error injection diagnostic to detect faults in the NVMCTRL ECC checkers with F..." alt="" coords="13,57,173,85"/>
+<area shape="poly" id="edge2_Node000001_Node000007" title=" " alt="" coords="264,132,180,100,143,88,144,83,182,95,266,127"/>
+<area shape="rect" id="Node000008" href="$group__memory__manager.html#ga23d47a56f19a800efc681bade9f07431" title="This function performs error injection diagnostic to detect faults in the CPU and NVM bus parity chec..." alt="" coords="22,109,164,137"/>
+<area shape="poly" id="edge3_Node000001_Node000008" title=" " alt="" coords="213,140,164,134,164,129,214,135"/>
+<area shape="rect" id="Node000010" href="$group__memory__manager.html#ga65d1ed209ac5e5010e929fcfd0f5e5ee" title="This function performs error injection diagnostic to detect faults in the redundant RAMCTRL ECC check..." alt="" coords="30,161,156,189"/>
+<area shape="poly" id="edge4_Node000001_Node000010" title=" " alt="" coords="214,164,157,171,156,165,213,159"/>
+<area shape="rect" id="Node000011" href="$group__memory__manager.html#ga77d9492dc32a40e0c873e0b84cc222d7" title="This function performs error injection diagnostic to detect faults in the RAM parity checker triggere..." alt="" coords="23,213,163,241"/>
+<area shape="poly" id="edge5_Node000001_Node000011" title=" " alt="" coords="265,172,182,203,144,215,142,210,180,198,263,167"/>
+<area shape="rect" id="Node000012" href="$group__memory__manager.html#ga32055217e20ee25aa0c9c420a850776c" title="Sets the Stack Pointer Limit value and optionally locks the value to prevent modification." alt="" coords="13,265,173,293"/>
+<area shape="poly" id="edge6_Node000001_Node000012" title=" " alt="" coords="290,176,242,216,182,255,152,267,150,262,179,250,238,212,286,172"/>
+</map>
